@@ -1,0 +1,6 @@
+rank,crop,decision_score,yield_quintals,production_metric_tons,cultivation_cost,historical_market_price,expected_revenue,required_water_litres,disease_risk,weather_risk,risk_score,budget_score,data_coverage,reasons
+1,Gram,65.13,24.0,2.4,52444.42,2544.6,61070.4,1800000.0,30.0,40.0,65.0,66.74,State & Market Extrapolated,"['Strong historical market price and profitability', 'Economical input and cultivation cost', 'Low combined disease and climate vulnerability', 'Excellent drought tolerance and low water consumption']"
+2,Moong,44.81,50.0,5.0,28521.11,2500.0,125000.0,3000000.0,30.0,40.0,65.0,100.0,State & Market Extrapolated,"['Economical input and cultivation cost', 'Low combined disease and climate vulnerability', ""Optimal feasibility within farmer's budget""]"
+3,Urad,41.55,50.0,5.0,41556.07,2500.0,125000.0,3000000.0,30.0,40.0,65.0,84.22,State & Market Extrapolated,"['Economical input and cultivation cost', 'Low combined disease and climate vulnerability', ""Optimal feasibility within farmer's budget""]"
+4,Sugarcane,39.19,640.0,64.0,248367.99,2526.1,1616704.0,13000000.0,75.0,40.0,42.5,14.09,State & Market Extrapolated,['High yield and harvest potential']
+5,Jowar,38.33,50.0,5.0,51878.12,2500.0,125000.0,2400000.0,30.0,40.0,65.0,67.47,State & Market Extrapolated,"['Economical input and cultivation cost', 'Low combined disease and climate vulnerability']"

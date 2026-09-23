@@ -1,0 +1,13 @@
+Kisan Agri Advisory Portal — Farm Advisory Report
+Recommended Crop: Moong
+Suitability Score: 82.0/100
+Date: 2026-09-04 13:21:17
+Location: Tamil Nadu, Pudukkottai (Kharif)
+Land Area: 4.0 acres | Budget: INR 90,000
+
+Top Recommended Crops:
+#1 Moong | Score: 82.0 | Revenue: INR 330,000 | Cost: INR 72,000
+#2 Urad | Score: 82.0 | Revenue: INR 306,600 | Cost: INR 72,000
+#3 Sesamum | Score: 82.0 | Revenue: INR 249,200 | Cost: INR 64,000
+#4 Paddy | Score: 72.83 | Revenue: INR 469,800 | Cost: INR 168,000
+#5 Cotton | Score: 69.56 | Revenue: INR 613,440 | Cost: INR 176,000

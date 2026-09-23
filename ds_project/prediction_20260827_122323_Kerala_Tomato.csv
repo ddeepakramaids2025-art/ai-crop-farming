@@ -1,0 +1,6 @@
+crop,decision_score,yield_quintals,production_metric_tons,cultivation_cost,historical_market_price,expected_revenue,required_water_litres,disease_risk,weather_risk,risk_score,budget_score,data_coverage,reasons,rank
+Tomato,62.0,600.0,60.0,225000.0,1600.0,960000.0,400000.0,35.0,25.0,70.0,13.3,Verified Agricultural Data,"['Optimal match for Whole Year season in Kerala', 'Highly compatible with Red Soil', 'High profit margin (Projected ₹735,000 net profit)']",1
+Paddy,55.34,170.0,17.0,210000.0,2200.0,374000.0,900000.0,35.0,25.0,70.0,13.3,Verified Agricultural Data,['Optimal match for Whole Year season in Kerala'],2
+Sesamum,52.0,32.5,3.25,80000.0,8500.0,276250.0,150000.0,15.0,15.0,85.0,53.3,Verified Agricultural Data,"['Highly compatible with Red Soil', 'High profit margin (Projected ₹196,250 net profit)']",3
+Cotton,49.25,80.0,8.0,225000.0,6800.0,544000.0,475000.0,35.0,25.0,70.0,13.3,Verified Agricultural Data,"['Optimal match for Whole Year season in Kerala', 'Highly compatible with Red Soil', 'High profit margin (Projected ₹319,000 net profit)']",4
+Groundnut,44.0,110.0,11.0,160000.0,5800.0,638000.0,300000.0,25.0,20.0,77.5,13.3,Verified Agricultural Data,"['Highly compatible with Red Soil', 'High profit margin (Projected ₹478,000 net profit)']",5

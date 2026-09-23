@@ -1,0 +1,123 @@
+{
+  "record_id": "prediction_20260904_123515_Tamil_Nadu_Cotton",
+  "timestamp": "2026-09-04 12:35:15",
+  "prediction": {
+    "success": true,
+    "state": "Tamil Nadu",
+    "district": "Pudukkottai",
+    "season": "Whole Year",
+    "soil_type": "Red Soil",
+    "land_acres": 4.5,
+    "budget": 70000.0,
+    "water_litres": 50000.0,
+    "best_crop": "Cotton",
+    "best_score": 69.56,
+    "best_rank": 1,
+    "recommendations": [
+      {
+        "crop": "Cotton",
+        "decision_score": 69.56,
+        "yield_quintals": 97.2,
+        "production_metric_tons": 9.72,
+        "cultivation_cost": 198000.0,
+        "historical_market_price": 7100.0,
+        "expected_revenue": 690120.0,
+        "required_water_litres": 427500.0,
+        "disease_risk": 32.0,
+        "weather_risk": 22.0,
+        "risk_score": 73.0,
+        "budget_score": 13.3,
+        "data_coverage": "Verified Agricultural Data",
+        "reasons": [
+          "Optimal match for Whole Year season in Tamil Nadu",
+          "Highly productive in Red Soil (19% yield boost)",
+          "High profit margin (Projected ₹492,120 net profit)"
+        ],
+        "rank": 1
+      },
+      {
+        "crop": "Maize",
+        "decision_score": 66.2,
+        "yield_quintals": 213.75,
+        "production_metric_tons": 21.38,
+        "cultivation_cost": 126000.0,
+        "historical_market_price": 2200.0,
+        "expected_revenue": 470250.0,
+        "required_water_litres": 315000.0,
+        "disease_risk": 20.0,
+        "weather_risk": 18.0,
+        "risk_score": 81.0,
+        "budget_score": 13.3,
+        "data_coverage": "Verified Agricultural Data",
+        "reasons": [
+          "Optimal match for Whole Year season in Tamil Nadu",
+          "Highly productive in Red Soil (25% yield boost)",
+          "High profit margin (Projected ₹344,250 net profit)"
+        ],
+        "rank": 2
+      },
+      {
+        "crop": "Tomato",
+        "decision_score": 64.0,
+        "yield_quintals": 731.25,
+        "production_metric_tons": 73.12,
+        "cultivation_cost": 207000.0,
+        "historical_market_price": 1750.0,
+        "expected_revenue": 1279687.5,
+        "required_water_litres": 337500.0,
+        "disease_risk": 32.0,
+        "weather_risk": 22.0,
+        "risk_score": 73.0,
+        "budget_score": 13.3,
+        "data_coverage": "Verified Agricultural Data",
+        "reasons": [
+          "Optimal match for Whole Year season in Tamil Nadu",
+          "Highly productive in Red Soil (25% yield boost)",
+          "High profit margin (Projected ₹1,072,688 net profit)"
+        ],
+        "rank": 3
+      },
+      {
+        "crop": "Paddy",
+        "decision_score": 63.19,
+        "yield_quintals": 137.7,
+        "production_metric_tons": 13.77,
+        "cultivation_cost": 189000.0,
+        "historical_market_price": 2250.0,
+        "expected_revenue": 309825.0,
+        "required_water_litres": 810000.0,
+        "disease_risk": 30.0,
+        "weather_risk": 20.0,
+        "risk_score": 75.0,
+        "budget_score": 13.3,
+        "data_coverage": "Verified Agricultural Data",
+        "reasons": [
+          "Optimal match for Whole Year season in Tamil Nadu"
+        ],
+        "rank": 4
+      },
+      {
+        "crop": "Onion",
+        "decision_score": 60.2,
+        "yield_quintals": 491.62,
+        "production_metric_tons": 49.16,
+        "cultivation_cost": 184500.0,
+        "historical_market_price": 1900.0,
+        "expected_revenue": 934078.0,
+        "required_water_litres": 315000.0,
+        "disease_risk": 28.0,
+        "weather_risk": 18.0,
+        "risk_score": 77.0,
+        "budget_score": 13.3,
+        "data_coverage": "Verified Agricultural Data",
+        "reasons": [
+          "Optimal match for Whole Year season in Tamil Nadu",
+          "High profit margin (Projected ₹749,578 net profit)"
+        ],
+        "rank": 5
+      }
+    ],
+    "data_source_mode": "Agro-Climatic Intelligence",
+    "market_price_note": "Verified APMC Mandi Market Prices."
+  }
+}

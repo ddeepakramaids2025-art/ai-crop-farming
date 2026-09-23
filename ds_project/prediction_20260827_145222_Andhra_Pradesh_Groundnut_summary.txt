@@ -1,0 +1,13 @@
+Kisan Agri Advisory Portal — Farm Advisory Report
+Recommended Crop: Groundnut
+Suitability Score: 76.0/100
+Date: 2026-08-27 14:52:22
+Location: Andhra Pradesh, Vizianagaram (Whole Year)
+Land Area: 2.0 acres | Budget: INR 65,000
+
+Top Recommended Crops:
+#1 Groundnut | Score: 76.0 | Revenue: INR 255,200 | Cost: INR 64,000
+#2 Sesamum | Score: 75.0 | Revenue: INR 110,500 | Cost: INR 32,000
+#3 Mustard | Score: 68.0 | Revenue: INR 166,400 | Cost: INR 44,000
+#4 Bajra | Score: 65.93 | Revenue: INR 84,600 | Cost: INR 32,000
+#5 Urad | Score: 64.0 | Revenue: INR 133,000 | Cost: INR 36,000

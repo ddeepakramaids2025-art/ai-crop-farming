@@ -1,0 +1,13 @@
+AI Crop Decision System — Farm Advisory Report
+Best Recommended Crop: Gram
+Decision Score: 61.79/100
+Date: 2026-08-25 13:44:38
+Location: Tamil Nadu, Dharmapuri (Rabi)
+Land Area: 3.0 acres | Pocket Budget: INR 70,000
+
+Top Crop Recommendations:
+#1 Gram | Score: 61.79 | Revenue: INR 91,606 | Cost: INR 52,444
+#2 Moong | Score: 42.08 | Revenue: INR 187,500 | Cost: INR 28,521
+#3 Sugarcane | Score: 38.49 | Revenue: INR 2,425,056 | Cost: INR 248,368
+#4 Urad | Score: 37.34 | Revenue: INR 187,500 | Cost: INR 41,556
+#5 Onion | Score: 36.51 | Revenue: INR 646,887 | Cost: INR 217,701

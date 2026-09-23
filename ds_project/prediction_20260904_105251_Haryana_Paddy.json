@@ -1,0 +1,123 @@
+{
+  "record_id": "prediction_20260904_105251_Haryana_Paddy",
+  "timestamp": "2026-09-04 10:52:51",
+  "prediction": {
+    "success": true,
+    "state": "Haryana",
+    "district": "Ambala",
+    "season": "Whole Year",
+    "soil_type": "Clay Soil",
+    "land_acres": 2.5,
+    "budget": 75000.0,
+    "water_litres": 60000.0,
+    "best_crop": "Paddy",
+    "best_score": 76.63,
+    "best_rank": 1,
+    "recommendations": [
+      {
+        "crop": "Paddy",
+        "decision_score": 76.63,
+        "yield_quintals": 130.5,
+        "production_metric_tons": 13.05,
+        "cultivation_cost": 105000.0,
+        "historical_market_price": 2250.0,
+        "expected_revenue": 293625.0,
+        "required_water_litres": 450000.0,
+        "disease_risk": 30.0,
+        "weather_risk": 20.0,
+        "risk_score": 75.0,
+        "budget_score": 53.3,
+        "data_coverage": "Verified Agricultural Data",
+        "reasons": [
+          "Optimal match for Whole Year season in Haryana",
+          "Highly productive in Clay Soil (44% yield boost)",
+          "High profit margin (Projected ₹188,625 net profit)"
+        ],
+        "rank": 1
+      },
+      {
+        "crop": "Cotton",
+        "decision_score": 73.36,
+        "yield_quintals": 54.0,
+        "production_metric_tons": 5.4,
+        "cultivation_cost": 110000.0,
+        "historical_market_price": 7100.0,
+        "expected_revenue": 383400.0,
+        "required_water_litres": 237500.0,
+        "disease_risk": 32.0,
+        "weather_risk": 22.0,
+        "risk_score": 73.0,
+        "budget_score": 53.3,
+        "data_coverage": "Verified Agricultural Data",
+        "reasons": [
+          "Optimal match for Whole Year season in Haryana",
+          "Highly productive in Clay Soil (19% yield boost)",
+          "High profit margin (Projected ₹273,400 net profit)"
+        ],
+        "rank": 2
+      },
+      {
+        "crop": "Mustard",
+        "decision_score": 70.6,
+        "yield_quintals": 43.75,
+        "production_metric_tons": 4.38,
+        "cultivation_cost": 55000.0,
+        "historical_market_price": 5400.0,
+        "expected_revenue": 236250.0,
+        "required_water_litres": 100000.0,
+        "disease_risk": 22.0,
+        "weather_risk": 18.0,
+        "risk_score": 80.0,
+        "budget_score": 100.0,
+        "data_coverage": "Verified Agricultural Data",
+        "reasons": [
+          "High profit margin (Projected ₹181,250 net profit)",
+          "Cultivation cost within budget"
+        ],
+        "rank": 3
+      },
+      {
+        "crop": "Bajra",
+        "decision_score": 64.35,
+        "yield_quintals": 47.5,
+        "production_metric_tons": 4.75,
+        "cultivation_cost": 40000.0,
+        "historical_market_price": 2450.0,
+        "expected_revenue": 116375.0,
+        "required_water_litres": 95000.0,
+        "disease_risk": 15.0,
+        "weather_risk": 14.0,
+        "risk_score": 85.5,
+        "budget_score": 100.0,
+        "data_coverage": "Verified Agricultural Data",
+        "reasons": [
+          "High profit margin (Projected ₹76,375 net profit)",
+          "Cultivation cost within budget"
+        ],
+        "rank": 4
+      },
+      {
+        "crop": "Moong",
+        "decision_score": 61.0,
+        "yield_quintals": 27.5,
+        "production_metric_tons": 2.75,
+        "cultivation_cost": 45000.0,
+        "historical_market_price": 7500.0,
+        "expected_revenue": 206250.0,
+        "required_water_litres": 80000.0,
+        "disease_risk": 18.0,
+        "weather_risk": 14.0,
+        "risk_score": 84.0,
+        "budget_score": 100.0,
+        "data_coverage": "Verified Agricultural Data",
+        "reasons": [
+          "High profit margin (Projected ₹161,250 net profit)",
+          "Cultivation cost within budget"
+        ],
+        "rank": 5
+      }
+    ],
+    "data_source_mode": "District & Agro-Climatic Intelligence",
+    "market_price_note": "Historical market mandi intelligence verified across government records."
+  }
+}

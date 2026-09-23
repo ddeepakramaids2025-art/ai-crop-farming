@@ -1,0 +1,13 @@
+Kisan Agri Advisory Portal — Farm Advisory Report
+Recommended Crop: Cotton
+Suitability Score: 73.36/100
+Date: 2026-09-04 10:52:49
+Location: Haryana, Ambala (Whole Year)
+Land Area: 2.5 acres | Budget: INR 75,000
+
+Top Recommended Crops:
+#1 Cotton | Score: 73.36 | Revenue: INR 383,400 | Cost: INR 110,000
+#2 Mustard | Score: 70.6 | Revenue: INR 236,250 | Cost: INR 55,000
+#3 Bajra | Score: 67.97 | Revenue: INR 133,819 | Cost: INR 40,000
+#4 Paddy | Score: 66.99 | Revenue: INR 172,125 | Cost: INR 105,000
+#5 Maize | Score: 66.0 | Revenue: INR 261,250 | Cost: INR 70,000

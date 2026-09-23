@@ -1,0 +1,13 @@
+Kisan Agri Advisory Portal — Farm Advisory Report
+Recommended Crop: Maize
+Suitability Score: 72.2/100
+Date: 2026-09-04 12:37:34
+Location: Tamil Nadu, Pudukkottai (Whole Year)
+Land Area: 4.0 acres | Budget: INR 100,000
+
+Top Recommended Crops:
+#1 Maize | Score: 72.2 | Revenue: INR 418,000 | Cost: INR 112,000
+#2 Cotton | Score: 69.56 | Revenue: INR 613,440 | Cost: INR 176,000
+#3 Onion | Score: 66.2 | Revenue: INR 830,300 | Cost: INR 164,000
+#4 Sesamum | Score: 64.2 | Revenue: INR 299,040 | Cost: INR 64,000
+#5 Tomato | Score: 64.0 | Revenue: INR 1,137,500 | Cost: INR 184,000

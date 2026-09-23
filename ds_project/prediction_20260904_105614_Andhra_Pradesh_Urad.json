@@ -1,0 +1,127 @@
+{
+  "record_id": "prediction_20260904_105614_Andhra_Pradesh_Urad",
+  "timestamp": "2026-09-04 10:56:14",
+  "prediction": {
+    "success": true,
+    "state": "Andhra Pradesh",
+    "district": "Anantapur",
+    "season": "Kharif",
+    "soil_type": "Laterite Soil",
+    "land_acres": 3.5,
+    "budget": 80000.0,
+    "water_litres": 60000.0,
+    "best_crop": "Urad",
+    "best_score": 82.8,
+    "best_rank": 1,
+    "recommendations": [
+      {
+        "crop": "Urad",
+        "decision_score": 82.8,
+        "yield_quintals": 36.75,
+        "production_metric_tons": 3.68,
+        "cultivation_cost": 63000.0,
+        "historical_market_price": 7300.0,
+        "expected_revenue": 268275.0,
+        "required_water_litres": 112000.0,
+        "disease_risk": 18.0,
+        "weather_risk": 14.0,
+        "risk_score": 84.0,
+        "budget_score": 100.0,
+        "data_coverage": "Verified Agricultural Data",
+        "reasons": [
+          "Optimal match for Kharif season in Andhra Pradesh",
+          "High profit margin (Projected ₹205,275 net profit)",
+          "Cultivation cost within budget"
+        ],
+        "rank": 1
+      },
+      {
+        "crop": "Sesamum",
+        "decision_score": 78.0,
+        "yield_quintals": 30.62,
+        "production_metric_tons": 3.06,
+        "cultivation_cost": 56000.0,
+        "historical_market_price": 8900.0,
+        "expected_revenue": 272518.0,
+        "required_water_litres": 98000.0,
+        "disease_risk": 14.0,
+        "weather_risk": 14.0,
+        "risk_score": 86.0,
+        "budget_score": 100.0,
+        "data_coverage": "Verified Agricultural Data",
+        "reasons": [
+          "Optimal match for Kharif season in Andhra Pradesh",
+          "Highly productive in Laterite Soil (25% yield boost)",
+          "High profit margin (Projected ₹216,518 net profit)",
+          "Cultivation cost within budget"
+        ],
+        "rank": 2
+      },
+      {
+        "crop": "Groundnut",
+        "decision_score": 76.6,
+        "yield_quintals": 109.2,
+        "production_metric_tons": 10.92,
+        "cultivation_cost": 112000.0,
+        "historical_market_price": 6200.0,
+        "expected_revenue": 677040.0,
+        "required_water_litres": 192500.0,
+        "disease_risk": 22.0,
+        "weather_risk": 18.0,
+        "risk_score": 80.0,
+        "budget_score": 53.3,
+        "data_coverage": "Verified Agricultural Data",
+        "reasons": [
+          "Optimal match for Kharif season in Andhra Pradesh",
+          "Highly productive in Laterite Soil (30% yield boost)",
+          "High profit margin (Projected ₹565,040 net profit)"
+        ],
+        "rank": 3
+      },
+      {
+        "crop": "Moong",
+        "decision_score": 74.0,
+        "yield_quintals": 38.5,
+        "production_metric_tons": 3.85,
+        "cultivation_cost": 63000.0,
+        "historical_market_price": 7500.0,
+        "expected_revenue": 288750.0,
+        "required_water_litres": 112000.0,
+        "disease_risk": 18.0,
+        "weather_risk": 14.0,
+        "risk_score": 84.0,
+        "budget_score": 100.0,
+        "data_coverage": "Verified Agricultural Data",
+        "reasons": [
+          "Optimal match for Kharif season in Andhra Pradesh",
+          "High profit margin (Projected ₹225,750 net profit)",
+          "Cultivation cost within budget"
+        ],
+        "rank": 4
+      },
+      {
+        "crop": "Bajra",
+        "decision_score": 72.15,
+        "yield_quintals": 66.5,
+        "production_metric_tons": 6.65,
+        "cultivation_cost": 56000.0,
+        "historical_market_price": 2450.0,
+        "expected_revenue": 162925.0,
+        "required_water_litres": 133000.0,
+        "disease_risk": 15.0,
+        "weather_risk": 14.0,
+        "risk_score": 85.5,
+        "budget_score": 100.0,
+        "data_coverage": "Verified Agricultural Data",
+        "reasons": [
+          "Optimal match for Kharif season in Andhra Pradesh",
+          "High profit margin (Projected ₹106,925 net profit)",
+          "Cultivation cost within budget"
+        ],
+        "rank": 5
+      }
+    ],
+    "data_source_mode": "District & Agro-Climatic Intelligence",
+    "market_price_note": "Historical market mandi intelligence verified across government records."
+  }
+}

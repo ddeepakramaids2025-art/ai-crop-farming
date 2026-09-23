@@ -1,0 +1,6 @@
+crop,decision_score,yield_quintals,production_metric_tons,cultivation_cost,historical_market_price,expected_revenue,required_water_litres,disease_risk,weather_risk,risk_score,budget_score,data_coverage,reasons,rank
+Mustard,74.6,65.62,6.56,66000.0,5400.0,354348.0,120000.0,22.0,18.0,80.0,100.0,Verified Agricultural Data,"['Highly productive in Sandy Soil (25% yield boost)', 'High profit margin (Projected ₹288,348 net profit)', 'Cultivation cost within budget']",1
+Bajra,70.2,79.8,7.98,48000.0,2450.0,195510.0,114000.0,15.0,14.0,85.5,100.0,Verified Agricultural Data,"['Highly productive in Sandy Soil (39% yield boost)', 'High profit margin (Projected ₹147,510 net profit)', 'Cultivation cost within budget']",2
+Sesamum,65.0,26.25,2.62,48000.0,8900.0,233625.0,84000.0,14.0,14.0,86.0,100.0,Verified Agricultural Data,"['Highly productive in Sandy Soil (25% yield boost)', 'High profit margin (Projected ₹185,625 net profit)', 'Cultivation cost within budget']",3
+Cotton,62.53,54.0,5.4,132000.0,7100.0,383400.0,285000.0,32.0,22.0,73.0,13.3,Verified Agricultural Data,"['Optimal match for Whole Year season in Haryana', 'High profit margin (Projected ₹251,400 net profit)']",4
+Paddy,55.64,64.8,6.48,126000.0,2250.0,145800.0,540000.0,30.0,20.0,75.0,13.3,Verified Agricultural Data,['Optimal match for Whole Year season in Haryana'],5

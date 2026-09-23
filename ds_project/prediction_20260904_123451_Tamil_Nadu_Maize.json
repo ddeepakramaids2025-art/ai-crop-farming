@@ -1,0 +1,124 @@
+{
+  "record_id": "prediction_20260904_123451_Tamil_Nadu_Maize",
+  "timestamp": "2026-09-04 12:34:51",
+  "prediction": {
+    "success": true,
+    "state": "Tamil Nadu",
+    "district": "Pudukkottai",
+    "season": "Whole Year",
+    "soil_type": "Red Soil",
+    "land_acres": 3.0,
+    "budget": 70000.0,
+    "water_litres": 60000.0,
+    "best_crop": "Maize",
+    "best_score": 72.2,
+    "best_rank": 1,
+    "recommendations": [
+      {
+        "crop": "Maize",
+        "decision_score": 72.2,
+        "yield_quintals": 142.5,
+        "production_metric_tons": 14.25,
+        "cultivation_cost": 84000.0,
+        "historical_market_price": 2200.0,
+        "expected_revenue": 313500.0,
+        "required_water_litres": 210000.0,
+        "disease_risk": 20.0,
+        "weather_risk": 18.0,
+        "risk_score": 81.0,
+        "budget_score": 53.3,
+        "data_coverage": "Verified Agricultural Data",
+        "reasons": [
+          "Optimal match for Whole Year season in Tamil Nadu",
+          "Highly productive in Red Soil (25% yield boost)",
+          "High profit margin (Projected ₹229,500 net profit)"
+        ],
+        "rank": 1
+      },
+      {
+        "crop": "Sesamum",
+        "decision_score": 72.2,
+        "yield_quintals": 25.2,
+        "production_metric_tons": 2.52,
+        "cultivation_cost": 48000.0,
+        "historical_market_price": 8900.0,
+        "expected_revenue": 224280.0,
+        "required_water_litres": 84000.0,
+        "disease_risk": 14.0,
+        "weather_risk": 14.0,
+        "risk_score": 86.0,
+        "budget_score": 100.0,
+        "data_coverage": "Verified Agricultural Data",
+        "reasons": [
+          "Highly productive in Red Soil (19% yield boost)",
+          "High profit margin (Projected ₹176,280 net profit)",
+          "Cultivation cost within budget"
+        ],
+        "rank": 2
+      },
+      {
+        "crop": "Cotton",
+        "decision_score": 69.56,
+        "yield_quintals": 64.8,
+        "production_metric_tons": 6.48,
+        "cultivation_cost": 132000.0,
+        "historical_market_price": 7100.0,
+        "expected_revenue": 460080.0,
+        "required_water_litres": 285000.0,
+        "disease_risk": 32.0,
+        "weather_risk": 22.0,
+        "risk_score": 73.0,
+        "budget_score": 13.3,
+        "data_coverage": "Verified Agricultural Data",
+        "reasons": [
+          "Optimal match for Whole Year season in Tamil Nadu",
+          "Highly productive in Red Soil (19% yield boost)",
+          "High profit margin (Projected ₹328,080 net profit)"
+        ],
+        "rank": 3
+      },
+      {
+        "crop": "Tomato",
+        "decision_score": 64.0,
+        "yield_quintals": 487.5,
+        "production_metric_tons": 48.75,
+        "cultivation_cost": 138000.0,
+        "historical_market_price": 1750.0,
+        "expected_revenue": 853125.0,
+        "required_water_litres": 225000.0,
+        "disease_risk": 32.0,
+        "weather_risk": 22.0,
+        "risk_score": 73.0,
+        "budget_score": 13.3,
+        "data_coverage": "Verified Agricultural Data",
+        "reasons": [
+          "Optimal match for Whole Year season in Tamil Nadu",
+          "Highly productive in Red Soil (25% yield boost)",
+          "High profit margin (Projected ₹715,125 net profit)"
+        ],
+        "rank": 4
+      },
+      {
+        "crop": "Paddy",
+        "decision_score": 63.19,
+        "yield_quintals": 91.8,
+        "production_metric_tons": 9.18,
+        "cultivation_cost": 126000.0,
+        "historical_market_price": 2250.0,
+        "expected_revenue": 206550.0,
+        "required_water_litres": 540000.0,
+        "disease_risk": 30.0,
+        "weather_risk": 20.0,
+        "risk_score": 75.0,
+        "budget_score": 13.3,
+        "data_coverage": "Verified Agricultural Data",
+        "reasons": [
+          "Optimal match for Whole Year season in Tamil Nadu"
+        ],
+        "rank": 5
+      }
+    ],
+    "data_source_mode": "Agro-Climatic Intelligence",
+    "market_price_note": "Verified APMC Mandi Market Prices."
+  }
+}

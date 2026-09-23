@@ -1,0 +1,582 @@
+Timestamp,Record_File,State,District,Season,Soil,Land_Acres,Budget_INR,Water_Litres,Best_Crop,Decision_Score,Expected_Revenue_INR,Cultivation_Cost_INR
+2026-08-24 22:17:49,prediction_20260824_221749_Tamil_Nadu_Gram.json,Tamil Nadu,Coimbatore,Kharif,Red Soil,2.5,75000.0,60000.0,Gram,57.7,76338.0,52444.42
+2026-08-24 22:22:57,prediction_20260824_222257_Andhra_Pradesh_Gram.json,Andhra Pradesh,Anantapur,Kharif,Alluvial,2.0,75000.0,60000.0,Gram,55.29,61070.4,64362.98
+2026-08-25 09:20:19,prediction_20260825_092019_Andhra_Pradesh_Gram.json,Andhra Pradesh,Anantapur,Kharif,Alluvial,2.5,75000.0,60000.0,Gram,53.55,76338.0,64362.98
+2026-08-25 09:28:08,prediction_20260825_092808_Tamil_Nadu_Gram.json,Tamil Nadu,Cuddalore,Kharif,Alluvial,3.0,75000.0,60000.0,Gram,56.27,91605.6,52444.42
+2026-08-25 09:28:46,prediction_20260825_092846_Tamil_Nadu_Gram.json,Tamil Nadu,Coimbatore,Whole Year,Alluvial,3.0,75000.0,60000.0,Gram,56.27,91605.6,52444.42
+2026-08-25 09:28:57,prediction_20260825_092857_Tamil_Nadu_Gram.json,Tamil Nadu,Coimbatore,Whole Year,Laterite Soil,1.5,60000.0,60000.0,Gram,60.56,45802.8,52444.42
+2026-08-25 09:29:00,prediction_20260825_092900_Tamil_Nadu_Gram.json,Tamil Nadu,Coimbatore,Whole Year,Laterite Soil,1.5,60000.0,60000.0,Gram,60.56,45802.8,52444.42
+2026-08-25 09:29:27,prediction_20260825_092927_Tamil_Nadu_Gram.json,Tamil Nadu,Coimbatore,Whole Year,Other,1.0,60000.0,0.0,Gram,70.12,30535.2,52444.42
+2026-08-25 09:29:30,prediction_20260825_092930_Tamil_Nadu_Gram.json,Tamil Nadu,Coimbatore,Whole Year,Other,1.0,60000.0,0.0,Gram,70.12,30535.2,52444.42
+2026-08-25 09:29:37,prediction_20260825_092937_Madhya_Pradesh_Gram.json,Madhya Pradesh,Balaghat,Whole Year,Other,1.0,60000.0,0.0,Gram,69.5,30535.2,43200.35
+2026-08-25 09:29:59,prediction_20260825_092959_Madhya_Pradesh_Gram.json,Madhya Pradesh,Bhopal,Rabi,Laterite Soil,2.0,60000.0,30000.0,Gram,64.92,61070.4,43200.35
+2026-08-25 09:30:40,prediction_20260825_093040_Rajasthan_Bajra.json,Rajasthan,Ajmer,Kharif,Laterite Soil,2.0,60000.0,30000.0,Bajra,60.83,131544.82,37245.85
+2026-08-25 11:14:54,prediction_20260825_111454_Rajasthan_Bajra.json,Rajasthan,Ajmer,Kharif,Alluvial,2.5,75000.0,60000.0,Bajra,54.83,131544.82,37245.85
+2026-08-25 13:39:01,prediction_20260825_133901_Andhra_Pradesh_Gram.json,Andhra Pradesh,Anantapur,Kharif,Alluvial,2.5,75000.0,60000.0,Gram,53.55,76338.0,64362.98
+2026-08-25 13:43:30,prediction_20260825_134330_Tamil_Nadu_Gram.json,Tamil Nadu,Kanyakumari,Kharif,Red Soil,2.0,70000.0,30000.0,Gram,65.13,61070.4,52444.42
+2026-08-25 13:43:31,prediction_20260825_134331_Tamil_Nadu_Gram.json,Tamil Nadu,Kanyakumari,Kharif,Red Soil,2.0,70000.0,30000.0,Gram,65.13,61070.4,52444.42
+2026-08-25 13:43:32,prediction_20260825_134332_Tamil_Nadu_Gram.json,Tamil Nadu,Kanyakumari,Kharif,Red Soil,2.0,70000.0,30000.0,Gram,65.13,61070.4,52444.42
+2026-08-25 13:44:31,prediction_20260825_134431_Tamil_Nadu_Gram.json,Tamil Nadu,Dharmapuri,Rabi,Red Soil,2.0,70000.0,30000.0,Gram,65.13,61070.4,52444.42
+2026-08-25 13:44:38,prediction_20260825_134438_Tamil_Nadu_Gram.json,Tamil Nadu,Dharmapuri,Rabi,Red Soil,3.0,70000.0,30000.0,Gram,61.79,91605.6,52444.42
+2026-08-25 13:44:39,prediction_20260825_134439_Tamil_Nadu_Gram.json,Tamil Nadu,Dharmapuri,Rabi,Red Soil,3.0,70000.0,30000.0,Gram,61.79,91605.6,52444.42
+2026-08-25 13:44:41,prediction_20260825_134441_Tamil_Nadu_Gram.json,Tamil Nadu,Dharmapuri,Rabi,Red Soil,3.0,70000.0,30000.0,Gram,61.79,91605.6,52444.42
+2026-08-25 13:44:41,prediction_20260825_134441_Tamil_Nadu_Gram.json,Tamil Nadu,Dharmapuri,Rabi,Red Soil,3.0,70000.0,30000.0,Gram,61.79,91605.6,52444.42
+2026-08-25 13:44:42,prediction_20260825_134442_Tamil_Nadu_Gram.json,Tamil Nadu,Dharmapuri,Rabi,Red Soil,3.0,70000.0,30000.0,Gram,61.79,91605.6,52444.42
+2026-08-25 13:52:59,prediction_20260825_135259_Chhattisgarh_Soyabean.json,Chhattisgarh,Dhamtari,Zaid / Summer,Alluvial,2.5,75000.0,60000.0,Soyabean,61.2,156250.0,31688.92
+2026-08-25 13:53:18,prediction_20260825_135318_Tamil_Nadu_Gram.json,Tamil Nadu,Coimbatore,Rabi,Alluvial,2.5,75000.0,60000.0,Gram,57.7,76338.0,52444.42
+2026-08-25 13:53:25,prediction_20260825_135325_Tamil_Nadu_Gram.json,Tamil Nadu,Coimbatore,Zaid / Summer,Alluvial,2.5,75000.0,60000.0,Gram,57.7,76338.0,52444.42
+2026-08-25 13:53:26,prediction_20260825_135326_Tamil_Nadu_Gram.json,Tamil Nadu,Coimbatore,Zaid / Summer,Alluvial,2.5,75000.0,60000.0,Gram,57.7,76338.0,52444.42
+2026-08-25 13:53:27,prediction_20260825_135327_Tamil_Nadu_Gram.json,Tamil Nadu,Coimbatore,Zaid / Summer,Alluvial,2.5,75000.0,60000.0,Gram,57.7,76338.0,52444.42
+2026-08-25 13:53:30,prediction_20260825_135330_Tamil_Nadu_Gram.json,Tamil Nadu,Coimbatore,Zaid / Summer,Alluvial,2.5,75000.0,60000.0,Gram,57.7,76338.0,52444.42
+2026-08-25 13:53:30,prediction_20260825_135330_Tamil_Nadu_Gram.json,Tamil Nadu,Coimbatore,Zaid / Summer,Alluvial,2.5,75000.0,60000.0,Gram,57.7,76338.0,52444.42
+2026-08-25 14:06:31,prediction_20260825_140631_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-25 14:06:46,prediction_20260825_140646_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-25 14:07:45,prediction_20260825_140745_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-25 14:08:12,prediction_20260825_140812_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-25 17:32:10,prediction_20260825_173210_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-25 17:33:23,prediction_20260825_173323_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-25 17:33:26,prediction_20260825_173326_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-25 17:37:30,prediction_20260825_173730_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-25 17:37:32,prediction_20260825_173732_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-25 17:37:54,prediction_20260825_173754_Kerala_Sesamum.json,Kerala,Alappuzha,Kharif,Red Soil,2.0,75000.0,40000.0,Sesamum,94.0,110500.0,32000.0
+2026-08-25 17:38:05,prediction_20260825_173805_Kerala_Sesamum.json,Kerala,Kollam,Kharif,Red Soil,3.0,75000.0,40000.0,Sesamum,94.0,165750.0,48000.0
+2026-08-25 17:38:08,prediction_20260825_173808_Kerala_Sesamum.json,Kerala,Kollam,Kharif,Red Soil,3.0,75000.0,40000.0,Sesamum,94.0,165750.0,48000.0
+2026-08-25 17:38:08,prediction_20260825_173808_Kerala_Sesamum.json,Kerala,Kollam,Kharif,Red Soil,3.0,75000.0,40000.0,Sesamum,94.0,165750.0,48000.0
+2026-08-25 17:38:13,prediction_20260825_173813_Kerala_Sesamum.json,Kerala,Kollam,Kharif,Red Soil,3.0,65000.0,30000.0,Sesamum,79.0,165750.0,48000.0
+2026-08-25 17:38:14,prediction_20260825_173814_Kerala_Sesamum.json,Kerala,Kollam,Kharif,Red Soil,3.0,65000.0,30000.0,Sesamum,79.0,165750.0,48000.0
+2026-08-25 17:38:22,prediction_20260825_173822_Kerala_Sesamum.json,Kerala,Kollam,Zaid / Summer,Red Soil,3.0,65000.0,30000.0,Sesamum,79.0,165750.0,48000.0
+2026-08-25 17:38:27,prediction_20260825_173827_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-25 17:38:30,prediction_20260825_173830_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-26 10:38:33,prediction_20260826_103833_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-26 10:38:36,prediction_20260826_103836_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-26 18:33:29,prediction_20260826_183329_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-26 18:33:36,prediction_20260826_183336_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-27 08:52:27,prediction_20260827_085227_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-27 08:52:30,prediction_20260827_085230_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-27 08:57:38,prediction_20260827_085738_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-27 08:57:38,prediction_20260827_085738_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-27 09:47:06,prediction_20260827_094706_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-27 09:47:38,prediction_20260827_094738_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-27 09:48:32,prediction_20260827_094832_Kerala_Groundnut.json,Kerala,Alappuzha,Rabi,Loamy Soil,2.0,65000.0,60000.0,Groundnut,92.0,255200.0,64000.0
+2026-08-27 09:56:23,prediction_20260827_095623_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-27 09:56:26,prediction_20260827_095626_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-27 09:58:05,prediction_20260827_095805_Tamil_Nadu_Urad.json,Tamil Nadu,Tiruvannamalai,Kharif,Black Soil,2.0,70000.0,70000.0,Urad,96.5,133000.0,36000.0
+2026-08-27 10:01:50,prediction_20260827_100150_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-27 10:11:51,prediction_20260827_101151_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-27 10:12:38,prediction_20260827_101238_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-27 10:12:41,prediction_20260827_101241_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-27 10:16:01,prediction_20260827_101601_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-27 10:16:05,prediction_20260827_101605_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-27 10:16:18,prediction_20260827_101618_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-27 10:16:22,prediction_20260827_101622_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-27 10:26:34,prediction_20260827_102634_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-27 10:26:40,prediction_20260827_102640_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-27 10:28:17,prediction_20260827_102817_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-27 10:29:27,prediction_20260827_102927_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-27 10:29:32,prediction_20260827_102932_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-27 12:12:27,prediction_20260827_121227_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-27 12:17:21,prediction_20260827_121721_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-27 12:22:33,prediction_20260827_122233_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-27 12:22:33,prediction_20260827_122233_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-27 12:23:23,prediction_20260827_122323_Kerala_Tomato.json,Kerala,Alappuzha,Whole Year,Red Soil,5.0,70000.0,40000.0,Tomato,62.0,960000.0,225000.0
+2026-08-27 12:23:40,prediction_20260827_122340_Kerala_Tomato.json,Kerala,Alappuzha,Whole Year,Red Soil,4.0,60000.0,40000.0,Tomato,62.0,768000.0,180000.0
+2026-08-27 12:23:43,prediction_20260827_122343_Kerala_Tomato.json,Kerala,Alappuzha,Whole Year,Red Soil,4.0,60000.0,40000.0,Tomato,62.0,768000.0,180000.0
+2026-08-27 12:23:44,prediction_20260827_122344_Kerala_Tomato.json,Kerala,Alappuzha,Whole Year,Red Soil,4.0,60000.0,40000.0,Tomato,62.0,768000.0,180000.0
+2026-08-27 12:23:50,prediction_20260827_122350_Kerala_Paddy.json,Kerala,Alappuzha,Whole Year,Alluvial,4.0,60000.0,20000.0,Paddy,67.34,299200.0,168000.0
+2026-08-27 12:27:15,prediction_20260827_122715_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-27 12:27:15,prediction_20260827_122715_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-27 12:36:24,prediction_20260827_123624_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-27 12:36:59,prediction_20260827_123659_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-27 12:44:51,prediction_20260827_124451_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-27 12:44:57,prediction_20260827_124457_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-27 13:37:52,prediction_20260827_133752_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-27 13:37:52,prediction_20260827_133752_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-27 13:45:11,prediction_20260827_134511_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-27 13:45:14,prediction_20260827_134514_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-27 13:47:04,prediction_20260827_134704_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.0,75000.0,60000.0,Groundnut,96.0,255200.0,64000.0
+2026-08-27 13:49:50,prediction_20260827_134950_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-27 13:50:40,prediction_20260827_135040_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-27 13:52:54,prediction_20260827_135254_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-27 14:03:13,prediction_20260827_140313_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-27 14:05:42,prediction_20260827_140542_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-27 14:06:40,prediction_20260827_140640_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-27 14:06:44,prediction_20260827_140644_Andhra_Pradesh_Moong.json,Andhra Pradesh,Anantapur,Kharif,Alluvial,2.5,75000.0,60000.0,Moong,80.0,180000.0,45000.0
+2026-08-27 14:07:10,prediction_20260827_140710_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-27 14:07:13,prediction_20260827_140713_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-27 14:07:22,prediction_20260827_140722_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Black Soil,3.0,70000.0,60000.0,Urad,88.0,199500.0,54000.0
+2026-08-27 14:13:37,prediction_20260827_141337_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-27 14:13:37,prediction_20260827_141337_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-27 14:13:46,prediction_20260827_141346_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-27 14:13:54,prediction_20260827_141354_Andhra_Pradesh_Sesamum.json,Andhra Pradesh,Anantapur,Kharif,Sandy Soil,3.0,75000.0,60000.0,Sesamum,80.0,165750.0,48000.0
+2026-08-27 14:13:55,prediction_20260827_141355_Andhra_Pradesh_Sesamum.json,Andhra Pradesh,Anantapur,Kharif,Sandy Soil,3.0,75000.0,60000.0,Sesamum,80.0,165750.0,48000.0
+2026-08-27 14:22:36,prediction_20260827_142236_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-27 14:22:37,prediction_20260827_142237_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-27 14:34:44,prediction_20260827_143444_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-27 14:34:46,prediction_20260827_143446_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-27 14:36:54,prediction_20260827_143654_Tamil_Nadu_Sesamum.json,Tamil Nadu,Ariyalur,Kharif,Red Soil,2.5,75000.0,60000.0,Sesamum,94.0,138125.0,40000.0
+2026-08-27 14:36:59,prediction_20260827_143659_Tamil_Nadu_Sesamum.json,Tamil Nadu,Ariyalur,Kharif,Red Soil,2.5,75000.0,60000.0,Sesamum,94.0,138125.0,40000.0
+2026-08-27 14:37:07,prediction_20260827_143707_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-27 14:37:10,prediction_20260827_143710_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-27 14:37:11,prediction_20260827_143711_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-27 14:37:11,prediction_20260827_143711_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-27 14:37:22,prediction_20260827_143722_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-27 14:37:29,prediction_20260827_143729_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-27 14:51:21,prediction_20260827_145121_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-27 14:51:24,prediction_20260827_145124_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-27 14:52:02,prediction_20260827_145202_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Vizianagaram,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-27 14:52:08,prediction_20260827_145208_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Vizianagaram,Kharif,Red Soil,2.0,75000.0,60000.0,Groundnut,96.0,255200.0,64000.0
+2026-08-27 14:52:12,prediction_20260827_145212_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Vizianagaram,Kharif,Sandy Soil,2.0,65000.0,60000.0,Groundnut,96.0,255200.0,64000.0
+2026-08-27 14:52:13,prediction_20260827_145213_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Vizianagaram,Kharif,Sandy Soil,2.0,65000.0,60000.0,Groundnut,96.0,255200.0,64000.0
+2026-08-27 14:52:14,prediction_20260827_145214_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Vizianagaram,Kharif,Sandy Soil,2.0,65000.0,60000.0,Groundnut,96.0,255200.0,64000.0
+2026-08-27 14:52:14,prediction_20260827_145214_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Vizianagaram,Kharif,Sandy Soil,2.0,65000.0,60000.0,Groundnut,96.0,255200.0,64000.0
+2026-08-27 14:52:21,prediction_20260827_145221_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Vizianagaram,Whole Year,Sandy Soil,2.0,65000.0,60000.0,Groundnut,76.0,255200.0,64000.0
+2026-08-27 14:52:22,prediction_20260827_145222_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Vizianagaram,Whole Year,Sandy Soil,2.0,65000.0,60000.0,Groundnut,76.0,255200.0,64000.0
+2026-08-27 14:52:23,prediction_20260827_145223_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Vizianagaram,Whole Year,Sandy Soil,2.0,65000.0,60000.0,Groundnut,76.0,255200.0,64000.0
+2026-08-27 14:52:26,prediction_20260827_145226_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-27 14:52:42,prediction_20260827_145242_Karnataka_Cotton.json,Karnataka,Bagalkot,Whole Year,Laterite Soil,4.5,70000.0,70000.0,Cotton,55.25,489600.0,202500.0
+2026-08-27 14:59:40,prediction_20260827_145940_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-27 14:59:45,prediction_20260827_145945_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-28 09:46:35,prediction_20260828_094635_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-28 09:46:46,prediction_20260828_094646_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-28 09:46:53,prediction_20260828_094653_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-28 09:46:55,prediction_20260828_094655_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-28 09:46:56,prediction_20260828_094656_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-28 09:46:56,prediction_20260828_094656_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-28 09:46:56,prediction_20260828_094656_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-28 09:47:19,prediction_20260828_094719_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-28 09:47:26,prediction_20260828_094726_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-28 09:48:24,prediction_20260828_094824_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-28 09:51:30,prediction_20260828_095130_Andhra_Pradesh_Sesamum.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,3.0,75000.0,40000.0,Sesamum,80.0,165750.0,48000.0
+2026-08-28 09:51:37,prediction_20260828_095137_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.0,75000.0,40000.0,Urad,88.0,133000.0,36000.0
+2026-08-28 10:11:29,prediction_20260828_101129_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-28 10:12:18,prediction_20260828_101218_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-28 10:12:22,prediction_20260828_101222_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-28 10:12:25,prediction_20260828_101225_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-28 10:12:25,prediction_20260828_101225_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-28 10:12:25,prediction_20260828_101225_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-28 10:12:27,prediction_20260828_101227_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-28 10:12:28,prediction_20260828_101228_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-28 10:12:28,prediction_20260828_101228_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-28 10:12:49,prediction_20260828_101249_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-28 10:23:20,prediction_20260828_102320_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-28 10:23:46,prediction_20260828_102346_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-28 10:23:48,prediction_20260828_102348_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-28 10:23:52,prediction_20260828_102352_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-28 10:23:54,prediction_20260828_102354_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-28 10:23:54,prediction_20260828_102354_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-28 10:23:56,prediction_20260828_102356_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-28 10:24:00,prediction_20260828_102400_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,3.0,70000.0,60000.0,Urad,88.0,199500.0,54000.0
+2026-08-28 10:24:00,prediction_20260828_102400_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,3.0,70000.0,60000.0,Urad,88.0,199500.0,54000.0
+2026-08-28 10:24:11,prediction_20260828_102411_Karnataka_Cotton.json,Karnataka,Bagalkot,Whole Year,Red Soil,3.0,70000.0,60000.0,Cotton,67.25,326400.0,135000.0
+2026-08-28 10:24:11,prediction_20260828_102411_Karnataka_Cotton.json,Karnataka,Bagalkot,Whole Year,Red Soil,3.0,70000.0,60000.0,Cotton,67.25,326400.0,135000.0
+2026-08-28 10:24:12,prediction_20260828_102412_Karnataka_Cotton.json,Karnataka,Bagalkot,Whole Year,Red Soil,3.0,70000.0,60000.0,Cotton,67.25,326400.0,135000.0
+2026-08-28 10:24:22,prediction_20260828_102422_Karnataka_Cotton.json,Karnataka,Bagalkot,Whole Year,Red Soil,3.0,70000.0,60000.0,Cotton,67.25,326400.0,135000.0
+2026-08-28 10:24:23,prediction_20260828_102423_Karnataka_Cotton.json,Karnataka,Bagalkot,Whole Year,Red Soil,3.0,70000.0,60000.0,Cotton,67.25,326400.0,135000.0
+2026-08-28 10:24:23,prediction_20260828_102423_Karnataka_Cotton.json,Karnataka,Bagalkot,Whole Year,Red Soil,3.0,70000.0,60000.0,Cotton,67.25,326400.0,135000.0
+2026-08-28 10:24:23,prediction_20260828_102423_Karnataka_Cotton.json,Karnataka,Bagalkot,Whole Year,Red Soil,3.0,70000.0,60000.0,Cotton,67.25,326400.0,135000.0
+2026-08-28 10:24:38,prediction_20260828_102438_Karnataka_Cotton.json,Karnataka,Bagalkot,Whole Year,Red Soil,3.0,70000.0,60000.0,Cotton,67.25,326400.0,135000.0
+2026-08-28 10:24:40,prediction_20260828_102440_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-28 10:24:42,prediction_20260828_102442_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-28 10:24:42,prediction_20260828_102442_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-28 10:24:42,prediction_20260828_102442_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-28 10:24:43,prediction_20260828_102443_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-28 10:24:43,prediction_20260828_102443_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-28 10:24:43,prediction_20260828_102443_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-28 10:24:43,prediction_20260828_102443_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-28 10:24:43,prediction_20260828_102443_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-28 10:24:44,prediction_20260828_102444_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-28 10:24:45,prediction_20260828_102445_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-28 10:24:45,prediction_20260828_102445_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-28 10:24:56,prediction_20260828_102456_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-28 10:24:59,prediction_20260828_102459_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-28 10:25:01,prediction_20260828_102501_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-28 10:25:02,prediction_20260828_102502_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-28 10:25:02,prediction_20260828_102502_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-28 10:25:02,prediction_20260828_102502_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-28 10:25:10,prediction_20260828_102510_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-28 10:25:10,prediction_20260828_102510_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-28 10:25:13,prediction_20260828_102513_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Loamy Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-28 10:25:23,prediction_20260828_102523_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Loamy Soil,2.5,70000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-28 10:25:23,prediction_20260828_102523_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Loamy Soil,2.5,70000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-28 10:25:23,prediction_20260828_102523_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Loamy Soil,2.5,70000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-28 10:25:24,prediction_20260828_102524_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Loamy Soil,2.5,70000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-28 10:25:24,prediction_20260828_102524_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Loamy Soil,2.5,70000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-28 10:40:52,prediction_20260828_104052_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-28 10:41:19,prediction_20260828_104119_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-28 10:41:20,prediction_20260828_104120_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-28 10:42:30,prediction_20260828_104230_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-28 10:51:30,prediction_20260828_105130_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-28 10:51:31,prediction_20260828_105131_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-28 10:51:31,prediction_20260828_105131_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-28 10:51:56,prediction_20260828_105156_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Groundnut,89.0,319000.0,80000.0
+2026-08-28 10:52:12,prediction_20260828_105212_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,10.0,80000.0,60000.0,Groundnut,68.0,1276000.0,320000.0
+2026-08-28 10:52:14,prediction_20260828_105214_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,10.0,80000.0,60000.0,Groundnut,68.0,1276000.0,320000.0
+2026-08-28 10:52:15,prediction_20260828_105215_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,10.0,80000.0,60000.0,Groundnut,68.0,1276000.0,320000.0
+2026-08-28 10:52:18,prediction_20260828_105218_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,10.0,80000.0,60000.0,Groundnut,68.0,1276000.0,320000.0
+2026-08-28 10:52:25,prediction_20260828_105225_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,10.0,70000.0,80000.0,Groundnut,68.0,1276000.0,320000.0
+2026-08-28 10:52:27,prediction_20260828_105227_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,10.0,70000.0,80000.0,Groundnut,68.0,1276000.0,320000.0
+2026-08-28 10:52:28,prediction_20260828_105228_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,10.0,70000.0,80000.0,Groundnut,68.0,1276000.0,320000.0
+2026-08-28 10:52:32,prediction_20260828_105232_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,9.0,70000.0,80000.0,Groundnut,68.0,1148400.0,288000.0
+2026-08-28 10:52:44,prediction_20260828_105244_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,9.0,70000.0,80000.0,Groundnut,68.0,1148400.0,288000.0
+2026-08-28 10:52:45,prediction_20260828_105245_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,9.0,70000.0,80000.0,Groundnut,68.0,1148400.0,288000.0
+2026-08-28 12:21:51,prediction_20260828_122151_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-08-28 12:22:47,prediction_20260828_122247_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-08-28 12:22:54,prediction_20260828_122254_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-08-28 12:23:03,prediction_20260828_122303_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-08-28 12:23:05,prediction_20260828_122305_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-08-28 12:23:05,prediction_20260828_122305_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-08-28 12:23:07,prediction_20260828_122307_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.0,75000.0,60000.0,Groundnut,95.6,401760.0,64000.0
+2026-08-28 12:23:08,prediction_20260828_122308_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.0,75000.0,60000.0,Groundnut,95.6,401760.0,64000.0
+2026-08-28 12:23:11,prediction_20260828_122311_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.0,90000.0,60000.0,Groundnut,95.6,401760.0,64000.0
+2026-08-28 12:23:16,prediction_20260828_122316_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.0,90000.0,50000.0,Groundnut,95.6,401760.0,64000.0
+2026-08-28 12:23:19,prediction_20260828_122319_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.0,90000.0,50000.0,Groundnut,95.6,401760.0,64000.0
+2026-08-28 12:23:21,prediction_20260828_122321_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.0,90000.0,50000.0,Groundnut,95.6,401760.0,64000.0
+2026-08-28 12:23:21,prediction_20260828_122321_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.0,90000.0,50000.0,Groundnut,95.6,401760.0,64000.0
+2026-08-28 12:23:24,prediction_20260828_122324_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,3.0,90000.0,50000.0,Urad,84.4,252945.0,54000.0
+2026-08-28 12:23:25,prediction_20260828_122325_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,3.5,90000.0,50000.0,Urad,84.4,295139.0,63000.0
+2026-08-28 12:23:26,prediction_20260828_122326_Andhra_Pradesh_Sesamum.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,4.0,90000.0,50000.0,Sesamum,77.2,299040.0,64000.0
+2026-08-28 12:23:29,prediction_20260828_122329_Andhra_Pradesh_Sesamum.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,4.0,90000.0,50000.0,Sesamum,77.2,299040.0,64000.0
+2026-08-28 12:23:45,prediction_20260828_122345_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-08-28 12:25:28,prediction_20260828_122528_Gujarat_Sesamum.json,Gujarat,Ahmedabad,Kharif,Red Soil,2.5,75000.0,60000.0,Sesamum,96.2,186900.0,40000.0
+2026-08-28 12:27:09,prediction_20260828_122709_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-08-28 12:27:13,prediction_20260828_122713_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-08-28 12:27:25,prediction_20260828_122725_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-08-28 12:27:31,prediction_20260828_122731_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-08-28 12:27:58,prediction_20260828_122758_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-08-28 12:28:06,prediction_20260828_122806_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Black Soil,2.5,75000.0,60000.0,Urad,90.8,191625.0,45000.0
+2026-08-28 12:28:10,prediction_20260828_122810_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Black Soil,3.0,75000.0,60000.0,Urad,82.8,229950.0,54000.0
+2026-08-28 12:28:24,prediction_20260828_122824_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Black Soil,3.0,75000.0,60000.0,Urad,82.8,229950.0,54000.0
+2026-08-28 12:28:25,prediction_20260828_122825_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Black Soil,3.0,75000.0,60000.0,Urad,82.8,229950.0,54000.0
+2026-08-28 12:28:56,prediction_20260828_122856_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-08-28 12:29:20,prediction_20260828_122920_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-08-28 12:29:22,prediction_20260828_122922_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-08-28 12:29:22,prediction_20260828_122922_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-08-28 12:29:27,prediction_20260828_122927_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-08-28 12:29:28,prediction_20260828_122928_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-08-30 10:24:07,prediction_20260830_102407_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-08-30 10:24:10,prediction_20260830_102410_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-04 07:42:31,prediction_20260904_074231_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-04 07:42:33,prediction_20260904_074233_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-04 10:15:38,prediction_20260904_101538_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-04 10:15:41,prediction_20260904_101541_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-04 10:16:29,prediction_20260904_101629_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-04 10:17:24,prediction_20260904_101724_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.0,75000.0,60000.0,Groundnut,95.6,401760.0,64000.0
+2026-09-04 10:17:28,prediction_20260904_101728_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.0,70000.0,60000.0,Groundnut,95.6,401760.0,64000.0
+2026-09-04 10:17:32,prediction_20260904_101732_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.0,70000.0,70000.0,Urad,97.5,168630.0,36000.0
+2026-09-04 10:17:50,prediction_20260904_101750_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.0,70000.0,80000.0,Groundnut,97.5,401760.0,64000.0
+2026-09-04 10:17:51,prediction_20260904_101751_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.0,70000.0,90000.0,Groundnut,97.5,401760.0,64000.0
+2026-09-04 10:17:52,prediction_20260904_101752_Andhra_Pradesh_Maize.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.0,70000.0,100000.0,Maize,97.5,209000.0,56000.0
+2026-09-04 10:21:23,prediction_20260904_102123_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-04 10:51:51,prediction_20260904_105151_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-04 10:52:06,prediction_20260904_105206_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-04 10:52:26,prediction_20260904_105226_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-04 10:52:28,prediction_20260904_105228_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-04 10:52:31,prediction_20260904_105231_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-04 10:52:44,prediction_20260904_105244_Haryana_Bajra.json,Haryana,Ambala,Kharif,Red Soil,2.5,75000.0,60000.0,Bajra,88.97,133819.0,40000.0
+2026-09-04 10:52:47,prediction_20260904_105247_Haryana_Cotton.json,Haryana,Ambala,Whole Year,Red Soil,2.5,75000.0,60000.0,Cotton,73.36,383400.0,110000.0
+2026-09-04 10:52:49,prediction_20260904_105249_Haryana_Cotton.json,Haryana,Ambala,Whole Year,Red Soil,2.5,75000.0,60000.0,Cotton,73.36,383400.0,110000.0
+2026-09-04 10:52:49,prediction_20260904_105249_Haryana_Cotton.json,Haryana,Ambala,Whole Year,Red Soil,2.5,75000.0,60000.0,Cotton,73.36,383400.0,110000.0
+2026-09-04 10:52:50,prediction_20260904_105250_Haryana_Cotton.json,Haryana,Ambala,Whole Year,Red Soil,2.5,75000.0,60000.0,Cotton,73.36,383400.0,110000.0
+2026-09-04 10:52:51,prediction_20260904_105251_Haryana_Paddy.json,Haryana,Ambala,Whole Year,Clay Soil,2.5,75000.0,60000.0,Paddy,76.63,293625.0,105000.0
+2026-09-04 10:52:53,prediction_20260904_105253_Haryana_Paddy.json,Haryana,Ambala,Whole Year,Clay Soil,3.0,75000.0,60000.0,Paddy,70.63,352350.0,126000.0
+2026-09-04 10:52:53,prediction_20260904_105253_Haryana_Paddy.json,Haryana,Ambala,Whole Year,Clay Soil,3.5,75000.0,60000.0,Paddy,70.63,411075.0,147000.0
+2026-09-04 10:52:55,prediction_20260904_105255_Haryana_Paddy.json,Haryana,Ambala,Whole Year,Clay Soil,3.5,70000.0,60000.0,Paddy,70.63,411075.0,147000.0
+2026-09-04 10:52:55,prediction_20260904_105255_Haryana_Paddy.json,Haryana,Ambala,Whole Year,Clay Soil,3.5,65000.0,60000.0,Paddy,70.63,411075.0,147000.0
+2026-09-04 10:52:56,prediction_20260904_105256_Haryana_Paddy.json,Haryana,Ambala,Whole Year,Clay Soil,3.5,65000.0,70000.0,Paddy,70.63,411075.0,147000.0
+2026-09-04 10:52:58,prediction_20260904_105258_Haryana_Paddy.json,Haryana,Ambala,Whole Year,Clay Soil,3.5,65000.0,70000.0,Paddy,70.63,411075.0,147000.0
+2026-09-04 10:52:58,prediction_20260904_105258_Haryana_Paddy.json,Haryana,Ambala,Whole Year,Clay Soil,3.5,65000.0,70000.0,Paddy,70.63,411075.0,147000.0
+2026-09-04 10:52:58,prediction_20260904_105258_Haryana_Paddy.json,Haryana,Ambala,Whole Year,Clay Soil,3.5,65000.0,70000.0,Paddy,70.63,411075.0,147000.0
+2026-09-04 10:52:58,prediction_20260904_105258_Haryana_Paddy.json,Haryana,Ambala,Whole Year,Clay Soil,3.5,65000.0,70000.0,Paddy,70.63,411075.0,147000.0
+2026-09-04 10:52:59,prediction_20260904_105259_Haryana_Paddy.json,Haryana,Ambala,Whole Year,Clay Soil,3.5,65000.0,70000.0,Paddy,70.63,411075.0,147000.0
+2026-09-04 10:52:59,prediction_20260904_105259_Haryana_Paddy.json,Haryana,Ambala,Whole Year,Clay Soil,3.5,65000.0,70000.0,Paddy,70.63,411075.0,147000.0
+2026-09-04 10:52:59,prediction_20260904_105259_Haryana_Paddy.json,Haryana,Ambala,Whole Year,Clay Soil,3.5,65000.0,70000.0,Paddy,70.63,411075.0,147000.0
+2026-09-04 10:52:59,prediction_20260904_105259_Haryana_Paddy.json,Haryana,Ambala,Whole Year,Clay Soil,3.5,65000.0,70000.0,Paddy,70.63,411075.0,147000.0
+2026-09-04 10:53:04,prediction_20260904_105304_Haryana_Paddy.json,Haryana,Ambala,Whole Year,Clay Soil,3.5,65000.0,70000.0,Paddy,70.63,411075.0,147000.0
+2026-09-04 10:53:04,prediction_20260904_105304_Haryana_Paddy.json,Haryana,Ambala,Whole Year,Clay Soil,3.5,65000.0,70000.0,Paddy,70.63,411075.0,147000.0
+2026-09-04 10:53:05,prediction_20260904_105305_Haryana_Paddy.json,Haryana,Ambala,Whole Year,Clay Soil,3.5,65000.0,70000.0,Paddy,70.63,411075.0,147000.0
+2026-09-04 10:53:06,prediction_20260904_105306_Haryana_Paddy.json,Haryana,Ambala,Whole Year,Clay Soil,3.5,65000.0,70000.0,Paddy,70.63,411075.0,147000.0
+2026-09-04 10:53:06,prediction_20260904_105306_Haryana_Paddy.json,Haryana,Ambala,Whole Year,Clay Soil,3.5,65000.0,70000.0,Paddy,70.63,411075.0,147000.0
+2026-09-04 10:53:06,prediction_20260904_105306_Haryana_Paddy.json,Haryana,Ambala,Whole Year,Clay Soil,3.5,65000.0,70000.0,Paddy,70.63,411075.0,147000.0
+2026-09-04 10:53:07,prediction_20260904_105307_Haryana_Paddy.json,Haryana,Ambala,Whole Year,Clay Soil,3.5,65000.0,70000.0,Paddy,70.63,411075.0,147000.0
+2026-09-04 10:53:15,prediction_20260904_105315_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-04 10:53:17,prediction_20260904_105317_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-04 10:53:23,prediction_20260904_105323_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-04 10:53:23,prediction_20260904_105323_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-04 10:53:24,prediction_20260904_105324_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-04 10:53:24,prediction_20260904_105324_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-04 10:53:24,prediction_20260904_105324_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-04 10:53:33,prediction_20260904_105333_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-04 10:53:35,prediction_20260904_105335_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-04 10:53:36,prediction_20260904_105336_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-04 10:53:36,prediction_20260904_105336_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-04 10:53:36,prediction_20260904_105336_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-04 10:53:36,prediction_20260904_105336_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-04 10:53:38,prediction_20260904_105338_Andhra_Pradesh_Sesamum.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,3.0,75000.0,60000.0,Sesamum,85.2,224280.0,48000.0
+2026-09-04 10:53:38,prediction_20260904_105338_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,3.5,75000.0,60000.0,Urad,84.4,295139.0,63000.0
+2026-09-04 10:53:38,prediction_20260904_105338_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,4.0,75000.0,60000.0,Urad,84.4,337260.0,72000.0
+2026-09-04 10:54:17,prediction_20260904_105417_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-04 10:54:20,prediction_20260904_105420_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-04 10:54:21,prediction_20260904_105421_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-04 10:54:21,prediction_20260904_105421_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-04 10:54:22,prediction_20260904_105422_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-04 10:54:22,prediction_20260904_105422_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-04 10:54:22,prediction_20260904_105422_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-04 10:54:28,prediction_20260904_105428_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,4.0,75000.0,60000.0,Urad,84.4,337260.0,72000.0
+2026-09-04 10:54:37,prediction_20260904_105437_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-04 10:56:11,prediction_20260904_105611_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Laterite Soil,2.5,75000.0,60000.0,Urad,90.8,191625.0,45000.0
+2026-09-04 10:56:12,prediction_20260904_105612_Andhra_Pradesh_Sesamum.json,Andhra Pradesh,Anantapur,Kharif,Laterite Soil,3.0,75000.0,60000.0,Sesamum,86.0,233625.0,48000.0
+2026-09-04 10:56:13,prediction_20260904_105613_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Laterite Soil,3.5,75000.0,60000.0,Urad,82.8,268275.0,63000.0
+2026-09-04 10:56:14,prediction_20260904_105614_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Laterite Soil,3.5,80000.0,60000.0,Urad,82.8,268275.0,63000.0
+2026-09-04 10:56:15,prediction_20260904_105615_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Laterite Soil,3.5,80000.0,50000.0,Urad,82.8,268275.0,63000.0
+2026-09-04 10:56:18,prediction_20260904_105618_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Laterite Soil,3.5,80000.0,50000.0,Urad,82.8,268275.0,63000.0
+2026-09-04 10:56:19,prediction_20260904_105619_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Laterite Soil,3.5,80000.0,50000.0,Urad,82.8,268275.0,63000.0
+2026-09-04 10:56:19,prediction_20260904_105619_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Laterite Soil,3.5,80000.0,50000.0,Urad,82.8,268275.0,63000.0
+2026-09-04 10:56:20,prediction_20260904_105620_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Laterite Soil,3.5,80000.0,50000.0,Urad,82.8,268275.0,63000.0
+2026-09-04 10:56:20,prediction_20260904_105620_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Laterite Soil,3.5,80000.0,50000.0,Urad,82.8,268275.0,63000.0
+2026-09-04 10:56:20,prediction_20260904_105620_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Laterite Soil,3.5,80000.0,50000.0,Urad,82.8,268275.0,63000.0
+2026-09-04 10:56:22,prediction_20260904_105622_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-04 10:57:09,prediction_20260904_105709_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-04 10:57:09,prediction_20260904_105709_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-04 10:57:10,prediction_20260904_105710_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-04 11:00:07,prediction_20260904_110007_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-04 11:00:12,prediction_20260904_110012_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-04 11:00:13,prediction_20260904_110013_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-04 11:00:58,prediction_20260904_110058_Tamil_Nadu_Sesamum.json,Tamil Nadu,Ariyalur,Kharif,Red Soil,2.5,75000.0,60000.0,Sesamum,93.2,186900.0,40000.0
+2026-09-04 11:01:06,prediction_20260904_110106_Tamil_Nadu_Sesamum.json,Tamil Nadu,Pudukkottai,Kharif,Red Soil,2.5,75000.0,60000.0,Sesamum,93.2,186900.0,40000.0
+2026-09-04 11:01:08,prediction_20260904_110108_Tamil_Nadu_Maize.json,Tamil Nadu,Pudukkottai,Whole Year,Red Soil,2.5,75000.0,60000.0,Maize,79.2,261250.0,70000.0
+2026-09-04 11:01:17,prediction_20260904_110117_Tamil_Nadu_Maize.json,Tamil Nadu,Pudukkottai,Whole Year,Red Soil,2.5,75000.0,60000.0,Maize,79.2,261250.0,70000.0
+2026-09-04 11:01:17,prediction_20260904_110117_Tamil_Nadu_Maize.json,Tamil Nadu,Pudukkottai,Whole Year,Red Soil,2.5,75000.0,60000.0,Maize,79.2,261250.0,70000.0
+2026-09-04 11:01:18,prediction_20260904_110118_Tamil_Nadu_Maize.json,Tamil Nadu,Pudukkottai,Whole Year,Red Soil,2.5,75000.0,60000.0,Maize,79.2,261250.0,70000.0
+2026-09-04 11:25:37,prediction_20260904_112537_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-04 11:27:18,prediction_20260904_112718_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-04 11:27:32,prediction_20260904_112732_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Black Soil,2.5,75000.0,60000.0,Urad,90.8,191625.0,45000.0
+2026-09-04 11:27:35,prediction_20260904_112735_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Black Soil,2.5,75000.0,60000.0,Urad,90.8,191625.0,45000.0
+2026-09-04 11:27:45,prediction_20260904_112745_Andhra_Pradesh_Urad.json,Andhra Pradesh,Kadapa,Kharif,Black Soil,2.5,75000.0,60000.0,Urad,90.8,191625.0,45000.0
+2026-09-04 11:27:49,prediction_20260904_112749_Andhra_Pradesh_Urad.json,Andhra Pradesh,Kadapa,Kharif,Black Soil,2.5,75000.0,60000.0,Urad,90.8,191625.0,45000.0
+2026-09-04 11:28:01,prediction_20260904_112801_Andhra_Pradesh_Urad.json,Andhra Pradesh,Kadapa,Kharif,Black Soil,2.5,75000.0,60000.0,Urad,90.8,191625.0,45000.0
+2026-09-04 11:28:06,prediction_20260904_112806_Andhra_Pradesh_Urad.json,Andhra Pradesh,Krishna,Kharif,Black Soil,2.5,75000.0,60000.0,Urad,90.8,191625.0,45000.0
+2026-09-04 11:28:09,prediction_20260904_112809_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-04 11:29:31,prediction_20260904_112931_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-04 11:29:35,prediction_20260904_112935_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-04 11:29:40,prediction_20260904_112940_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Clay Soil,2.5,75000.0,60000.0,Urad,90.8,191625.0,45000.0
+2026-09-04 11:29:42,prediction_20260904_112942_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Clay Soil,3.0,75000.0,60000.0,Urad,82.8,229950.0,54000.0
+2026-09-04 11:29:44,prediction_20260904_112944_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Clay Soil,3.0,80000.0,60000.0,Urad,82.8,229950.0,54000.0
+2026-09-04 11:29:45,prediction_20260904_112945_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Clay Soil,3.0,80000.0,60000.0,Urad,82.8,229950.0,54000.0
+2026-09-04 11:29:51,prediction_20260904_112951_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Clay Soil,3.0,80000.0,60000.0,Urad,82.8,229950.0,54000.0
+2026-09-04 11:29:52,prediction_20260904_112952_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Clay Soil,3.0,80000.0,60000.0,Urad,82.8,229950.0,54000.0
+2026-09-04 11:54:28,prediction_20260904_115428_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-04 11:54:29,prediction_20260904_115429_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-04 11:55:35,prediction_20260904_115535_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-04 11:55:36,prediction_20260904_115536_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-04 12:05:40,prediction_20260904_120540_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-04 12:05:42,prediction_20260904_120542_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-04 12:05:48,prediction_20260904_120548_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Clay Soil,2.5,75000.0,60000.0,Urad,90.8,191625.0,45000.0
+2026-09-04 12:05:50,prediction_20260904_120550_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-04 12:05:51,prediction_20260904_120551_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-04 12:05:52,prediction_20260904_120552_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-04 12:05:52,prediction_20260904_120552_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-04 12:05:52,prediction_20260904_120552_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-04 12:05:52,prediction_20260904_120552_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-04 12:05:52,prediction_20260904_120552_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-04 12:05:56,prediction_20260904_120556_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-04 12:05:56,prediction_20260904_120556_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-04 12:05:57,prediction_20260904_120557_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-04 12:05:57,prediction_20260904_120557_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-04 12:05:57,prediction_20260904_120557_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-04 12:06:00,prediction_20260904_120600_Andhra_Pradesh_Urad.json,Andhra Pradesh,Krishna,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-04 12:06:03,prediction_20260904_120603_Andhra_Pradesh_Urad.json,Andhra Pradesh,Krishna,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-04 12:06:04,prediction_20260904_120604_Andhra_Pradesh_Urad.json,Andhra Pradesh,Krishna,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-04 12:06:04,prediction_20260904_120604_Andhra_Pradesh_Urad.json,Andhra Pradesh,Krishna,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-04 12:06:05,prediction_20260904_120605_Andhra_Pradesh_Urad.json,Andhra Pradesh,Krishna,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-04 12:06:07,prediction_20260904_120607_Andhra_Pradesh_Urad.json,Andhra Pradesh,Krishna,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-04 12:06:08,prediction_20260904_120608_Andhra_Pradesh_Urad.json,Andhra Pradesh,Krishna,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-04 12:06:13,prediction_20260904_120613_Andhra_Pradesh_Urad.json,Andhra Pradesh,Krishna,Kharif,Clay Soil,2.5,75000.0,60000.0,Urad,90.8,191625.0,45000.0
+2026-09-04 12:06:14,prediction_20260904_120614_Andhra_Pradesh_Urad.json,Andhra Pradesh,Krishna,Kharif,Clay Soil,2.5,75000.0,60000.0,Urad,90.8,191625.0,45000.0
+2026-09-04 12:06:15,prediction_20260904_120615_Andhra_Pradesh_Urad.json,Andhra Pradesh,Krishna,Kharif,Clay Soil,2.5,75000.0,60000.0,Urad,90.8,191625.0,45000.0
+2026-09-04 12:06:15,prediction_20260904_120615_Andhra_Pradesh_Urad.json,Andhra Pradesh,Krishna,Kharif,Clay Soil,2.5,75000.0,60000.0,Urad,90.8,191625.0,45000.0
+2026-09-04 12:06:28,prediction_20260904_120628_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-04 12:06:28,prediction_20260904_120628_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-04 12:06:31,prediction_20260904_120631_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-04 12:06:32,prediction_20260904_120632_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-04 12:06:32,prediction_20260904_120632_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-04 12:06:32,prediction_20260904_120632_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-04 12:06:33,prediction_20260904_120633_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-04 12:06:33,prediction_20260904_120633_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-04 12:06:34,prediction_20260904_120634_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-04 12:06:48,prediction_20260904_120648_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-04 12:06:48,prediction_20260904_120648_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-04 12:06:48,prediction_20260904_120648_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-04 12:06:48,prediction_20260904_120648_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-04 12:06:49,prediction_20260904_120649_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-04 12:06:49,prediction_20260904_120649_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-04 12:06:49,prediction_20260904_120649_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-04 12:06:49,prediction_20260904_120649_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-04 12:06:50,prediction_20260904_120650_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-04 12:06:51,prediction_20260904_120651_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-04 12:06:51,prediction_20260904_120651_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-04 12:06:52,prediction_20260904_120652_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.0,75000.0,60000.0,Groundnut,95.6,401760.0,64000.0
+2026-09-04 12:06:53,prediction_20260904_120653_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-04 12:06:54,prediction_20260904_120654_Andhra_Pradesh_Sesamum.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,3.0,75000.0,60000.0,Sesamum,85.2,224280.0,48000.0
+2026-09-04 12:06:55,prediction_20260904_120655_Andhra_Pradesh_Sesamum.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,3.0,80000.0,60000.0,Sesamum,85.2,224280.0,48000.0
+2026-09-04 12:06:55,prediction_20260904_120655_Andhra_Pradesh_Sesamum.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,3.0,85000.0,60000.0,Sesamum,85.2,224280.0,48000.0
+2026-09-04 12:06:56,prediction_20260904_120656_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,3.0,85000.0,50000.0,Urad,84.4,252945.0,54000.0
+2026-09-04 12:07:03,prediction_20260904_120703_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,3.0,85000.0,50000.0,Urad,84.4,252945.0,54000.0
+2026-09-04 12:07:03,prediction_20260904_120703_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,3.0,85000.0,50000.0,Urad,84.4,252945.0,54000.0
+2026-09-04 12:07:03,prediction_20260904_120703_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,3.0,85000.0,50000.0,Urad,84.4,252945.0,54000.0
+2026-09-04 12:07:04,prediction_20260904_120704_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,3.0,85000.0,50000.0,Urad,84.4,252945.0,54000.0
+2026-09-04 12:07:07,prediction_20260904_120707_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-04 12:07:10,prediction_20260904_120710_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-04 12:07:10,prediction_20260904_120710_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-04 12:07:10,prediction_20260904_120710_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-04 12:07:10,prediction_20260904_120710_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-04 12:07:12,prediction_20260904_120712_Andhra_Pradesh_Sesamum.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,3.0,75000.0,60000.0,Sesamum,85.2,224280.0,48000.0
+2026-09-04 12:07:13,prediction_20260904_120713_Andhra_Pradesh_Sesamum.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,3.0,75000.0,60000.0,Sesamum,85.2,224280.0,48000.0
+2026-09-04 12:07:13,prediction_20260904_120713_Andhra_Pradesh_Sesamum.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,3.0,75000.0,60000.0,Sesamum,85.2,224280.0,48000.0
+2026-09-04 12:07:13,prediction_20260904_120713_Andhra_Pradesh_Sesamum.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,3.0,75000.0,60000.0,Sesamum,85.2,224280.0,48000.0
+2026-09-04 12:07:13,prediction_20260904_120713_Andhra_Pradesh_Sesamum.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,3.0,75000.0,60000.0,Sesamum,85.2,224280.0,48000.0
+2026-09-04 12:07:14,prediction_20260904_120714_Andhra_Pradesh_Sesamum.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,3.0,75000.0,60000.0,Sesamum,85.2,224280.0,48000.0
+2026-09-04 12:07:14,prediction_20260904_120714_Andhra_Pradesh_Sesamum.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,3.0,75000.0,60000.0,Sesamum,85.2,224280.0,48000.0
+2026-09-04 12:07:14,prediction_20260904_120714_Andhra_Pradesh_Sesamum.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,3.0,75000.0,60000.0,Sesamum,85.2,224280.0,48000.0
+2026-09-04 12:07:55,prediction_20260904_120755_Andhra_Pradesh_Sesamum.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,3.0,75000.0,60000.0,Sesamum,85.2,224280.0,48000.0
+2026-09-04 12:07:55,prediction_20260904_120755_Andhra_Pradesh_Sesamum.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,3.0,75000.0,60000.0,Sesamum,85.2,224280.0,48000.0
+2026-09-04 12:07:55,prediction_20260904_120755_Andhra_Pradesh_Sesamum.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,3.0,75000.0,60000.0,Sesamum,85.2,224280.0,48000.0
+2026-09-04 12:07:56,prediction_20260904_120756_Andhra_Pradesh_Sesamum.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,3.0,75000.0,60000.0,Sesamum,85.2,224280.0,48000.0
+2026-09-04 12:07:56,prediction_20260904_120756_Andhra_Pradesh_Sesamum.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,3.0,75000.0,60000.0,Sesamum,85.2,224280.0,48000.0
+2026-09-04 12:07:56,prediction_20260904_120756_Andhra_Pradesh_Sesamum.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,3.0,75000.0,60000.0,Sesamum,85.2,224280.0,48000.0
+2026-09-04 12:08:19,prediction_20260904_120819_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-04 12:08:19,prediction_20260904_120819_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-04 12:08:23,prediction_20260904_120823_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Clay Soil,2.5,75000.0,60000.0,Urad,90.8,191625.0,45000.0
+2026-09-04 12:08:25,prediction_20260904_120825_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Clay Soil,2.0,75000.0,60000.0,Urad,90.8,153300.0,36000.0
+2026-09-04 12:08:27,prediction_20260904_120827_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Clay Soil,2.0,70000.0,60000.0,Urad,90.8,153300.0,36000.0
+2026-09-04 12:08:28,prediction_20260904_120828_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Clay Soil,2.0,55000.0,60000.0,Urad,90.8,153300.0,36000.0
+2026-09-04 12:08:29,prediction_20260904_120829_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Clay Soil,2.0,40000.0,60000.0,Urad,90.8,153300.0,36000.0
+2026-09-04 12:08:31,prediction_20260904_120831_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Clay Soil,2.0,40000.0,60000.0,Urad,90.8,153300.0,36000.0
+2026-09-04 12:08:33,prediction_20260904_120833_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Clay Soil,2.0,40000.0,60000.0,Urad,90.8,153300.0,36000.0
+2026-09-04 12:08:34,prediction_20260904_120834_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Clay Soil,2.0,40000.0,60000.0,Urad,90.8,153300.0,36000.0
+2026-09-04 12:08:38,prediction_20260904_120838_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Clay Soil,2.0,40000.0,60000.0,Urad,90.8,153300.0,36000.0
+2026-09-04 12:08:39,prediction_20260904_120839_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Clay Soil,2.0,40000.0,60000.0,Urad,90.8,153300.0,36000.0
+2026-09-04 12:08:43,prediction_20260904_120843_Andhra_Pradesh_Maize.json,Andhra Pradesh,Anantapur,Whole Year,Clay Soil,2.0,40000.0,60000.0,Maize,80.76,167200.0,56000.0
+2026-09-04 12:08:44,prediction_20260904_120844_Andhra_Pradesh_Maize.json,Andhra Pradesh,Kadapa,Whole Year,Clay Soil,2.0,40000.0,60000.0,Maize,80.76,167200.0,56000.0
+2026-09-04 12:08:46,prediction_20260904_120846_Karnataka_Maize.json,Karnataka,Bagalkot,Whole Year,Clay Soil,2.0,40000.0,60000.0,Maize,87.36,167200.0,56000.0
+2026-09-04 12:08:50,prediction_20260904_120850_Karnataka_Maize.json,Karnataka,Bagalkot,Whole Year,Clay Soil,2.0,40000.0,60000.0,Maize,87.36,167200.0,56000.0
+2026-09-04 12:08:51,prediction_20260904_120851_Karnataka_Maize.json,Karnataka,Bagalkot,Whole Year,Clay Soil,2.0,40000.0,60000.0,Maize,87.36,167200.0,56000.0
+2026-09-04 12:33:13,prediction_20260904_123313_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-04 12:33:23,prediction_20260904_123323_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Black Soil,2.5,75000.0,60000.0,Urad,90.8,191625.0,45000.0
+2026-09-04 12:33:26,prediction_20260904_123326_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Black Soil,3.0,75000.0,60000.0,Urad,82.8,229950.0,54000.0
+2026-09-04 12:33:29,prediction_20260904_123329_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Black Soil,3.0,80000.0,60000.0,Urad,82.8,229950.0,54000.0
+2026-09-04 12:33:29,prediction_20260904_123329_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Black Soil,3.0,85000.0,60000.0,Urad,82.8,229950.0,54000.0
+2026-09-04 12:33:31,prediction_20260904_123331_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Black Soil,3.0,85000.0,60000.0,Urad,82.8,229950.0,54000.0
+2026-09-04 12:34:08,prediction_20260904_123408_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-04 12:34:28,prediction_20260904_123428_Tamil_Nadu_Sesamum.json,Tamil Nadu,Ariyalur,Kharif,Red Soil,2.5,75000.0,60000.0,Sesamum,93.2,186900.0,40000.0
+2026-09-04 12:34:33,prediction_20260904_123433_Tamil_Nadu_Sesamum.json,Tamil Nadu,Pudukkottai,Kharif,Red Soil,2.5,75000.0,60000.0,Sesamum,93.2,186900.0,40000.0
+2026-09-04 12:34:36,prediction_20260904_123436_Tamil_Nadu_Maize.json,Tamil Nadu,Pudukkottai,Whole Year,Red Soil,2.5,75000.0,60000.0,Maize,79.2,261250.0,70000.0
+2026-09-04 12:34:50,prediction_20260904_123450_Tamil_Nadu_Maize.json,Tamil Nadu,Pudukkottai,Whole Year,Red Soil,3.0,75000.0,60000.0,Maize,72.2,313500.0,84000.0
+2026-09-04 12:34:51,prediction_20260904_123451_Tamil_Nadu_Maize.json,Tamil Nadu,Pudukkottai,Whole Year,Red Soil,3.0,70000.0,60000.0,Maize,72.2,313500.0,84000.0
+2026-09-04 12:34:54,prediction_20260904_123454_Tamil_Nadu_Maize.json,Tamil Nadu,Pudukkottai,Whole Year,Red Soil,3.0,70000.0,50000.0,Maize,72.2,313500.0,84000.0
+2026-09-04 12:35:02,prediction_20260904_123502_Tamil_Nadu_Maize.json,Tamil Nadu,Pudukkottai,Whole Year,Red Soil,3.0,70000.0,50000.0,Maize,72.2,313500.0,84000.0
+2026-09-04 12:35:04,prediction_20260904_123504_Tamil_Nadu_Maize.json,Tamil Nadu,Pudukkottai,Whole Year,Red Soil,3.0,70000.0,50000.0,Maize,72.2,313500.0,84000.0
+2026-09-04 12:35:05,prediction_20260904_123505_Tamil_Nadu_Maize.json,Tamil Nadu,Pudukkottai,Whole Year,Red Soil,3.0,70000.0,50000.0,Maize,72.2,313500.0,84000.0
+2026-09-04 12:35:10,prediction_20260904_123510_Tamil_Nadu_Maize.json,Tamil Nadu,Pudukkottai,Whole Year,Red Soil,3.0,70000.0,50000.0,Maize,72.2,313500.0,84000.0
+2026-09-04 12:35:11,prediction_20260904_123511_Tamil_Nadu_Maize.json,Tamil Nadu,Pudukkottai,Whole Year,Red Soil,3.0,70000.0,50000.0,Maize,72.2,313500.0,84000.0
+2026-09-04 12:35:11,prediction_20260904_123511_Tamil_Nadu_Maize.json,Tamil Nadu,Pudukkottai,Whole Year,Red Soil,3.0,70000.0,50000.0,Maize,72.2,313500.0,84000.0
+2026-09-04 12:35:14,prediction_20260904_123514_Tamil_Nadu_Maize.json,Tamil Nadu,Pudukkottai,Whole Year,Red Soil,4.0,70000.0,50000.0,Maize,72.2,418000.0,112000.0
+2026-09-04 12:35:15,prediction_20260904_123515_Tamil_Nadu_Cotton.json,Tamil Nadu,Pudukkottai,Whole Year,Red Soil,4.5,70000.0,50000.0,Cotton,69.56,690120.0,198000.0
+2026-09-04 12:35:17,prediction_20260904_123517_Tamil_Nadu_Cotton.json,Tamil Nadu,Pudukkottai,Whole Year,Red Soil,4.5,70000.0,50000.0,Cotton,69.56,690120.0,198000.0
+2026-09-04 12:35:18,prediction_20260904_123518_Tamil_Nadu_Cotton.json,Tamil Nadu,Pudukkottai,Whole Year,Red Soil,4.5,70000.0,50000.0,Cotton,69.56,690120.0,198000.0
+2026-09-04 12:35:18,prediction_20260904_123518_Tamil_Nadu_Cotton.json,Tamil Nadu,Pudukkottai,Whole Year,Red Soil,4.5,70000.0,50000.0,Cotton,69.56,690120.0,198000.0
+2026-09-04 12:35:21,prediction_20260904_123521_Tamil_Nadu_Cotton.json,Tamil Nadu,Pudukkottai,Whole Year,Black Soil,4.5,70000.0,50000.0,Cotton,70.6,805140.0,198000.0
+2026-09-04 12:35:23,prediction_20260904_123523_Tamil_Nadu_Cotton.json,Tamil Nadu,Pudukkottai,Whole Year,Black Soil,4.5,70000.0,50000.0,Cotton,70.6,805140.0,198000.0
+2026-09-04 12:35:24,prediction_20260904_123524_Tamil_Nadu_Cotton.json,Tamil Nadu,Pudukkottai,Whole Year,Black Soil,4.5,70000.0,50000.0,Cotton,70.6,805140.0,198000.0
+2026-09-04 12:35:25,prediction_20260904_123525_Tamil_Nadu_Cotton.json,Tamil Nadu,Pudukkottai,Whole Year,Black Soil,4.5,70000.0,50000.0,Cotton,70.6,805140.0,198000.0
+2026-09-04 12:35:28,prediction_20260904_123528_Tamil_Nadu_Cotton.json,Tamil Nadu,Pudukkottai,Whole Year,Black Soil,4.5,70000.0,50000.0,Cotton,70.6,805140.0,198000.0
+2026-09-04 12:35:33,prediction_20260904_123533_Tamil_Nadu_Cotton.json,Tamil Nadu,Pudukkottai,Whole Year,Sandy Soil,4.5,70000.0,50000.0,Cotton,64.73,575100.0,198000.0
+2026-09-04 12:35:36,prediction_20260904_123536_Tamil_Nadu_Cotton.json,Tamil Nadu,Pudukkottai,Whole Year,Sandy Soil,5.0,70000.0,50000.0,Cotton,64.73,639000.0,220000.0
+2026-09-04 12:35:38,prediction_20260904_123538_Tamil_Nadu_Cotton.json,Tamil Nadu,Pudukkottai,Whole Year,Sandy Soil,5.0,80000.0,50000.0,Cotton,64.73,639000.0,220000.0
+2026-09-04 12:35:39,prediction_20260904_123539_Tamil_Nadu_Maize.json,Tamil Nadu,Pudukkottai,Whole Year,Sandy Soil,5.0,90000.0,50000.0,Maize,66.56,418000.0,140000.0
+2026-09-04 12:35:41,prediction_20260904_123541_Tamil_Nadu_Maize.json,Tamil Nadu,Pudukkottai,Whole Year,Sandy Soil,5.0,90000.0,50000.0,Maize,66.56,418000.0,140000.0
+2026-09-04 12:35:43,prediction_20260904_123543_Tamil_Nadu_Maize.json,Tamil Nadu,Pudukkottai,Whole Year,Sandy Soil,5.0,90000.0,50000.0,Maize,66.56,418000.0,140000.0
+2026-09-04 12:35:48,prediction_20260904_123548_Tamil_Nadu_Paddy.json,Tamil Nadu,Pudukkottai,Whole Year,Laterite Soil,5.0,90000.0,50000.0,Paddy,69.61,465750.0,210000.0
+2026-09-04 12:35:50,prediction_20260904_123550_Tamil_Nadu_Paddy.json,Tamil Nadu,Pudukkottai,Whole Year,Laterite Soil,5.5,90000.0,50000.0,Paddy,69.61,512325.0,231000.0
+2026-09-04 12:35:51,prediction_20260904_123551_Tamil_Nadu_Paddy.json,Tamil Nadu,Pudukkottai,Whole Year,Laterite Soil,7.0,90000.0,50000.0,Paddy,69.61,652050.0,294000.0
+2026-09-04 12:35:53,prediction_20260904_123553_Tamil_Nadu_Paddy.json,Tamil Nadu,Pudukkottai,Whole Year,Laterite Soil,6.0,90000.0,50000.0,Paddy,69.61,558900.0,252000.0
+2026-09-04 12:36:36,prediction_20260904_123636_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-04 12:36:37,prediction_20260904_123637_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-04 12:36:55,prediction_20260904_123655_Tamil_Nadu_Sesamum.json,Tamil Nadu,Ariyalur,Kharif,Red Soil,2.5,75000.0,60000.0,Sesamum,93.2,186900.0,40000.0
+2026-09-04 12:37:06,prediction_20260904_123706_Tamil_Nadu_Sesamum.json,Tamil Nadu,Pudukkottai,Kharif,Red Soil,2.5,75000.0,60000.0,Sesamum,93.2,186900.0,40000.0
+2026-09-04 12:37:08,prediction_20260904_123708_Tamil_Nadu_Maize.json,Tamil Nadu,Pudukkottai,Whole Year,Red Soil,2.5,75000.0,60000.0,Maize,79.2,261250.0,70000.0
+2026-09-04 12:37:19,prediction_20260904_123719_Tamil_Nadu_Maize.json,Tamil Nadu,Pudukkottai,Whole Year,Red Soil,3.0,75000.0,60000.0,Maize,72.2,313500.0,84000.0
+2026-09-04 12:37:21,prediction_20260904_123721_Tamil_Nadu_Maize.json,Tamil Nadu,Pudukkottai,Whole Year,Red Soil,3.0,75000.0,60000.0,Maize,72.2,313500.0,84000.0
+2026-09-04 12:37:27,prediction_20260904_123727_Tamil_Nadu_Maize.json,Tamil Nadu,Pudukkottai,Whole Year,Red Soil,3.5,75000.0,60000.0,Maize,72.2,365750.0,98000.0
+2026-09-04 12:37:28,prediction_20260904_123728_Tamil_Nadu_Maize.json,Tamil Nadu,Pudukkottai,Whole Year,Red Soil,4.0,75000.0,60000.0,Maize,72.2,418000.0,112000.0
+2026-09-04 12:37:30,prediction_20260904_123730_Tamil_Nadu_Maize.json,Tamil Nadu,Pudukkottai,Whole Year,Red Soil,4.0,80000.0,60000.0,Maize,72.2,418000.0,112000.0
+2026-09-04 12:37:32,prediction_20260904_123732_Tamil_Nadu_Maize.json,Tamil Nadu,Pudukkottai,Whole Year,Red Soil,4.0,85000.0,60000.0,Maize,72.2,418000.0,112000.0
+2026-09-04 12:37:32,prediction_20260904_123732_Tamil_Nadu_Maize.json,Tamil Nadu,Pudukkottai,Whole Year,Red Soil,4.0,95000.0,60000.0,Maize,72.2,418000.0,112000.0
+2026-09-04 12:37:33,prediction_20260904_123733_Tamil_Nadu_Maize.json,Tamil Nadu,Pudukkottai,Whole Year,Red Soil,4.0,105000.0,60000.0,Maize,72.2,418000.0,112000.0
+2026-09-04 12:37:34,prediction_20260904_123734_Tamil_Nadu_Maize.json,Tamil Nadu,Pudukkottai,Whole Year,Red Soil,4.0,100000.0,60000.0,Maize,72.2,418000.0,112000.0
+2026-09-04 12:37:36,prediction_20260904_123736_Tamil_Nadu_Maize.json,Tamil Nadu,Pudukkottai,Whole Year,Red Soil,4.0,100000.0,50000.0,Maize,72.2,418000.0,112000.0
+2026-09-04 12:37:36,prediction_20260904_123736_Tamil_Nadu_Maize.json,Tamil Nadu,Pudukkottai,Whole Year,Red Soil,4.0,100000.0,40000.0,Maize,72.2,418000.0,112000.0
+2026-09-04 12:37:40,prediction_20260904_123740_Tamil_Nadu_Maize.json,Tamil Nadu,Pudukkottai,Whole Year,Sandy Soil,4.0,100000.0,40000.0,Maize,66.56,334400.0,112000.0
+2026-09-04 12:37:45,prediction_20260904_123745_Tamil_Nadu_Maize.json,Tamil Nadu,Pudukkottai,Whole Year,Sandy Soil,4.0,100000.0,40000.0,Maize,66.56,334400.0,112000.0
+2026-09-04 12:37:47,prediction_20260904_123747_Tamil_Nadu_Maize.json,Tamil Nadu,Pudukkottai,Whole Year,Sandy Soil,4.0,100000.0,40000.0,Maize,66.56,334400.0,112000.0
+2026-09-04 12:37:47,prediction_20260904_123747_Tamil_Nadu_Maize.json,Tamil Nadu,Pudukkottai,Whole Year,Sandy Soil,4.0,100000.0,40000.0,Maize,66.56,334400.0,112000.0
+2026-09-04 12:37:48,prediction_20260904_123748_Tamil_Nadu_Maize.json,Tamil Nadu,Pudukkottai,Whole Year,Sandy Soil,4.0,100000.0,40000.0,Maize,66.56,334400.0,112000.0
+2026-09-04 12:37:52,prediction_20260904_123752_Tamil_Nadu_Paddy.json,Tamil Nadu,Pudukkottai,Whole Year,Laterite Soil,4.0,100000.0,40000.0,Paddy,69.61,372600.0,168000.0
+2026-09-04 12:37:56,prediction_20260904_123756_Tamil_Nadu_Paddy.json,Tamil Nadu,Pudukkottai,Whole Year,Laterite Soil,4.0,100000.0,40000.0,Paddy,69.61,372600.0,168000.0
+2026-09-04 12:38:14,prediction_20260904_123814_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-04 12:50:36,prediction_20260904_125036_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-04 12:50:50,prediction_20260904_125050_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Alluvial,3.0,70000.0,60000.0,Urad,82.8,229950.0,54000.0
+2026-09-04 12:51:05,prediction_20260904_125105_Andhra_Pradesh_Groundnut.json,Andhra Pradesh,Anantapur,Kharif,Loamy Soil,5.0,70000.0,110000.0,Groundnut,82.6,930000.0,160000.0
+2026-09-04 12:51:32,prediction_20260904_125132_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-04 12:52:04,prediction_20260904_125204_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-04 12:52:30,prediction_20260904_125230_Tamil_Nadu_Urad.json,Tamil Nadu,Dindigul,Rabi,Red Soil,2.5,75000.0,60000.0,Urad,91.6,210824.0,45000.0
+2026-09-04 12:55:05,prediction_20260904_125505_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-04 12:55:05,prediction_20260904_125505_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-04 12:59:59,prediction_20260904_125959_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-04 13:02:20,prediction_20260904_130220_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-04 13:20:29,prediction_20260904_132029_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-04 13:21:17,prediction_20260904_132117_Tamil_Nadu_Moong.json,Tamil Nadu,Pudukkottai,Kharif,Clay Soil,4.0,90000.0,60000.0,Moong,82.0,330000.0,72000.0
+2026-09-04 13:21:23,prediction_20260904_132123_Tamil_Nadu_Moong.json,Tamil Nadu,Pudukkottai,Kharif,Clay Soil,4.0,90000.0,60000.0,Moong,82.0,330000.0,72000.0
+2026-09-04 13:22:04,prediction_20260904_132204_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-04 13:22:19,prediction_20260904_132219_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-04 13:22:26,prediction_20260904_132226_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-04 16:39:22,prediction_20260904_163922_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-04 16:39:25,prediction_20260904_163925_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-04 16:39:58,prediction_20260904_163958_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Sandy Soil,3.0,60000.0,70000.0,Urad,90.8,229950.0,54000.0
+2026-09-05 09:54:08,prediction_20260905_095408_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-05 09:54:37,prediction_20260905_095437_Tamil_Nadu_Sesamum.json,Tamil Nadu,Pudukkottai,Whole Year,Sandy Soil,3.0,70000.0,70000.0,Sesamum,73.0,233625.0,48000.0
+2026-09-08 13:02:25,prediction_20260908_130225_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-08 13:02:27,prediction_20260908_130227_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-08 13:02:54,prediction_20260908_130254_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-08 13:03:17,prediction_20260908_130317_Haryana_Mustard.json,Haryana,Ambala,Whole Year,Sandy Soil,3.0,70000.0,60000.0,Mustard,74.6,354348.0,66000.0
+2026-09-08 13:03:22,prediction_20260908_130322_Haryana_Mustard.json,Haryana,Ambala,Whole Year,Sandy Soil,3.0,70000.0,60000.0,Mustard,74.6,354348.0,66000.0
+2026-09-08 13:03:24,prediction_20260908_130324_Haryana_Mustard.json,Haryana,Ambala,Whole Year,Sandy Soil,3.0,70000.0,60000.0,Mustard,74.6,354348.0,66000.0
+2026-09-08 13:03:24,prediction_20260908_130324_Haryana_Mustard.json,Haryana,Ambala,Whole Year,Sandy Soil,3.0,70000.0,60000.0,Mustard,74.6,354348.0,66000.0
+2026-09-08 13:04:56,prediction_20260908_130456_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-08 13:17:45,prediction_20260908_131745_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-08 13:18:16,prediction_20260908_131816_Puducherry_Paddy.json,Puducherry,Karaikal,Whole Year,Clay Soil,3.5,80000.0,50000.0,Paddy,72.83,411075.0,147000.0
+2026-09-08 13:18:21,prediction_20260908_131821_Puducherry_Paddy.json,Puducherry,Karaikal,Whole Year,Clay Soil,3.5,80000.0,50000.0,Paddy,72.83,411075.0,147000.0
+2026-09-08 13:18:23,prediction_20260908_131823_Puducherry_Paddy.json,Puducherry,Karaikal,Whole Year,Clay Soil,3.5,80000.0,50000.0,Paddy,72.83,411075.0,147000.0
+2026-09-08 13:18:24,prediction_20260908_131824_Puducherry_Paddy.json,Puducherry,Karaikal,Whole Year,Clay Soil,3.5,80000.0,50000.0,Paddy,72.83,411075.0,147000.0
+2026-09-08 13:24:13,prediction_20260908_132413_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-08 13:24:25,prediction_20260908_132425_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-08 13:26:18,prediction_20260908_132618_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-08 13:26:55,prediction_20260908_132655_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-08 13:28:14,prediction_20260908_132814_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-08 13:35:33,prediction_20260908_133533_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-08 13:35:34,prediction_20260908_133534_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-08 13:36:10,prediction_20260908_133610_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-08 13:36:28,prediction_20260908_133628_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-08 13:36:47,prediction_20260908_133647_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-08 13:36:54,prediction_20260908_133654_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-08 13:44:30,prediction_20260908_134430_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-08 13:44:52,prediction_20260908_134452_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-08 13:45:01,prediction_20260908_134501_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-08 13:45:41,prediction_20260908_134541_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-08 19:07:47,prediction_20260908_190747_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-08 19:07:55,prediction_20260908_190755_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-08 19:14:47,prediction_20260908_191447_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-08 19:15:09,prediction_20260908_191509_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-11 11:11:22,prediction_20260911_111122_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-11 11:11:27,prediction_20260911_111127_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-23 17:52:52,prediction_20260923_175252_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0
+2026-09-23 17:56:37,prediction_20260923_175637_Andhra_Pradesh_Urad.json,Andhra Pradesh,Anantapur,Kharif,Red Soil,2.5,75000.0,60000.0,Urad,92.4,210824.0,45000.0

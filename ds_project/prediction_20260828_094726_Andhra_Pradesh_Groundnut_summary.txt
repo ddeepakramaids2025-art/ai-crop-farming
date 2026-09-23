@@ -1,0 +1,13 @@
+Kisan Agri Advisory Portal — Farm Advisory Report
+Recommended Crop: Groundnut
+Suitability Score: 89.0/100
+Date: 2026-08-28 09:47:26
+Location: Andhra Pradesh, Anantapur (Kharif)
+Land Area: 2.5 acres | Budget: INR 75,000
+
+Top Recommended Crops:
+#1 Groundnut | Score: 89.0 | Revenue: INR 319,000 | Cost: INR 80,000
+#2 Urad | Score: 88.0 | Revenue: INR 166,250 | Cost: INR 45,000
+#3 Sesamum | Score: 88.0 | Revenue: INR 138,125 | Cost: INR 40,000
+#4 Moong | Score: 80.0 | Revenue: INR 180,000 | Cost: INR 45,000
+#5 Bajra | Score: 77.93 | Revenue: INR 105,750 | Cost: INR 40,000

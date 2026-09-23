@@ -1,0 +1,128 @@
+{
+  "record_id": "prediction_20260828_095130_Andhra_Pradesh_Sesamum",
+  "timestamp": "2026-08-28 09:51:30",
+  "prediction": {
+    "success": true,
+    "state": "Andhra Pradesh",
+    "district": "Anantapur",
+    "season": "Kharif",
+    "soil_type": "Red Soil",
+    "land_acres": 3.0,
+    "budget": 75000.0,
+    "water_litres": 40000.0,
+    "best_crop": "Sesamum",
+    "best_score": 80.0,
+    "best_rank": 1,
+    "recommendations": [
+      {
+        "crop": "Sesamum",
+        "decision_score": 80.0,
+        "yield_quintals": 19.5,
+        "production_metric_tons": 1.95,
+        "cultivation_cost": 48000.0,
+        "historical_market_price": 8500.0,
+        "expected_revenue": 165750.0,
+        "required_water_litres": 90000.0,
+        "disease_risk": 15.0,
+        "weather_risk": 15.0,
+        "risk_score": 85.0,
+        "budget_score": 100.0,
+        "data_coverage": "Verified Agricultural Data",
+        "reasons": [
+          "Optimal match for Kharif season in Andhra Pradesh",
+          "Highly compatible with Red Soil",
+          "High profit margin (Projected ₹117,750 net profit)",
+          "Economical cultivation expense within your pocket budget"
+        ],
+        "rank": 1
+      },
+      {
+        "crop": "Groundnut",
+        "decision_score": 74.0,
+        "yield_quintals": 66.0,
+        "production_metric_tons": 6.6,
+        "cultivation_cost": 96000.0,
+        "historical_market_price": 5800.0,
+        "expected_revenue": 382800.0,
+        "required_water_litres": 180000.0,
+        "disease_risk": 25.0,
+        "weather_risk": 20.0,
+        "risk_score": 77.5,
+        "budget_score": 53.3,
+        "data_coverage": "Verified Agricultural Data",
+        "reasons": [
+          "Optimal match for Kharif season in Andhra Pradesh",
+          "Highly compatible with Red Soil",
+          "High profit margin (Projected ₹286,800 net profit)"
+        ],
+        "rank": 2
+      },
+      {
+        "crop": "Urad",
+        "decision_score": 73.0,
+        "yield_quintals": 28.5,
+        "production_metric_tons": 2.85,
+        "cultivation_cost": 54000.0,
+        "historical_market_price": 7000.0,
+        "expected_revenue": 199500.0,
+        "required_water_litres": 105000.0,
+        "disease_risk": 20.0,
+        "weather_risk": 15.0,
+        "risk_score": 82.5,
+        "budget_score": 100.0,
+        "data_coverage": "Verified Agricultural Data",
+        "reasons": [
+          "Optimal match for Kharif season in Andhra Pradesh",
+          "Highly compatible with Red Soil",
+          "High profit margin (Projected ₹145,500 net profit)",
+          "Economical cultivation expense within your pocket budget"
+        ],
+        "rank": 3
+      },
+      {
+        "crop": "Maize",
+        "decision_score": 68.06,
+        "yield_quintals": 105.0,
+        "production_metric_tons": 10.5,
+        "cultivation_cost": 84000.0,
+        "historical_market_price": 2150.0,
+        "expected_revenue": 225750.0,
+        "required_water_litres": 210000.0,
+        "disease_risk": 20.0,
+        "weather_risk": 20.0,
+        "risk_score": 80.0,
+        "budget_score": 53.3,
+        "data_coverage": "Verified Agricultural Data",
+        "reasons": [
+          "Optimal match for Kharif season in Andhra Pradesh",
+          "Highly compatible with Red Soil",
+          "High profit margin (Projected ₹141,750 net profit)"
+        ],
+        "rank": 4
+      },
+      {
+        "crop": "Cotton",
+        "decision_score": 67.25,
+        "yield_quintals": 48.0,
+        "production_metric_tons": 4.8,
+        "cultivation_cost": 135000.0,
+        "historical_market_price": 6800.0,
+        "expected_revenue": 326400.0,
+        "required_water_litres": 285000.0,
+        "disease_risk": 35.0,
+        "weather_risk": 25.0,
+        "risk_score": 70.0,
+        "budget_score": 13.3,
+        "data_coverage": "Verified Agricultural Data",
+        "reasons": [
+          "Optimal match for Kharif season in Andhra Pradesh",
+          "Highly compatible with Red Soil",
+          "High profit margin (Projected ₹191,400 net profit)"
+        ],
+        "rank": 5
+      }
+    ],
+    "data_source_mode": "District & Agro-Climatic Intelligence",
+    "market_price_note": "Historical market mandi intelligence verified across government records."
+  }
+}

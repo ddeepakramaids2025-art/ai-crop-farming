@@ -1,0 +1,6 @@
+crop,decision_score,yield_quintals,production_metric_tons,cultivation_cost,historical_market_price,expected_revenue,required_water_litres,disease_risk,weather_risk,risk_score,budget_score,data_coverage,reasons,rank
+Sesamum,73.0,26.25,2.62,48000.0,8900.0,233625.0,84000.0,14.0,14.0,86.0,100.0,Verified Agricultural Data,"['Highly productive in Sandy Soil (25% yield boost)', 'High profit margin (Projected ₹185,625 net profit)', 'Cultivation cost within budget']",1
+Groundnut,69.8,93.6,9.36,96000.0,6200.0,580320.0,165000.0,22.0,18.0,80.0,53.3,Verified Agricultural Data,"['Highly productive in Sandy Soil (30% yield boost)', 'High profit margin (Projected ₹484,320 net profit)']",2
+Moong,69.0,33.0,3.3,54000.0,7500.0,247500.0,96000.0,18.0,14.0,84.0,100.0,Verified Agricultural Data,"['High profit margin (Projected ₹193,500 net profit)', 'Cultivation cost within budget']",3
+Urad,69.0,31.5,3.15,54000.0,7300.0,229950.0,96000.0,18.0,14.0,84.0,100.0,Verified Agricultural Data,"['High profit margin (Projected ₹175,950 net profit)', 'Cultivation cost within budget']",4
+Maize,66.56,114.0,11.4,84000.0,2200.0,250800.0,210000.0,20.0,18.0,81.0,53.3,Verified Agricultural Data,"['Optimal match for Whole Year season in Tamil Nadu', 'High profit margin (Projected ₹166,800 net profit)']",5

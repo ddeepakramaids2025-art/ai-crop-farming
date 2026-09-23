@@ -1,0 +1,6 @@
+rank,crop,decision_score,yield_quintals,production_metric_tons,cultivation_cost,historical_market_price,expected_revenue,required_water_litres,disease_risk,weather_risk,risk_score,budget_score,data_coverage,reasons
+1,Bajra,60.83,53.51,5744.21,37245.85,2458.26,131544.82,1900000.0,62.48,50.43,43.55,80.55,83.33333333333334,"['Economical input and cultivation cost', ""Optimal feasibility within farmer's budget"", 'Excellent drought tolerance and low water consumption']"
+2,Fennel,49.56,59.68,8628.24,69371.63,2436.16,145379.5,1800000.0,62.48,50.43,43.55,43.25,66.66666666666666,['High yield and harvest potential']
+3,Gram,48.81,47.56,7282.9,46863.89,2514.43,119589.95,1800000.0,62.48,50.43,43.55,64.02,83.33333333333334,"['Economical input and cultivation cost', 'Excellent drought tolerance and low water consumption']"
+4,Oilseeds,40.94,58.51,9421.51,69371.63,2447.8,143225.5,3000000.0,62.48,50.43,43.55,43.25,66.66666666666666,['High yield and harvest potential']
+5,Citrus,39.84,49.0,7510.99,69371.63,2584.46,126641.59,6000000.0,62.48,50.43,43.55,43.25,66.66666666666666,['Strong historical market price and profitability']

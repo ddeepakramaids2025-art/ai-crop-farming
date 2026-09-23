@@ -1,0 +1,13 @@
+Kisan Agri Advisory Portal — Farm Advisory Report
+Recommended Crop: Paddy
+Suitability Score: 67.34/100
+Date: 2026-08-27 12:23:50
+Location: Kerala, Alappuzha (Whole Year)
+Land Area: 4.0 acres | Budget: INR 60,000
+
+Top Recommended Crops:
+#1 Paddy | Score: 67.34 | Revenue: INR 299,200 | Cost: INR 168,000
+#2 Tomato | Score: 62.0 | Revenue: INR 768,000 | Cost: INR 180,000
+#3 Cotton | Score: 49.25 | Revenue: INR 435,200 | Cost: INR 180,000
+#4 Sugarcane | Score: 46.69 | Revenue: INR 532,000 | Cost: INR 340,000
+#5 Sesamum | Score: 40.0 | Revenue: INR 221,000 | Cost: INR 64,000

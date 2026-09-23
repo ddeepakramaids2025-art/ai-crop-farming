@@ -1,0 +1,125 @@
+{
+  "record_id": "prediction_20260824_222257_Andhra_Pradesh_Gram",
+  "timestamp": "2026-08-24 22:22:57",
+  "prediction": {
+    "success": true,
+    "state": "Andhra Pradesh",
+    "district": "Anantapur",
+    "season": "Kharif",
+    "soil_type": "Alluvial",
+    "land_acres": 2.0,
+    "budget": 75000.0,
+    "water_litres": 60000.0,
+    "best_crop": "Gram",
+    "best_score": 55.29,
+    "best_rank": 1,
+    "recommendations": [
+      {
+        "rank": 1,
+        "crop": "Gram",
+        "decision_score": 55.29,
+        "yield_quintals": 24.0,
+        "production_metric_tons": 2.4,
+        "cultivation_cost": 64362.98,
+        "historical_market_price": 2544.6,
+        "expected_revenue": 61070.4,
+        "required_water_litres": 1800000.0,
+        "disease_risk": 30.0,
+        "weather_risk": 40.0,
+        "risk_score": 65.0,
+        "budget_score": 58.26,
+        "data_coverage": "State & Market Extrapolated",
+        "reasons": [
+          "Strong historical market price and profitability",
+          "Economical input and cultivation cost",
+          "Low combined disease and climate vulnerability",
+          "Excellent drought tolerance and low water consumption"
+        ]
+      },
+      {
+        "rank": 2,
+        "crop": "Sugarcane",
+        "decision_score": 52.87,
+        "yield_quintals": 640.0,
+        "production_metric_tons": 64.0,
+        "cultivation_cost": 148561.64,
+        "historical_market_price": 2526.1,
+        "expected_revenue": 1616704.0,
+        "required_water_litres": 13000000.0,
+        "disease_risk": 75.0,
+        "weather_risk": 40.0,
+        "risk_score": 42.5,
+        "budget_score": 25.24,
+        "data_coverage": "State & Market Extrapolated",
+        "reasons": [
+          "High yield and harvest potential"
+        ]
+      },
+      {
+        "rank": 3,
+        "crop": "Sesamum",
+        "decision_score": 46.81,
+        "yield_quintals": 50.0,
+        "production_metric_tons": 5.0,
+        "cultivation_cost": 31663.21,
+        "historical_market_price": 2500.0,
+        "expected_revenue": 125000.0,
+        "required_water_litres": 3000000.0,
+        "disease_risk": 30.0,
+        "weather_risk": 40.0,
+        "risk_score": 65.0,
+        "budget_score": 100.0,
+        "data_coverage": "State & Market Extrapolated",
+        "reasons": [
+          "Economical input and cultivation cost",
+          "Low combined disease and climate vulnerability",
+          "Optimal feasibility within farmer's budget"
+        ]
+      },
+      {
+        "rank": 4,
+        "crop": "Moong",
+        "decision_score": 45.14,
+        "yield_quintals": 50.0,
+        "production_metric_tons": 5.0,
+        "cultivation_cost": 39294.54,
+        "historical_market_price": 2500.0,
+        "expected_revenue": 125000.0,
+        "required_water_litres": 3000000.0,
+        "disease_risk": 30.0,
+        "weather_risk": 40.0,
+        "risk_score": 65.0,
+        "budget_score": 95.43,
+        "data_coverage": "State & Market Extrapolated",
+        "reasons": [
+          "Economical input and cultivation cost",
+          "Low combined disease and climate vulnerability",
+          "Optimal feasibility within farmer's budget"
+        ]
+      },
+      {
+        "rank": 5,
+        "crop": "Arhar",
+        "decision_score": 44.61,
+        "yield_quintals": 50.0,
+        "production_metric_tons": 5.0,
+        "cultivation_cost": 40398.91,
+        "historical_market_price": 2500.0,
+        "expected_revenue": 125000.0,
+        "required_water_litres": 3000000.0,
+        "disease_risk": 30.0,
+        "weather_risk": 40.0,
+        "risk_score": 65.0,
+        "budget_score": 92.82,
+        "data_coverage": "State & Market Extrapolated",
+        "reasons": [
+          "Economical input and cultivation cost",
+          "Low combined disease and climate vulnerability",
+          "Optimal feasibility within farmer's budget"
+        ]
+      }
+    ],
+    "data_source_mode": "State-Extrapolated",
+    "market_price_note": "Historical market mandi intelligence verified across government and benchmark datasets."
+  }
+}

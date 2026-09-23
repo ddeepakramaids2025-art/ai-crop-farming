@@ -1,0 +1,13 @@
+AI Crop Decision System — Farm Advisory Report
+Best Recommended Crop: Bajra
+Decision Score: 54.83/100
+Date: 2026-08-25 11:14:54
+Location: Rajasthan, Ajmer (Kharif)
+Land Area: 2.5 acres | Pocket Budget: INR 75,000
+
+Top Crop Recommendations:
+#1 Bajra | Score: 54.83 | Revenue: INR 131,545 | Cost: INR 37,246
+#2 Fennel | Score: 43.56 | Revenue: INR 145,380 | Cost: INR 69,372
+#3 Oilseeds | Score: 42.94 | Revenue: INR 143,226 | Cost: INR 69,372
+#4 Gram | Score: 42.81 | Revenue: INR 119,590 | Cost: INR 46,864
+#5 Citrus | Score: 41.84 | Revenue: INR 126,642 | Cost: INR 69,372

@@ -1,0 +1,126 @@
+{
+  "record_id": "prediction_20260828_102438_Karnataka_Cotton",
+  "timestamp": "2026-08-28 10:24:38",
+  "prediction": {
+    "success": true,
+    "state": "Karnataka",
+    "district": "Bagalkot",
+    "season": "Whole Year",
+    "soil_type": "Red Soil",
+    "land_acres": 3.0,
+    "budget": 70000.0,
+    "water_litres": 60000.0,
+    "best_crop": "Cotton",
+    "best_score": 67.25,
+    "best_rank": 1,
+    "recommendations": [
+      {
+        "crop": "Cotton",
+        "decision_score": 67.25,
+        "yield_quintals": 48.0,
+        "production_metric_tons": 4.8,
+        "cultivation_cost": 135000.0,
+        "historical_market_price": 6800.0,
+        "expected_revenue": 326400.0,
+        "required_water_litres": 285000.0,
+        "disease_risk": 35.0,
+        "weather_risk": 25.0,
+        "risk_score": 70.0,
+        "budget_score": 13.3,
+        "data_coverage": "Verified Agricultural Data",
+        "reasons": [
+          "Optimal match for Whole Year season in Karnataka",
+          "Highly compatible with Red Soil",
+          "High profit margin (Projected ₹191,400 net profit)"
+        ],
+        "rank": 1
+      },
+      {
+        "crop": "Gram",
+        "decision_score": 65.74,
+        "yield_quintals": 42.0,
+        "production_metric_tons": 4.2,
+        "cultivation_cost": 66000.0,
+        "historical_market_price": 5100.0,
+        "expected_revenue": 214200.0,
+        "required_water_litres": 114000.0,
+        "disease_risk": 25.0,
+        "weather_risk": 20.0,
+        "risk_score": 77.5,
+        "budget_score": 100.0,
+        "data_coverage": "Verified Agricultural Data",
+        "reasons": [
+          "Highly compatible with Red Soil",
+          "High profit margin (Projected ₹148,200 net profit)",
+          "Economical cultivation expense within your pocket budget"
+        ],
+        "rank": 2
+      },
+      {
+        "crop": "Jowar",
+        "decision_score": 65.47,
+        "yield_quintals": 48.0,
+        "production_metric_tons": 4.8,
+        "cultivation_cost": 54000.0,
+        "historical_market_price": 2800.0,
+        "expected_revenue": 134400.0,
+        "required_water_litres": 135000.0,
+        "disease_risk": 20.0,
+        "weather_risk": 20.0,
+        "risk_score": 80.0,
+        "budget_score": 100.0,
+        "data_coverage": "Verified Agricultural Data",
+        "reasons": [
+          "Highly compatible with Red Soil",
+          "High profit margin (Projected ₹80,400 net profit)",
+          "Economical cultivation expense within your pocket budget"
+        ],
+        "rank": 3
+      },
+      {
+        "crop": "Moong",
+        "decision_score": 60.0,
+        "yield_quintals": 30.0,
+        "production_metric_tons": 3.0,
+        "cultivation_cost": 54000.0,
+        "historical_market_price": 7200.0,
+        "expected_revenue": 216000.0,
+        "required_water_litres": 105000.0,
+        "disease_risk": 20.0,
+        "weather_risk": 15.0,
+        "risk_score": 82.5,
+        "budget_score": 100.0,
+        "data_coverage": "Verified Agricultural Data",
+        "reasons": [
+          "Highly compatible with Red Soil",
+          "High profit margin (Projected ₹162,000 net profit)",
+          "Economical cultivation expense within your pocket budget"
+        ],
+        "rank": 4
+      },
+      {
+        "crop": "Urad",
+        "decision_score": 60.0,
+        "yield_quintals": 28.5,
+        "production_metric_tons": 2.85,
+        "cultivation_cost": 54000.0,
+        "historical_market_price": 7000.0,
+        "expected_revenue": 199500.0,
+        "required_water_litres": 105000.0,
+        "disease_risk": 20.0,
+        "weather_risk": 15.0,
+        "risk_score": 82.5,
+        "budget_score": 100.0,
+        "data_coverage": "Verified Agricultural Data",
+        "reasons": [
+          "Highly compatible with Red Soil",
+          "High profit margin (Projected ₹145,500 net profit)",
+          "Economical cultivation expense within your pocket budget"
+        ],
+        "rank": 5
+      }
+    ],
+    "data_source_mode": "District & Agro-Climatic Intelligence",
+    "market_price_note": "Historical market mandi intelligence verified across government records."
+  }
+}

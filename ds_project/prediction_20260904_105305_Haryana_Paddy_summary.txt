@@ -1,0 +1,13 @@
+Kisan Agri Advisory Portal — Farm Advisory Report
+Recommended Crop: Paddy
+Suitability Score: 70.63/100
+Date: 2026-09-04 10:53:05
+Location: Haryana, Ambala (Whole Year)
+Land Area: 3.5 acres | Budget: INR 65,000
+
+Top Recommended Crops:
+#1 Paddy | Score: 70.63 | Revenue: INR 411,075 | Cost: INR 147,000
+#2 Cotton | Score: 67.36 | Revenue: INR 536,760 | Cost: INR 154,000
+#3 Bajra | Score: 64.35 | Revenue: INR 162,925 | Cost: INR 56,000
+#4 Mustard | Score: 63.6 | Revenue: INR 330,750 | Cost: INR 77,000
+#5 Sesamum | Score: 61.0 | Revenue: INR 218,050 | Cost: INR 56,000

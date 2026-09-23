@@ -1,0 +1,127 @@
+{
+  "record_id": "prediction_20260828_122325_Andhra_Pradesh_Urad",
+  "timestamp": "2026-08-28 12:23:25",
+  "prediction": {
+    "success": true,
+    "state": "Andhra Pradesh",
+    "district": "Anantapur",
+    "season": "Kharif",
+    "soil_type": "Red Soil",
+    "land_acres": 3.5,
+    "budget": 90000.0,
+    "water_litres": 50000.0,
+    "best_crop": "Urad",
+    "best_score": 84.4,
+    "best_rank": 1,
+    "recommendations": [
+      {
+        "crop": "Urad",
+        "decision_score": 84.4,
+        "yield_quintals": 40.43,
+        "production_metric_tons": 4.04,
+        "cultivation_cost": 63000.0,
+        "historical_market_price": 7300.0,
+        "expected_revenue": 295139.0,
+        "required_water_litres": 112000.0,
+        "disease_risk": 18.0,
+        "weather_risk": 14.0,
+        "risk_score": 84.0,
+        "budget_score": 100.0,
+        "data_coverage": "Verified Agricultural Data",
+        "reasons": [
+          "Optimal match for Kharif season in Andhra Pradesh",
+          "High profit margin (Projected ₹232,139 net profit)",
+          "Cultivation cost within budget"
+        ],
+        "rank": 1
+      },
+      {
+        "crop": "Sesamum",
+        "decision_score": 77.2,
+        "yield_quintals": 29.4,
+        "production_metric_tons": 2.94,
+        "cultivation_cost": 56000.0,
+        "historical_market_price": 8900.0,
+        "expected_revenue": 261660.0,
+        "required_water_litres": 98000.0,
+        "disease_risk": 14.0,
+        "weather_risk": 14.0,
+        "risk_score": 86.0,
+        "budget_score": 100.0,
+        "data_coverage": "Verified Agricultural Data",
+        "reasons": [
+          "Optimal match for Kharif season in Andhra Pradesh",
+          "Highly productive in Red Soil (19% yield boost)",
+          "High profit margin (Projected ₹205,660 net profit)",
+          "Cultivation cost within budget"
+        ],
+        "rank": 2
+      },
+      {
+        "crop": "Groundnut",
+        "decision_score": 76.6,
+        "yield_quintals": 113.4,
+        "production_metric_tons": 11.34,
+        "cultivation_cost": 112000.0,
+        "historical_market_price": 6200.0,
+        "expected_revenue": 703080.0,
+        "required_water_litres": 192500.0,
+        "disease_risk": 22.0,
+        "weather_risk": 18.0,
+        "risk_score": 80.0,
+        "budget_score": 53.3,
+        "data_coverage": "Verified Agricultural Data",
+        "reasons": [
+          "Optimal match for Kharif season in Andhra Pradesh",
+          "Highly productive in Red Soil (35% yield boost)",
+          "High profit margin (Projected ₹591,080 net profit)"
+        ],
+        "rank": 3
+      },
+      {
+        "crop": "Moong",
+        "decision_score": 75.6,
+        "yield_quintals": 42.35,
+        "production_metric_tons": 4.24,
+        "cultivation_cost": 63000.0,
+        "historical_market_price": 7500.0,
+        "expected_revenue": 317625.0,
+        "required_water_litres": 112000.0,
+        "disease_risk": 18.0,
+        "weather_risk": 14.0,
+        "risk_score": 84.0,
+        "budget_score": 100.0,
+        "data_coverage": "Verified Agricultural Data",
+        "reasons": [
+          "Optimal match for Kharif season in Andhra Pradesh",
+          "High profit margin (Projected ₹254,625 net profit)",
+          "Cultivation cost within budget"
+        ],
+        "rank": 4
+      },
+      {
+        "crop": "Maize",
+        "decision_score": 74.4,
+        "yield_quintals": 166.25,
+        "production_metric_tons": 16.62,
+        "cultivation_cost": 98000.0,
+        "historical_market_price": 2200.0,
+        "expected_revenue": 365750.0,
+        "required_water_litres": 245000.0,
+        "disease_risk": 20.0,
+        "weather_risk": 18.0,
+        "risk_score": 81.0,
+        "budget_score": 53.3,
+        "data_coverage": "Verified Agricultural Data",
+        "reasons": [
+          "Optimal match for Kharif season in Andhra Pradesh",
+          "Highly productive in Red Soil (25% yield boost)",
+          "High profit margin (Projected ₹267,750 net profit)"
+        ],
+        "rank": 5
+      }
+    ],
+    "data_source_mode": "District & Agro-Climatic Intelligence",
+    "market_price_note": "Historical market mandi intelligence verified across government records."
+  }
+}

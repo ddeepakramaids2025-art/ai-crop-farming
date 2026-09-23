@@ -1,0 +1,13 @@
+Kisan Agri Advisory Portal — Farm Advisory Report
+Recommended Crop: Sesamum
+Suitability Score: 80.0/100
+Date: 2026-08-27 14:13:55
+Location: Andhra Pradesh, Anantapur (Kharif)
+Land Area: 3.0 acres | Budget: INR 75,000
+
+Top Recommended Crops:
+#1 Sesamum | Score: 80.0 | Revenue: INR 165,750 | Cost: INR 48,000
+#2 Bajra | Score: 77.93 | Revenue: INR 126,900 | Cost: INR 48,000
+#3 Urad | Score: 76.0 | Revenue: INR 199,500 | Cost: INR 54,000
+#4 Groundnut | Score: 74.0 | Revenue: INR 382,800 | Cost: INR 96,000
+#5 Moong | Score: 68.0 | Revenue: INR 216,000 | Cost: INR 54,000

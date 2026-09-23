@@ -1,0 +1,13 @@
+Kisan Agri Advisory Portal — Farm Advisory Report
+Recommended Crop: Bajra
+Suitability Score: 88.97/100
+Date: 2026-09-04 10:52:44
+Location: Haryana, Ambala (Kharif)
+Land Area: 2.5 acres | Budget: INR 75,000
+
+Top Recommended Crops:
+#1 Bajra | Score: 88.97 | Revenue: INR 133,819 | Cost: INR 40,000
+#2 Sesamum | Score: 85.2 | Revenue: INR 186,900 | Cost: INR 40,000
+#3 Moong | Score: 83.6 | Revenue: INR 226,875 | Cost: INR 45,000
+#4 Urad | Score: 83.6 | Revenue: INR 210,824 | Cost: INR 45,000
+#5 Cotton | Score: 73.36 | Revenue: INR 383,400 | Cost: INR 110,000

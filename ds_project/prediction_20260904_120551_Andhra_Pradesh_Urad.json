@@ -1,0 +1,128 @@
+{
+  "record_id": "prediction_20260904_120551_Andhra_Pradesh_Urad",
+  "timestamp": "2026-09-04 12:05:51",
+  "prediction": {
+    "success": true,
+    "state": "Andhra Pradesh",
+    "district": "Anantapur",
+    "season": "Kharif",
+    "soil_type": "Red Soil",
+    "land_acres": 2.5,
+    "budget": 75000.0,
+    "water_litres": 60000.0,
+    "best_crop": "Urad",
+    "best_score": 92.4,
+    "best_rank": 1,
+    "recommendations": [
+      {
+        "crop": "Urad",
+        "decision_score": 92.4,
+        "yield_quintals": 28.88,
+        "production_metric_tons": 2.89,
+        "cultivation_cost": 45000.0,
+        "historical_market_price": 7300.0,
+        "expected_revenue": 210824.0,
+        "required_water_litres": 80000.0,
+        "disease_risk": 18.0,
+        "weather_risk": 14.0,
+        "risk_score": 84.0,
+        "budget_score": 100.0,
+        "data_coverage": "Verified Agricultural Data",
+        "reasons": [
+          "Optimal match for Kharif season in Andhra Pradesh",
+          "High profit margin (Projected ₹165,824 net profit)",
+          "Cultivation cost within budget"
+        ],
+        "rank": 1
+      },
+      {
+        "crop": "Groundnut",
+        "decision_score": 88.6,
+        "yield_quintals": 81.0,
+        "production_metric_tons": 8.1,
+        "cultivation_cost": 80000.0,
+        "historical_market_price": 6200.0,
+        "expected_revenue": 502200.0,
+        "required_water_litres": 137500.0,
+        "disease_risk": 22.0,
+        "weather_risk": 18.0,
+        "risk_score": 80.0,
+        "budget_score": 53.3,
+        "data_coverage": "Verified Agricultural Data",
+        "reasons": [
+          "Optimal match for Kharif season in Andhra Pradesh",
+          "Highly productive in Red Soil (35% yield boost)",
+          "High profit margin (Projected ₹422,200 net profit)"
+        ],
+        "rank": 2
+      },
+      {
+        "crop": "Sesamum",
+        "decision_score": 85.2,
+        "yield_quintals": 21.0,
+        "production_metric_tons": 2.1,
+        "cultivation_cost": 40000.0,
+        "historical_market_price": 8900.0,
+        "expected_revenue": 186900.0,
+        "required_water_litres": 70000.0,
+        "disease_risk": 14.0,
+        "weather_risk": 14.0,
+        "risk_score": 86.0,
+        "budget_score": 100.0,
+        "data_coverage": "Verified Agricultural Data",
+        "reasons": [
+          "Optimal match for Kharif season in Andhra Pradesh",
+          "Highly productive in Red Soil (19% yield boost)",
+          "High profit margin (Projected ₹146,900 net profit)",
+          "Cultivation cost within budget"
+        ],
+        "rank": 3
+      },
+      {
+        "crop": "Moong",
+        "decision_score": 83.6,
+        "yield_quintals": 30.25,
+        "production_metric_tons": 3.03,
+        "cultivation_cost": 45000.0,
+        "historical_market_price": 7500.0,
+        "expected_revenue": 226875.0,
+        "required_water_litres": 80000.0,
+        "disease_risk": 18.0,
+        "weather_risk": 14.0,
+        "risk_score": 84.0,
+        "budget_score": 100.0,
+        "data_coverage": "Verified Agricultural Data",
+        "reasons": [
+          "Optimal match for Kharif season in Andhra Pradesh",
+          "High profit margin (Projected ₹181,875 net profit)",
+          "Cultivation cost within budget"
+        ],
+        "rank": 4
+      },
+      {
+        "crop": "Maize",
+        "decision_score": 81.4,
+        "yield_quintals": 118.75,
+        "production_metric_tons": 11.88,
+        "cultivation_cost": 70000.0,
+        "historical_market_price": 2200.0,
+        "expected_revenue": 261250.0,
+        "required_water_litres": 175000.0,
+        "disease_risk": 20.0,
+        "weather_risk": 18.0,
+        "risk_score": 81.0,
+        "budget_score": 100.0,
+        "data_coverage": "Verified Agricultural Data",
+        "reasons": [
+          "Optimal match for Kharif season in Andhra Pradesh",
+          "Highly productive in Red Soil (25% yield boost)",
+          "High profit margin (Projected ₹191,250 net profit)",
+          "Cultivation cost within budget"
+        ],
+        "rank": 5
+      }
+    ],
+    "data_source_mode": "Agro-Climatic Intelligence",
+    "market_price_note": "Verified APMC Mandi Market Prices."
+  }
+}

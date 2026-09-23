@@ -1,0 +1,13 @@
+Kisan Agri Advisory Portal — Farm Advisory Report
+Recommended Crop: Maize
+Suitability Score: 80.76/100
+Date: 2026-09-04 12:08:43
+Location: Andhra Pradesh, Anantapur (Whole Year)
+Land Area: 2.0 acres | Budget: INR 40,000
+
+Top Recommended Crops:
+#1 Maize | Score: 80.76 | Revenue: INR 167,200 | Cost: INR 56,000
+#2 Paddy | Score: 72.83 | Revenue: INR 234,900 | Cost: INR 84,000
+#3 Tomato | Score: 72.0 | Revenue: INR 455,000 | Cost: INR 92,000
+#4 Cotton | Score: 71.76 | Revenue: INR 306,720 | Cost: INR 88,000
+#5 Urad | Score: 69.8 | Revenue: INR 153,300 | Cost: INR 36,000

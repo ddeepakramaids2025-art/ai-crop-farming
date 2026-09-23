@@ -1,0 +1,102 @@
+{
+  "record_id": "prediction_20260825_135259_Chhattisgarh_Soyabean",
+  "timestamp": "2026-08-25 13:52:59",
+  "prediction": {
+    "success": true,
+    "state": "Chhattisgarh",
+    "district": "Dhamtari",
+    "season": "Zaid / Summer",
+    "soil_type": "Alluvial",
+    "land_acres": 2.5,
+    "budget": 75000.0,
+    "water_litres": 60000.0,
+    "best_crop": "Soyabean",
+    "best_score": 61.2,
+    "best_rank": 1,
+    "recommendations": [
+      {
+        "rank": 1,
+        "crop": "Soyabean",
+        "decision_score": 61.2,
+        "yield_quintals": 62.5,
+        "production_metric_tons": 6.25,
+        "cultivation_cost": 31688.92,
+        "historical_market_price": 2500.0,
+        "expected_revenue": 156250.0,
+        "required_water_litres": 4000000.0,
+        "disease_risk": 75.0,
+        "weather_risk": 40.0,
+        "risk_score": 42.5,
+        "budget_score": 94.67,
+        "data_coverage": "State & Market Extrapolated",
+        "reasons": [
+          "High yield and harvest potential",
+          "Economical input and cultivation cost",
+          "Optimal feasibility within farmer's budget"
+        ]
+      },
+      {
+        "rank": 2,
+        "crop": "Paddy",
+        "decision_score": 51.99,
+        "yield_quintals": 80.0,
+        "production_metric_tons": 8.0,
+        "cultivation_cost": 57252.87,
+        "historical_market_price": 2500.0,
+        "expected_revenue": 200000.0,
+        "required_water_litres": 11250000.0,
+        "disease_risk": 30.0,
+        "weather_risk": 40.0,
+        "risk_score": 65.0,
+        "budget_score": 52.4,
+        "data_coverage": "State & Market Extrapolated",
+        "reasons": [
+          "High yield and harvest potential",
+          "Low combined disease and climate vulnerability"
+        ]
+      },
+      {
+        "rank": 3,
+        "crop": "Wheat",
+        "decision_score": 51.49,
+        "yield_quintals": 70.0,
+        "production_metric_tons": 7.0,
+        "cultivation_cost": 42658.6,
+        "historical_market_price": 2490.94,
+        "expected_revenue": 174365.8,
+        "required_water_litres": 4000000.0,
+        "disease_risk": 75.0,
+        "weather_risk": 40.0,
+        "risk_score": 42.5,
+        "budget_score": 70.33,
+        "data_coverage": "State & Market Extrapolated",
+        "reasons": [
+          "High yield and harvest potential"
+        ]
+      },
+      {
+        "rank": 4,
+        "crop": "Gram",
+        "decision_score": 50.16,
+        "yield_quintals": 30.0,
+        "production_metric_tons": 3.0,
+        "cultivation_cost": 48503.42,
+        "historical_market_price": 2544.6,
+        "expected_revenue": 76338.0,
+        "required_water_litres": 2250000.0,
+        "disease_risk": 30.0,
+        "weather_risk": 40.0,
+        "risk_score": 65.0,
+        "budget_score": 61.85,
+        "data_coverage": "State & Market Extrapolated",
+        "reasons": [
+          "Strong historical market price and profitability",
+          "Low combined disease and climate vulnerability",
+          "Excellent drought tolerance and low water consumption"
+        ]
+      }
+    ],
+    "data_source_mode": "State-Extrapolated",
+    "market_price_note": "Historical market mandi intelligence verified across government and benchmark datasets."
+  }
+}

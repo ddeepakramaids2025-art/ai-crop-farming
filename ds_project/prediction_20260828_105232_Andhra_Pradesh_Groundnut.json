@@ -1,0 +1,124 @@
+{
+  "record_id": "prediction_20260828_105232_Andhra_Pradesh_Groundnut",
+  "timestamp": "2026-08-28 10:52:32",
+  "prediction": {
+    "success": true,
+    "state": "Andhra Pradesh",
+    "district": "Anantapur",
+    "season": "Kharif",
+    "soil_type": "Red Soil",
+    "land_acres": 9.0,
+    "budget": 70000.0,
+    "water_litres": 80000.0,
+    "best_crop": "Groundnut",
+    "best_score": 68.0,
+    "best_rank": 1,
+    "recommendations": [
+      {
+        "crop": "Groundnut",
+        "decision_score": 68.0,
+        "yield_quintals": 198.0,
+        "production_metric_tons": 19.8,
+        "cultivation_cost": 288000.0,
+        "historical_market_price": 5800.0,
+        "expected_revenue": 1148400.0,
+        "required_water_litres": 540000.0,
+        "disease_risk": 25.0,
+        "weather_risk": 20.0,
+        "risk_score": 77.5,
+        "budget_score": 13.3,
+        "data_coverage": "Verified Agricultural Data",
+        "reasons": [
+          "Optimal match for Kharif season in Andhra Pradesh",
+          "Highly compatible with Red Soil",
+          "High profit margin (Projected ₹860,400 net profit)"
+        ],
+        "rank": 1
+      },
+      {
+        "crop": "Cotton",
+        "decision_score": 67.25,
+        "yield_quintals": 144.0,
+        "production_metric_tons": 14.4,
+        "cultivation_cost": 405000.0,
+        "historical_market_price": 6800.0,
+        "expected_revenue": 979200.0,
+        "required_water_litres": 855000.0,
+        "disease_risk": 35.0,
+        "weather_risk": 25.0,
+        "risk_score": 70.0,
+        "budget_score": 13.3,
+        "data_coverage": "Verified Agricultural Data",
+        "reasons": [
+          "Optimal match for Kharif season in Andhra Pradesh",
+          "Highly compatible with Red Soil",
+          "High profit margin (Projected ₹574,200 net profit)"
+        ],
+        "rank": 2
+      },
+      {
+        "crop": "Maize",
+        "decision_score": 62.06,
+        "yield_quintals": 315.0,
+        "production_metric_tons": 31.5,
+        "cultivation_cost": 252000.0,
+        "historical_market_price": 2150.0,
+        "expected_revenue": 677250.0,
+        "required_water_litres": 630000.0,
+        "disease_risk": 20.0,
+        "weather_risk": 20.0,
+        "risk_score": 80.0,
+        "budget_score": 13.3,
+        "data_coverage": "Verified Agricultural Data",
+        "reasons": [
+          "Optimal match for Kharif season in Andhra Pradesh",
+          "Highly compatible with Red Soil",
+          "High profit margin (Projected ₹425,250 net profit)"
+        ],
+        "rank": 3
+      },
+      {
+        "crop": "Urad",
+        "decision_score": 60.0,
+        "yield_quintals": 85.5,
+        "production_metric_tons": 8.55,
+        "cultivation_cost": 162000.0,
+        "historical_market_price": 7000.0,
+        "expected_revenue": 598500.0,
+        "required_water_litres": 315000.0,
+        "disease_risk": 20.0,
+        "weather_risk": 15.0,
+        "risk_score": 82.5,
+        "budget_score": 13.3,
+        "data_coverage": "Verified Agricultural Data",
+        "reasons": [
+          "Optimal match for Kharif season in Andhra Pradesh",
+          "Highly compatible with Red Soil",
+          "High profit margin (Projected ₹436,500 net profit)"
+        ],
+        "rank": 4
+      },
+      {
+        "crop": "Paddy",
+        "decision_score": 55.34,
+        "yield_quintals": 306.0,
+        "production_metric_tons": 30.6,
+        "cultivation_cost": 378000.0,
+        "historical_market_price": 2200.0,
+        "expected_revenue": 673200.0,
+        "required_water_litres": 1620000.0,
+        "disease_risk": 35.0,
+        "weather_risk": 25.0,
+        "risk_score": 70.0,
+        "budget_score": 13.3,
+        "data_coverage": "Verified Agricultural Data",
+        "reasons": [
+          "Optimal match for Kharif season in Andhra Pradesh"
+        ],
+        "rank": 5
+      }
+    ],
+    "data_source_mode": "District & Agro-Climatic Intelligence",
+    "market_price_note": "Historical market mandi intelligence verified across government records."
+  }
+}

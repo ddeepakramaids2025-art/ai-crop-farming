@@ -1,0 +1,12 @@
+AI Crop Decision Report: Gram
+Generated: 2026-08-24 22:22:57
+Location: Andhra Pradesh, Anantapur (Kharif)
+Land Area: 2.0 acres | Budget: INR 75,000
+Best Crop: Gram (Decision Score: 55.29/100)
+
+Top Recommendations:
+Rank 1: Gram | Score: 55.29 | Revenue: INR 61,070 | Cost: INR 64,363
+Rank 2: Sugarcane | Score: 52.87 | Revenue: INR 1,616,704 | Cost: INR 148,562
+Rank 3: Sesamum | Score: 46.81 | Revenue: INR 125,000 | Cost: INR 31,663
+Rank 4: Moong | Score: 45.14 | Revenue: INR 125,000 | Cost: INR 39,295
+Rank 5: Arhar | Score: 44.61 | Revenue: INR 125,000 | Cost: INR 40,399

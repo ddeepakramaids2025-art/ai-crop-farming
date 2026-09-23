@@ -1,0 +1,124 @@
+{
+  "record_id": "prediction_20260825_092019_Andhra_Pradesh_Gram",
+  "timestamp": "2026-08-25 09:20:19",
+  "prediction": {
+    "success": true,
+    "state": "Andhra Pradesh",
+    "district": "Anantapur",
+    "season": "Kharif",
+    "soil_type": "Alluvial",
+    "land_acres": 2.5,
+    "budget": 75000.0,
+    "water_litres": 60000.0,
+    "best_crop": "Gram",
+    "best_score": 53.55,
+    "best_rank": 1,
+    "recommendations": [
+      {
+        "rank": 1,
+        "crop": "Gram",
+        "decision_score": 53.55,
+        "yield_quintals": 30.0,
+        "production_metric_tons": 3.0,
+        "cultivation_cost": 64362.98,
+        "historical_market_price": 2544.6,
+        "expected_revenue": 76338.0,
+        "required_water_litres": 2250000.0,
+        "disease_risk": 30.0,
+        "weather_risk": 40.0,
+        "risk_score": 65.0,
+        "budget_score": 46.61,
+        "data_coverage": "State & Market Extrapolated",
+        "reasons": [
+          "Strong historical market price and profitability",
+          "Economical input and cultivation cost",
+          "Low combined disease and climate vulnerability",
+          "Excellent drought tolerance and low water consumption"
+        ]
+      },
+      {
+        "rank": 2,
+        "crop": "Sugarcane",
+        "decision_score": 52.11,
+        "yield_quintals": 800.0,
+        "production_metric_tons": 80.0,
+        "cultivation_cost": 148561.64,
+        "historical_market_price": 2526.1,
+        "expected_revenue": 2020880.0,
+        "required_water_litres": 16250000.0,
+        "disease_risk": 75.0,
+        "weather_risk": 40.0,
+        "risk_score": 42.5,
+        "budget_score": 20.19,
+        "data_coverage": "State & Market Extrapolated",
+        "reasons": [
+          "High yield and harvest potential"
+        ]
+      },
+      {
+        "rank": 3,
+        "crop": "Sesamum",
+        "decision_score": 46.02,
+        "yield_quintals": 62.5,
+        "production_metric_tons": 6.25,
+        "cultivation_cost": 31663.21,
+        "historical_market_price": 2500.0,
+        "expected_revenue": 156250.0,
+        "required_water_litres": 3750000.0,
+        "disease_risk": 30.0,
+        "weather_risk": 40.0,
+        "risk_score": 65.0,
+        "budget_score": 94.75,
+        "data_coverage": "State & Market Extrapolated",
+        "reasons": [
+          "Economical input and cultivation cost",
+          "Low combined disease and climate vulnerability",
+          "Optimal feasibility within farmer's budget"
+        ]
+      },
+      {
+        "rank": 4,
+        "crop": "Moong",
+        "decision_score": 42.28,
+        "yield_quintals": 62.5,
+        "production_metric_tons": 6.25,
+        "cultivation_cost": 39294.54,
+        "historical_market_price": 2500.0,
+        "expected_revenue": 156250.0,
+        "required_water_litres": 3750000.0,
+        "disease_risk": 30.0,
+        "weather_risk": 40.0,
+        "risk_score": 65.0,
+        "budget_score": 76.35,
+        "data_coverage": "State & Market Extrapolated",
+        "reasons": [
+          "Economical input and cultivation cost",
+          "Low combined disease and climate vulnerability",
+          "Optimal feasibility within farmer's budget"
+        ]
+      },
+      {
+        "rank": 5,
+        "crop": "Arhar",
+        "decision_score": 41.82,
+        "yield_quintals": 62.5,
+        "production_metric_tons": 6.25,
+        "cultivation_cost": 40398.91,
+        "historical_market_price": 2500.0,
+        "expected_revenue": 156250.0,
+        "required_water_litres": 3750000.0,
+        "disease_risk": 30.0,
+        "weather_risk": 40.0,
+        "risk_score": 65.0,
+        "budget_score": 74.26,
+        "data_coverage": "State & Market Extrapolated",
+        "reasons": [
+          "Economical input and cultivation cost",
+          "Low combined disease and climate vulnerability"
+        ]
+      }
+    ],
+    "data_source_mode": "State-Extrapolated",
+    "market_price_note": "Historical market mandi intelligence verified across government and benchmark datasets."
+  }
+}

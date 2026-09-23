@@ -1,0 +1,12 @@
+AI Crop Decision Report: Gram
+Generated: 2026-08-24 22:17:49
+Location: Tamil Nadu, Coimbatore (Kharif)
+Land Area: 2.5 acres | Budget: INR 75,000
+Best Crop: Gram (Decision Score: 57.7/100)
+
+Top Recommendations:
+Rank 1: Gram | Score: 57.7 | Revenue: INR 76,338 | Cost: INR 52,444
+Rank 2: Sugarcane | Score: 50.89 | Revenue: INR 2,020,880 | Cost: INR 248,368
+Rank 3: Moong | Score: 46.81 | Revenue: INR 156,250 | Cost: INR 28,521
+Rank 4: Urad | Score: 41.74 | Revenue: INR 156,250 | Cost: INR 41,556
+Rank 5: Onion | Score: 38.97 | Revenue: INR 539,072 | Cost: INR 217,701

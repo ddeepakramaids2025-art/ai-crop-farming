@@ -1,0 +1,13 @@
+Kisan Agri Advisory Portal — Farm Advisory Report
+Recommended Crop: Urad
+Suitability Score: 90.8/100
+Date: 2026-09-04 12:06:15
+Location: Andhra Pradesh, Krishna (Kharif)
+Land Area: 2.5 acres | Budget: INR 75,000
+
+Top Recommended Crops:
+#1 Urad | Score: 90.8 | Revenue: INR 191,625 | Cost: INR 45,000
+#2 Moong | Score: 82.0 | Revenue: INR 206,250 | Cost: INR 45,000
+#3 Sesamum | Score: 82.0 | Revenue: INR 155,750 | Cost: INR 40,000
+#4 Groundnut | Score: 78.91 | Revenue: INR 260,400 | Cost: INR 80,000
+#5 Paddy | Score: 78.83 | Revenue: INR 293,625 | Cost: INR 105,000

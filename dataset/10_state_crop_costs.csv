@@ -1,0 +1,86 @@
+State,Crop,Cost_of_Cultivation
+Assam,Paddy,54538.07
+Bihar,Paddy,51948.91
+Gujarat,Paddy,68590.46
+Haryana,Paddy,97264.32201
+Karnataka,Paddy,89003.59329
+Kerala,Paddy,96514.84645
+Madhya Pradesh,Paddy,61108.53406
+Odisha,Paddy,67607.78671
+Punjab,Paddy,97578.27
+Tamil Nadu,Paddy,86070.48863
+Gujarat,Wheat,50993.66
+Haryana,Wheat,73536.2
+Karnataka,Wheat,39931.3
+Madhya Pradesh,Wheat,51489.38108
+Punjab,Wheat,72250.53
+Bihar,Maize,59157.95
+Gujarat,Maize,65030.29
+Karnataka,Maize,58145.06884
+Madhya Pradesh,Maize,45404.99478
+Odisha,Maize,58175.53
+Punjab,Maize,71779.85
+Tamil Nadu,Maize,79589.89845
+Karnataka,Jowar,35771.02
+Tamil Nadu,Jowar,51878.12256
+Haryana,Bajra,40239.37
+Odisha,Ragi,39626.48
+Gujarat,Arhar,54458.08
+Karnataka,Arhar,44428.91
+Madhya Pradesh,Arhar,35659.52514
+Odisha,Arhar,21006.59
+Gujarat,Moong,37817.72
+Karnataka,Moong,36133.03
+Odisha,Moong,22727.54
+Punjab,Moong,61024.85
+Tamil Nadu,Moong,28521.11005
+Gujarat,Urad,34940.22
+Karnataka,Urad,33937.29
+Madhya Pradesh,Urad,26018.46176
+Odisha,Urad,21361.35
+Tamil Nadu,Urad,41556.07
+Bihar,Gram,50394.69
+Gujarat,Gram,50633.22
+Haryana,Gram,44007.38
+Karnataka,Gram,38195.54
+Madhya Pradesh,Gram,43200.35182
+Tamil Nadu,Gram,52444.42
+Madhya Pradesh,Lentil,35416.38822
+Gujarat,Groundnut,86336.61
+Karnataka,Groundnut,61205.35
+Kerala,Groundnut,67538.99
+Odisha,Groundnut,60027.85
+Tamil Nadu,Groundnut,82255.91
+Gujarat,Soyabean,47307.7
+Karnataka,Soyabean,45118.69125
+Madhya Pradesh,Soyabean,37234.7341
+Bihar,Sunflower,59249.5
+Karnataka,Sunflower,43473.86
+Gujarat,Sesamum,42070.49
+Kerala,Sesamum,29253.63
+Madhya Pradesh,Sesamum,34995.12587
+Odisha,Sesamum,21193.44
+Bihar,R & M,44087.26
+Gujarat,R & M,67370.09
+Haryana,R & M,56058.26
+Madhya Pradesh,R & M,49080.8934
+Odisha,R & M,27026.96
+Punjab,R & M,64888.95
+Gujarat,Cotton,87032.92
+Haryana,Cotton,74197.96
+Karnataka,Cotton,65859.43
+Madhya Pradesh,Cotton,77922.21645
+Odisha,Cotton,67926.31
+Punjab,Cotton,99942.46
+Tamil Nadu,Cotton,116134.18594
+Bihar,Jute,44643.31
+Gujarat,Sugarcane,128919.5
+Haryana,Sugarcane,181887.67
+Karnataka,Sugarcane,139080.59
+Tamil Nadu,Sugarcane,248367.99
+Gujarat,Onion,176655.36
+Karnataka,Onion,85806.57
+Madhya Pradesh,Onion,140516.92
+Tamil Nadu,Onion,217700.64
+Bihar,Potato,145508.94
+Gujarat,Potato,199082.57

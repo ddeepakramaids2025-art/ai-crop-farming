@@ -1,0 +1,13 @@
+Kisan Agri Advisory Portal — Farm Advisory Report
+Recommended Crop: Cotton
+Suitability Score: 67.25/100
+Date: 2026-08-28 10:24:12
+Location: Karnataka, Bagalkot (Whole Year)
+Land Area: 3.0 acres | Budget: INR 70,000
+
+Top Recommended Crops:
+#1 Cotton | Score: 67.25 | Revenue: INR 326,400 | Cost: INR 135,000
+#2 Gram | Score: 65.74 | Revenue: INR 214,200 | Cost: INR 66,000
+#3 Jowar | Score: 65.47 | Revenue: INR 134,400 | Cost: INR 54,000
+#4 Moong | Score: 60.0 | Revenue: INR 216,000 | Cost: INR 54,000
+#5 Urad | Score: 60.0 | Revenue: INR 199,500 | Cost: INR 54,000

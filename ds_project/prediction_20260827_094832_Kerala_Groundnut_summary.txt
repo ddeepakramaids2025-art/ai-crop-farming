@@ -1,0 +1,13 @@
+AI Crop Decision System — Farm Advisory Report
+Best Recommended Crop: Groundnut
+Decision Score: 92.0/100
+Date: 2026-08-27 09:48:32
+Location: Kerala, Alappuzha (Rabi)
+Land Area: 2.0 acres | Pocket Budget: INR 65,000
+
+Top Crop Recommendations:
+#1 Groundnut | Score: 92.0 | Revenue: INR 255,200 | Cost: INR 64,000
+#2 Sesamum | Score: 89.0 | Revenue: INR 110,500 | Cost: INR 32,000
+#3 Mustard | Score: 88.0 | Revenue: INR 166,400 | Cost: INR 44,000
+#4 Urad | Score: 88.0 | Revenue: INR 133,000 | Cost: INR 36,000
+#5 Gram | Score: 87.74 | Revenue: INR 142,800 | Cost: INR 44,000

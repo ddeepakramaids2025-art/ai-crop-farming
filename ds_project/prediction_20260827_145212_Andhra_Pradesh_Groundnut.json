@@ -1,0 +1,130 @@
+{
+  "record_id": "prediction_20260827_145212_Andhra_Pradesh_Groundnut",
+  "timestamp": "2026-08-27 14:52:12",
+  "prediction": {
+    "success": true,
+    "state": "Andhra Pradesh",
+    "district": "Vizianagaram",
+    "season": "Kharif",
+    "soil_type": "Sandy Soil",
+    "land_acres": 2.0,
+    "budget": 65000.0,
+    "water_litres": 60000.0,
+    "best_crop": "Groundnut",
+    "best_score": 96.0,
+    "best_rank": 1,
+    "recommendations": [
+      {
+        "crop": "Groundnut",
+        "decision_score": 96.0,
+        "yield_quintals": 44.0,
+        "production_metric_tons": 4.4,
+        "cultivation_cost": 64000.0,
+        "historical_market_price": 5800.0,
+        "expected_revenue": 255200.0,
+        "required_water_litres": 120000.0,
+        "disease_risk": 25.0,
+        "weather_risk": 20.0,
+        "risk_score": 77.5,
+        "budget_score": 100.0,
+        "data_coverage": "Verified Agricultural Data",
+        "reasons": [
+          "Optimal match for Kharif season in Andhra Pradesh",
+          "Highly compatible with Sandy Soil",
+          "High profit margin (Projected ₹191,200 net profit)",
+          "Economical cultivation expense within your pocket budget"
+        ],
+        "rank": 1
+      },
+      {
+        "crop": "Sesamum",
+        "decision_score": 95.0,
+        "yield_quintals": 13.0,
+        "production_metric_tons": 1.3,
+        "cultivation_cost": 32000.0,
+        "historical_market_price": 8500.0,
+        "expected_revenue": 110500.0,
+        "required_water_litres": 60000.0,
+        "disease_risk": 15.0,
+        "weather_risk": 15.0,
+        "risk_score": 85.0,
+        "budget_score": 100.0,
+        "data_coverage": "Verified Agricultural Data",
+        "reasons": [
+          "Optimal match for Kharif season in Andhra Pradesh",
+          "Highly compatible with Sandy Soil",
+          "High profit margin (Projected ₹78,500 net profit)",
+          "Water requirement fits your available supply",
+          "Economical cultivation expense within your pocket budget"
+        ],
+        "rank": 2
+      },
+      {
+        "crop": "Bajra",
+        "decision_score": 85.93,
+        "yield_quintals": 36.0,
+        "production_metric_tons": 3.6,
+        "cultivation_cost": 32000.0,
+        "historical_market_price": 2350.0,
+        "expected_revenue": 84600.0,
+        "required_water_litres": 80000.0,
+        "disease_risk": 15.0,
+        "weather_risk": 15.0,
+        "risk_score": 85.0,
+        "budget_score": 100.0,
+        "data_coverage": "Verified Agricultural Data",
+        "reasons": [
+          "Optimal match for Kharif season in Andhra Pradesh",
+          "Highly compatible with Sandy Soil",
+          "High profit margin (Projected ₹52,600 net profit)",
+          "Economical cultivation expense within your pocket budget"
+        ],
+        "rank": 3
+      },
+      {
+        "crop": "Urad",
+        "decision_score": 84.0,
+        "yield_quintals": 19.0,
+        "production_metric_tons": 1.9,
+        "cultivation_cost": 36000.0,
+        "historical_market_price": 7000.0,
+        "expected_revenue": 133000.0,
+        "required_water_litres": 70000.0,
+        "disease_risk": 20.0,
+        "weather_risk": 15.0,
+        "risk_score": 82.5,
+        "budget_score": 100.0,
+        "data_coverage": "Verified Agricultural Data",
+        "reasons": [
+          "Optimal match for Kharif season in Andhra Pradesh",
+          "High profit margin (Projected ₹97,000 net profit)",
+          "Economical cultivation expense within your pocket budget"
+        ],
+        "rank": 4
+      },
+      {
+        "crop": "Maize",
+        "decision_score": 78.06,
+        "yield_quintals": 70.0,
+        "production_metric_tons": 7.0,
+        "cultivation_cost": 56000.0,
+        "historical_market_price": 2150.0,
+        "expected_revenue": 150500.0,
+        "required_water_litres": 140000.0,
+        "disease_risk": 20.0,
+        "weather_risk": 20.0,
+        "risk_score": 80.0,
+        "budget_score": 100.0,
+        "data_coverage": "Verified Agricultural Data",
+        "reasons": [
+          "Optimal match for Kharif season in Andhra Pradesh",
+          "High profit margin (Projected ₹94,500 net profit)",
+          "Economical cultivation expense within your pocket budget"
+        ],
+        "rank": 5
+      }
+    ],
+    "data_source_mode": "District & Agro-Climatic Intelligence",
+    "market_price_note": "Historical market mandi intelligence verified across government records."
+  }
+}

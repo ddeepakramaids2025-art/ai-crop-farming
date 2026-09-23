@@ -1,0 +1,6 @@
+crop,decision_score,yield_quintals,production_metric_tons,cultivation_cost,historical_market_price,expected_revenue,required_water_litres,disease_risk,weather_risk,risk_score,budget_score,data_coverage,reasons,rank
+Cotton,73.36,54.0,5.4,110000.0,7100.0,383400.0,237500.0,32.0,22.0,73.0,53.3,Verified Agricultural Data,"['Optimal match for Whole Year season in Haryana', 'Highly productive in Red Soil (19% yield boost)', 'High profit margin (Projected ₹273,400 net profit)']",1
+Mustard,70.6,43.75,4.38,55000.0,5400.0,236250.0,100000.0,22.0,18.0,80.0,100.0,Verified Agricultural Data,"['High profit margin (Projected ₹181,250 net profit)', 'Cultivation cost within budget']",2
+Bajra,67.97,54.62,5.46,40000.0,2450.0,133819.0,95000.0,15.0,14.0,85.5,100.0,Verified Agricultural Data,"['High profit margin (Projected ₹93,819 net profit)', 'Cultivation cost within budget']",3
+Paddy,66.99,76.5,7.65,105000.0,2250.0,172125.0,450000.0,30.0,20.0,75.0,53.3,Verified Agricultural Data,['Optimal match for Whole Year season in Haryana'],4
+Maize,66.0,118.75,11.88,70000.0,2200.0,261250.0,175000.0,20.0,18.0,81.0,100.0,Verified Agricultural Data,"['Optimal match for Whole Year season in Haryana', 'Highly productive in Red Soil (25% yield boost)', 'High profit margin (Projected ₹191,250 net profit)', 'Cultivation cost within budget']",5

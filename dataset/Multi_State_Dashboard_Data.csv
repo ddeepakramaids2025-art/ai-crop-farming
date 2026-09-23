@@ -1,0 +1,189 @@
+State,Crop,Cost_of_Cultivation
+Andhra Pradesh,Paddy,95802.18
+Assam,Paddy,54538.07
+Bihar,Paddy,51948.91
+Chhattisgarh,Paddy,57252.86677
+Gujarat,Paddy,68590.46
+Haryana,Paddy,97264.32201
+Himachal Pradesh,Paddy,60258.96
+Jharkhand,Paddy,60740.17
+Karnataka,Paddy,89003.59329
+Kerala,Paddy,96514.84645
+Madhya Pradesh,Paddy,61108.53406
+Maharashtra,Paddy,84488.35
+Odisha,Paddy,67607.78671
+Punjab,Paddy,97578.27
+Tamil Nadu,Paddy,86070.48863
+Telangana,Paddy,103975.19
+Uttar Pradesh,Paddy,71564.26
+West Bengal,Paddy,85548.06
+Bihar,Wheat,57853.38
+Chhattisgarh,Wheat,42658.59676
+Gujarat,Wheat,50993.66
+Haryana,Wheat,73536.2
+Himachal Pradesh,Wheat,54311.6
+Jharkhand,Wheat,60606.41
+Karnataka,Wheat,39931.3
+Madhya Pradesh,Wheat,51489.38108
+Maharashtra,Wheat,64762.21
+Punjab,Wheat,72250.53
+Rajasthan,Wheat,74052.11
+Uttar Pradesh,Wheat,72548.59
+West Bengal,Wheat,62734.91
+Andhra Pradesh,Maize,96440.26
+Bihar,Maize,59157.95
+Gujarat,Maize,65030.29
+Himachal Pradesh,Maize,49596.47
+Karnataka,Maize,58145.06884
+Madhya Pradesh,Maize,45404.99478
+Maharashtra,Maize,89175.57
+Odisha,Maize,58175.53
+Punjab,Maize,71779.85
+Rajasthan,Maize,63029.7
+Tamil Nadu,Maize,79589.89845
+Telangana,Maize,90124.29
+Uttar Pradesh,Maize,54051.21
+Andhra Pradesh,Jowar,82357.66
+Karnataka,Jowar,35771.02
+Maharashtra,Jowar,50018.24
+Rajasthan,Jowar,40325.97
+Tamil Nadu,Jowar,51878.12256
+Gujarat,Bajra,62164.43
+Haryana,Bajra,40239.37
+Maharashtra,Bajra,62228.17
+Rajasthan,Bajra,37245.85
+Uttar Pradesh,Bajra,41225.19
+Karnataka,Ragi,79025.14
+Odisha,Ragi,39626.48
+Himachal Pradesh,Barley,46939.48
+Rajasthan,Barley,69371.63
+Uttar Pradesh,Barley,67396.35
+Andhra Pradesh,Arhar,40398.91
+Gujarat,Arhar,54458.08
+Karnataka,Arhar,44428.91
+Madhya Pradesh,Arhar,35659.52514
+Maharashtra,Arhar,93422.72428
+Odisha,Arhar,21006.59
+Telangana,Arhar,48631.95
+Uttar Pradesh,Arhar,72383.3
+Andhra Pradesh,Moong,39294.54
+Gujarat,Moong,37817.72
+Karnataka,Moong,36133.03
+Maharashtra,Moong,49424.58
+Odisha,Moong,22727.54
+Punjab,Moong,61024.85
+Rajasthan,Moong,30697.5
+Tamil Nadu,Moong,28521.11005
+Telangana,Moong,37908.36
+Uttar Pradesh,Moong,29912.45
+West Bengal,Moong,21922.96
+Andhra Pradesh,Urad,49590.04
+Gujarat,Urad,34940.22
+Himachal Pradesh,Urad,45405.73
+Karnataka,Urad,33937.29
+Madhya Pradesh,Urad,26018.46176
+Maharashtra,Urad,43882.15769
+Odisha,Urad,21361.35
+Rajasthan,Urad,37638.32
+Tamil Nadu,Urad,41556.07
+Uttar Pradesh,Urad,28994.42
+West Bengal,Urad,43689.1
+Andhra Pradesh,Gram,64362.98
+Bihar,Gram,50394.69
+Chhattisgarh,Gram,48503.41777
+Gujarat,Gram,50633.22
+Haryana,Gram,44007.38
+Jharkhand,Gram,57480.56
+Karnataka,Gram,38195.54
+Madhya Pradesh,Gram,43200.35182
+Maharashtra,Gram,52898.2
+Rajasthan,Gram,46863.89
+Tamil Nadu,Gram,52444.42
+Telangana,Gram,49391.69
+Uttar Pradesh,Gram,53626.96
+West Bengal,Gram,51040.31
+Bihar,Lentil,39885.76
+Madhya Pradesh,Lentil,35416.38822
+Uttar Pradesh,Lentil,48626.18
+West Bengal,Lentil,56010.0
+Andhra Pradesh,Groundnut,76516.9
+Gujarat,Groundnut,86336.61
+Karnataka,Groundnut,61205.35
+Kerala,Groundnut,67538.99
+Maharashtra,Groundnut,112410.34
+Odisha,Groundnut,60027.85
+Rajasthan,Groundnut,84027.64
+Tamil Nadu,Groundnut,82255.91
+Telangana,Groundnut,121719.48
+Uttar Pradesh,Groundnut,40774.66
+West Bengal,Groundnut,123916.18
+Chhattisgarh,Soyabean,31688.91751
+Gujarat,Soyabean,47307.7
+Himachal Pradesh,Soyabean,39996.85
+Karnataka,Soyabean,45118.69125
+Madhya Pradesh,Soyabean,37234.7341
+Maharashtra,Soyabean,55379.45361
+Rajasthan,Soyabean,44919.2
+Telangana,Soyabean,45117.13
+Andhra Pradesh,Sunflower,57986.72
+Bihar,Sunflower,59249.5
+Karnataka,Sunflower,43473.86
+Andhra Pradesh,Sesamum,31663.21
+Gujarat,Sesamum,42070.49
+Himachal Pradesh,Sesamum,40617.41
+Kerala,Sesamum,29253.63
+Madhya Pradesh,Sesamum,34995.12587
+Odisha,Sesamum,21193.44
+Rajasthan,Sesamum,27971.38
+Telangana,Sesamum,53775.28
+Uttar Pradesh,Sesamum,22608.9
+West Bengal,Sesamum,60106.47
+Odisha,Nigerseed,24649.39
+Assam,R & M,36586.71
+Bihar,R & M,44087.26
+Gujarat,R & M,67370.09
+Haryana,R & M,56058.26
+Himachal Pradesh,R & M,31426.44
+Jharkhand,R & M,49396.26
+Madhya Pradesh,R & M,49080.8934
+Odisha,R & M,27026.96
+Punjab,R & M,64888.95
+Rajasthan,R & M,58883.73
+Uttar Pradesh,R & M,60080.31
+West Bengal,R & M,62248.52
+Karnataka,Safflower,22538.11
+Andhra Pradesh,Cotton,90604.02
+Gujarat,Cotton,87032.92
+Haryana,Cotton,74197.96
+Karnataka,Cotton,65859.43
+Madhya Pradesh,Cotton,77922.21645
+Maharashtra,Cotton,79371.74473
+Odisha,Cotton,67926.31
+Punjab,Cotton,99942.46
+Rajasthan,Cotton,91569.22
+Tamil Nadu,Cotton,116134.18594
+Telangana,Cotton,96759.32
+Assam,Jute,92298.27
+Bihar,Jute,44643.31
+West Bengal,Jute,114247.27
+Andhra Pradesh,Sugarcane,148561.64
+Gujarat,Sugarcane,128919.5
+Haryana,Sugarcane,181887.67
+Karnataka,Sugarcane,139080.59
+Maharashtra,Sugarcane,260222.5128
+Tamil Nadu,Sugarcane,248367.99
+Uttar Pradesh,Sugarcane,149283.8
+Andhra Pradesh,Onion,134080.21
+Gujarat,Onion,176655.36
+Karnataka,Onion,85806.57
+Madhya Pradesh,Onion,140516.92
+Maharashtra,Onion,213848.76
+Rajasthan,Onion,192832.55
+Tamil Nadu,Onion,217700.64
+Assam,Potato,145117.29
+Bihar,Potato,145508.94
+Gujarat,Potato,199082.57
+Himachal Pradesh,Potato,95074.07
+Jharkhand,Potato,114391.84
+Uttar Pradesh,Potato,144694.25
+West Bengal,Potato,242649.64

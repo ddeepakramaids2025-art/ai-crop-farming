@@ -1,0 +1,2 @@
+Timestamp,Record_File,State,District,Season,Soil,Land_Acres,Budget_INR,Water_Litres,Best_Crop,Decision_Score,Expected_Revenue_INR,Cultivation_Cost_INR
+2026-08-24 22:17:49,prediction_20260824_221749_Tamil_Nadu_Gram.json,Tamil Nadu,Coimbatore,Kharif,Red Soil,2.5,75000.0,60000.0,Gram,57.7,76338.0,52444.42

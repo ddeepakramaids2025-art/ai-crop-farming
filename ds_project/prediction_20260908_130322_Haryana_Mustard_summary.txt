@@ -1,0 +1,13 @@
+Kisan Agri Advisory Portal — Farm Advisory Report
+Recommended Crop: Mustard
+Suitability Score: 74.6/100
+Date: 2026-09-08 13:03:22
+Location: Haryana, Ambala (Whole Year)
+Land Area: 3.0 acres | Budget: INR 70,000
+
+Top Recommended Crops:
+#1 Mustard | Score: 74.6 | Revenue: INR 354,348 | Cost: INR 66,000
+#2 Bajra | Score: 70.2 | Revenue: INR 195,510 | Cost: INR 48,000
+#3 Sesamum | Score: 65.0 | Revenue: INR 233,625 | Cost: INR 48,000
+#4 Cotton | Score: 62.53 | Revenue: INR 383,400 | Cost: INR 132,000
+#5 Paddy | Score: 55.64 | Revenue: INR 145,800 | Cost: INR 126,000

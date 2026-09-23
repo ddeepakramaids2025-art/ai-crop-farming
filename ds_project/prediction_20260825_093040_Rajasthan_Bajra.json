@@ -1,0 +1,119 @@
+{
+  "record_id": "prediction_20260825_093040_Rajasthan_Bajra",
+  "timestamp": "2026-08-25 09:30:40",
+  "prediction": {
+    "success": true,
+    "state": "Rajasthan",
+    "district": "Ajmer",
+    "season": "Kharif",
+    "soil_type": "Laterite Soil",
+    "land_acres": 2.0,
+    "budget": 60000.0,
+    "water_litres": 30000.0,
+    "best_crop": "Bajra",
+    "best_score": 60.83,
+    "best_rank": 1,
+    "recommendations": [
+      {
+        "rank": 1,
+        "crop": "Bajra",
+        "decision_score": 60.83,
+        "yield_quintals": 53.51,
+        "production_metric_tons": 5744.21,
+        "cultivation_cost": 37245.85,
+        "historical_market_price": 2458.26,
+        "expected_revenue": 131544.82,
+        "required_water_litres": 1900000.0,
+        "disease_risk": 62.48,
+        "weather_risk": 50.43,
+        "risk_score": 43.55,
+        "budget_score": 80.55,
+        "data_coverage": "83.33333333333334",
+        "reasons": [
+          "Economical input and cultivation cost",
+          "Optimal feasibility within farmer's budget",
+          "Excellent drought tolerance and low water consumption"
+        ]
+      },
+      {
+        "rank": 2,
+        "crop": "Fennel",
+        "decision_score": 49.56,
+        "yield_quintals": 59.68,
+        "production_metric_tons": 8628.24,
+        "cultivation_cost": 69371.63,
+        "historical_market_price": 2436.16,
+        "expected_revenue": 145379.5,
+        "required_water_litres": 1800000.0,
+        "disease_risk": 62.48,
+        "weather_risk": 50.43,
+        "risk_score": 43.55,
+        "budget_score": 43.25,
+        "data_coverage": "66.66666666666666",
+        "reasons": [
+          "High yield and harvest potential"
+        ]
+      },
+      {
+        "rank": 3,
+        "crop": "Gram",
+        "decision_score": 48.81,
+        "yield_quintals": 47.56,
+        "production_metric_tons": 7282.9,
+        "cultivation_cost": 46863.89,
+        "historical_market_price": 2514.43,
+        "expected_revenue": 119589.95,
+        "required_water_litres": 1800000.0,
+        "disease_risk": 62.48,
+        "weather_risk": 50.43,
+        "risk_score": 43.55,
+        "budget_score": 64.02,
+        "data_coverage": "83.33333333333334",
+        "reasons": [
+          "Economical input and cultivation cost",
+          "Excellent drought tolerance and low water consumption"
+        ]
+      },
+      {
+        "rank": 4,
+        "crop": "Oilseeds",
+        "decision_score": 40.94,
+        "yield_quintals": 58.51,
+        "production_metric_tons": 9421.51,
+        "cultivation_cost": 69371.63,
+        "historical_market_price": 2447.8,
+        "expected_revenue": 143225.5,
+        "required_water_litres": 3000000.0,
+        "disease_risk": 62.48,
+        "weather_risk": 50.43,
+        "risk_score": 43.55,
+        "budget_score": 43.25,
+        "data_coverage": "66.66666666666666",
+        "reasons": [
+          "High yield and harvest potential"
+        ]
+      },
+      {
+        "rank": 5,
+        "crop": "Citrus",
+        "decision_score": 39.84,
+        "yield_quintals": 49.0,
+        "production_metric_tons": 7510.99,
+        "cultivation_cost": 69371.63,
+        "historical_market_price": 2584.46,
+        "expected_revenue": 126641.59,
+        "required_water_litres": 6000000.0,
+        "disease_risk": 62.48,
+        "weather_risk": 50.43,
+        "risk_score": 43.55,
+        "budget_score": 43.25,
+        "data_coverage": "66.66666666666666",
+        "reasons": [
+          "Strong historical market price and profitability"
+        ]
+      }
+    ],
+    "data_source_mode": "District-Exact",
+    "market_price_note": "Historical market mandi intelligence verified across government and benchmark datasets."
+  }
+}

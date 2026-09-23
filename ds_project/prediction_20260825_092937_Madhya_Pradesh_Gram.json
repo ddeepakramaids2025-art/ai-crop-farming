@@ -1,0 +1,126 @@
+{
+  "record_id": "prediction_20260825_092937_Madhya_Pradesh_Gram",
+  "timestamp": "2026-08-25 09:29:37",
+  "prediction": {
+    "success": true,
+    "state": "Madhya Pradesh",
+    "district": "Balaghat",
+    "season": "Whole Year",
+    "soil_type": "Other",
+    "land_acres": 1.0,
+    "budget": 60000.0,
+    "water_litres": 0.0,
+    "best_crop": "Gram",
+    "best_score": 69.5,
+    "best_rank": 1,
+    "recommendations": [
+      {
+        "rank": 1,
+        "crop": "Gram",
+        "decision_score": 69.5,
+        "yield_quintals": 12.0,
+        "production_metric_tons": 1.2,
+        "cultivation_cost": 43200.35,
+        "historical_market_price": 2544.6,
+        "expected_revenue": 30535.2,
+        "required_water_litres": 900000.0,
+        "disease_risk": 30.0,
+        "weather_risk": 40.0,
+        "risk_score": 65.0,
+        "budget_score": 100.0,
+        "data_coverage": "State & Market Extrapolated",
+        "reasons": [
+          "Strong historical market price and profitability",
+          "Economical input and cultivation cost",
+          "Low combined disease and climate vulnerability",
+          "Optimal feasibility within farmer's budget",
+          "Excellent drought tolerance and low water consumption"
+        ]
+      },
+      {
+        "rank": 2,
+        "crop": "Onion",
+        "decision_score": 58.88,
+        "yield_quintals": 85.0,
+        "production_metric_tons": 8.5,
+        "cultivation_cost": 140516.92,
+        "historical_market_price": 2536.81,
+        "expected_revenue": 215628.85,
+        "required_water_litres": 1500000.0,
+        "disease_risk": 75.0,
+        "weather_risk": 40.0,
+        "risk_score": 42.5,
+        "budget_score": 42.7,
+        "data_coverage": "State & Market Extrapolated",
+        "reasons": [
+          "High yield and harvest potential",
+          "Strong historical market price and profitability"
+        ]
+      },
+      {
+        "rank": 3,
+        "crop": "Maize",
+        "decision_score": 52.06,
+        "yield_quintals": 30.0,
+        "production_metric_tons": 3.0,
+        "cultivation_cost": 45404.99,
+        "historical_market_price": 2512.56,
+        "expected_revenue": 75376.8,
+        "required_water_litres": 1900000.0,
+        "disease_risk": 75.0,
+        "weather_risk": 40.0,
+        "risk_score": 42.5,
+        "budget_score": 100.0,
+        "data_coverage": "State & Market Extrapolated",
+        "reasons": [
+          "Economical input and cultivation cost",
+          "Optimal feasibility within farmer's budget"
+        ]
+      },
+      {
+        "rank": 4,
+        "crop": "Urad",
+        "decision_score": 51.58,
+        "yield_quintals": 25.0,
+        "production_metric_tons": 2.5,
+        "cultivation_cost": 26018.46,
+        "historical_market_price": 2500.0,
+        "expected_revenue": 62500.0,
+        "required_water_litres": 1500000.0,
+        "disease_risk": 30.0,
+        "weather_risk": 40.0,
+        "risk_score": 65.0,
+        "budget_score": 100.0,
+        "data_coverage": "State & Market Extrapolated",
+        "reasons": [
+          "Economical input and cultivation cost",
+          "Low combined disease and climate vulnerability",
+          "Optimal feasibility within farmer's budget"
+        ]
+      },
+      {
+        "rank": 5,
+        "crop": "Sesamum",
+        "decision_score": 50.4,
+        "yield_quintals": 25.0,
+        "production_metric_tons": 2.5,
+        "cultivation_cost": 34995.13,
+        "historical_market_price": 2500.0,
+        "expected_revenue": 62500.0,
+        "required_water_litres": 1500000.0,
+        "disease_risk": 30.0,
+        "weather_risk": 40.0,
+        "risk_score": 65.0,
+        "budget_score": 100.0,
+        "data_coverage": "State & Market Extrapolated",
+        "reasons": [
+          "Economical input and cultivation cost",
+          "Low combined disease and climate vulnerability",
+          "Optimal feasibility within farmer's budget"
+        ]
+      }
+    ],
+    "data_source_mode": "State-Extrapolated",
+    "market_price_note": "Historical market mandi intelligence verified across government and benchmark datasets."
+  }
+}

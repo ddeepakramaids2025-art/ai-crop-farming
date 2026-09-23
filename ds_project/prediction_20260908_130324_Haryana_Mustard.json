@@ -1,0 +1,123 @@
+{
+  "record_id": "prediction_20260908_130324_Haryana_Mustard",
+  "timestamp": "2026-09-08 13:03:24",
+  "prediction": {
+    "success": true,
+    "state": "Haryana",
+    "district": "Ambala",
+    "season": "Whole Year",
+    "soil_type": "Sandy Soil",
+    "land_acres": 3.0,
+    "budget": 70000.0,
+    "water_litres": 60000.0,
+    "best_crop": "Mustard",
+    "best_score": 74.6,
+    "best_rank": 1,
+    "recommendations": [
+      {
+        "crop": "Mustard",
+        "decision_score": 74.6,
+        "yield_quintals": 65.62,
+        "production_metric_tons": 6.56,
+        "cultivation_cost": 66000.0,
+        "historical_market_price": 5400.0,
+        "expected_revenue": 354348.0,
+        "required_water_litres": 120000.0,
+        "disease_risk": 22.0,
+        "weather_risk": 18.0,
+        "risk_score": 80.0,
+        "budget_score": 100.0,
+        "data_coverage": "Verified Agricultural Data",
+        "reasons": [
+          "Highly productive in Sandy Soil (25% yield boost)",
+          "High profit margin (Projected ₹288,348 net profit)",
+          "Cultivation cost within budget"
+        ],
+        "rank": 1
+      },
+      {
+        "crop": "Bajra",
+        "decision_score": 70.2,
+        "yield_quintals": 79.8,
+        "production_metric_tons": 7.98,
+        "cultivation_cost": 48000.0,
+        "historical_market_price": 2450.0,
+        "expected_revenue": 195510.0,
+        "required_water_litres": 114000.0,
+        "disease_risk": 15.0,
+        "weather_risk": 14.0,
+        "risk_score": 85.5,
+        "budget_score": 100.0,
+        "data_coverage": "Verified Agricultural Data",
+        "reasons": [
+          "Highly productive in Sandy Soil (39% yield boost)",
+          "High profit margin (Projected ₹147,510 net profit)",
+          "Cultivation cost within budget"
+        ],
+        "rank": 2
+      },
+      {
+        "crop": "Sesamum",
+        "decision_score": 65.0,
+        "yield_quintals": 26.25,
+        "production_metric_tons": 2.62,
+        "cultivation_cost": 48000.0,
+        "historical_market_price": 8900.0,
+        "expected_revenue": 233625.0,
+        "required_water_litres": 84000.0,
+        "disease_risk": 14.0,
+        "weather_risk": 14.0,
+        "risk_score": 86.0,
+        "budget_score": 100.0,
+        "data_coverage": "Verified Agricultural Data",
+        "reasons": [
+          "Highly productive in Sandy Soil (25% yield boost)",
+          "High profit margin (Projected ₹185,625 net profit)",
+          "Cultivation cost within budget"
+        ],
+        "rank": 3
+      },
+      {
+        "crop": "Cotton",
+        "decision_score": 62.53,
+        "yield_quintals": 54.0,
+        "production_metric_tons": 5.4,
+        "cultivation_cost": 132000.0,
+        "historical_market_price": 7100.0,
+        "expected_revenue": 383400.0,
+        "required_water_litres": 285000.0,
+        "disease_risk": 32.0,
+        "weather_risk": 22.0,
+        "risk_score": 73.0,
+        "budget_score": 13.3,
+        "data_coverage": "Verified Agricultural Data",
+        "reasons": [
+          "Optimal match for Whole Year season in Haryana",
+          "High profit margin (Projected ₹251,400 net profit)"
+        ],
+        "rank": 4
+      },
+      {
+        "crop": "Paddy",
+        "decision_score": 55.64,
+        "yield_quintals": 64.8,
+        "production_metric_tons": 6.48,
+        "cultivation_cost": 126000.0,
+        "historical_market_price": 2250.0,
+        "expected_revenue": 145800.0,
+        "required_water_litres": 540000.0,
+        "disease_risk": 30.0,
+        "weather_risk": 20.0,
+        "risk_score": 75.0,
+        "budget_score": 13.3,
+        "data_coverage": "Verified Agricultural Data",
+        "reasons": [
+          "Optimal match for Whole Year season in Haryana"
+        ],
+        "rank": 5
+      }
+    ],
+    "data_source_mode": "Agro-Climatic Intelligence",
+    "market_price_note": "Verified APMC Mandi Market Prices."
+  }
+}

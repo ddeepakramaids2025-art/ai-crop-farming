@@ -1,0 +1,18 @@
+# Binaries & logs
+cloudflared.exe
+*.log
+tunnel.log
+python
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Local run scripts
+*.bat
+
+# System
+.DS_Store
+Thumbs.db

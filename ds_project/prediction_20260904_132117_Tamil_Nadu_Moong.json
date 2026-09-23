@@ -1,0 +1,126 @@
+{
+  "record_id": "prediction_20260904_132117_Tamil_Nadu_Moong",
+  "timestamp": "2026-09-04 13:21:17",
+  "prediction": {
+    "success": true,
+    "state": "Tamil Nadu",
+    "district": "Pudukkottai",
+    "season": "Kharif",
+    "soil_type": "Clay Soil",
+    "land_acres": 4.0,
+    "budget": 90000.0,
+    "water_litres": 60000.0,
+    "best_crop": "Moong",
+    "best_score": 82.0,
+    "best_rank": 1,
+    "recommendations": [
+      {
+        "crop": "Moong",
+        "decision_score": 82.0,
+        "yield_quintals": 44.0,
+        "production_metric_tons": 4.4,
+        "cultivation_cost": 72000.0,
+        "historical_market_price": 7500.0,
+        "expected_revenue": 330000.0,
+        "required_water_litres": 128000.0,
+        "disease_risk": 18.0,
+        "weather_risk": 14.0,
+        "risk_score": 84.0,
+        "budget_score": 100.0,
+        "data_coverage": "Verified Agricultural Data",
+        "reasons": [
+          "Optimal match for Kharif season in Tamil Nadu",
+          "High profit margin (Projected ₹258,000 net profit)",
+          "Cultivation cost within budget"
+        ],
+        "rank": 1
+      },
+      {
+        "crop": "Urad",
+        "decision_score": 82.0,
+        "yield_quintals": 42.0,
+        "production_metric_tons": 4.2,
+        "cultivation_cost": 72000.0,
+        "historical_market_price": 7300.0,
+        "expected_revenue": 306600.0,
+        "required_water_litres": 128000.0,
+        "disease_risk": 18.0,
+        "weather_risk": 14.0,
+        "risk_score": 84.0,
+        "budget_score": 100.0,
+        "data_coverage": "Verified Agricultural Data",
+        "reasons": [
+          "Optimal match for Kharif season in Tamil Nadu",
+          "High profit margin (Projected ₹234,600 net profit)",
+          "Cultivation cost within budget"
+        ],
+        "rank": 2
+      },
+      {
+        "crop": "Sesamum",
+        "decision_score": 82.0,
+        "yield_quintals": 28.0,
+        "production_metric_tons": 2.8,
+        "cultivation_cost": 64000.0,
+        "historical_market_price": 8900.0,
+        "expected_revenue": 249200.0,
+        "required_water_litres": 112000.0,
+        "disease_risk": 14.0,
+        "weather_risk": 14.0,
+        "risk_score": 86.0,
+        "budget_score": 100.0,
+        "data_coverage": "Verified Agricultural Data",
+        "reasons": [
+          "Optimal match for Kharif season in Tamil Nadu",
+          "High profit margin (Projected ₹185,200 net profit)",
+          "Cultivation cost within budget"
+        ],
+        "rank": 3
+      },
+      {
+        "crop": "Paddy",
+        "decision_score": 72.83,
+        "yield_quintals": 208.8,
+        "production_metric_tons": 20.88,
+        "cultivation_cost": 168000.0,
+        "historical_market_price": 2250.0,
+        "expected_revenue": 469800.0,
+        "required_water_litres": 720000.0,
+        "disease_risk": 30.0,
+        "weather_risk": 20.0,
+        "risk_score": 75.0,
+        "budget_score": 13.3,
+        "data_coverage": "Verified Agricultural Data",
+        "reasons": [
+          "Optimal match for Kharif season in Tamil Nadu",
+          "Highly productive in Clay Soil (44% yield boost)",
+          "High profit margin (Projected ₹301,800 net profit)"
+        ],
+        "rank": 4
+      },
+      {
+        "crop": "Cotton",
+        "decision_score": 69.56,
+        "yield_quintals": 86.4,
+        "production_metric_tons": 8.64,
+        "cultivation_cost": 176000.0,
+        "historical_market_price": 7100.0,
+        "expected_revenue": 613440.0,
+        "required_water_litres": 380000.0,
+        "disease_risk": 32.0,
+        "weather_risk": 22.0,
+        "risk_score": 73.0,
+        "budget_score": 13.3,
+        "data_coverage": "Verified Agricultural Data",
+        "reasons": [
+          "Optimal match for Kharif season in Tamil Nadu",
+          "Highly productive in Clay Soil (19% yield boost)",
+          "High profit margin (Projected ₹437,440 net profit)"
+        ],
+        "rank": 5
+      }
+    ],
+    "data_source_mode": "Agro-Climatic Intelligence",
+    "market_price_note": "Verified APMC Mandi Market Prices."
+  }
+}

@@ -1,0 +1,6 @@
+crop,decision_score,yield_quintals,production_metric_tons,cultivation_cost,historical_market_price,expected_revenue,required_water_litres,disease_risk,weather_risk,risk_score,budget_score,data_coverage,reasons,rank
+Maize,87.36,76.0,7.6,56000.0,2200.0,167200.0,140000.0,20.0,18.0,81.0,53.3,Verified Agricultural Data,"['Optimal match for Whole Year season in Karnataka', 'High profit margin (Projected ₹111,200 net profit)']",1
+Tomato,72.0,260.0,26.0,92000.0,1750.0,455000.0,150000.0,32.0,22.0,73.0,13.3,Verified Agricultural Data,"['Optimal match for Whole Year season in Karnataka', 'High profit margin (Projected ₹363,000 net profit)']",2
+Cotton,71.76,43.2,4.32,88000.0,7100.0,306720.0,190000.0,32.0,22.0,73.0,13.3,Verified Agricultural Data,"['Optimal match for Whole Year season in Karnataka', 'Highly productive in Clay Soil (19% yield boost)', 'High profit margin (Projected ₹218,720 net profit)']",3
+Onion,69.0,190.0,19.0,82000.0,1900.0,361000.0,140000.0,28.0,18.0,77.0,13.3,Verified Agricultural Data,"['Optimal match for Whole Year season in Karnataka', 'High profit margin (Projected ₹279,000 net profit)']",4
+Sesamum,68.0,14.0,1.4,32000.0,8900.0,124600.0,56000.0,14.0,14.0,86.0,100.0,Verified Agricultural Data,"['High profit margin (Projected ₹92,600 net profit)', 'Water requirement fits your available supply', 'Cultivation cost within budget']",5

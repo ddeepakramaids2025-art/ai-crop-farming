@@ -1,0 +1,6 @@
+rank,crop,decision_score,yield_quintals,production_metric_tons,cultivation_cost,historical_market_price,expected_revenue,required_water_litres,disease_risk,weather_risk,risk_score,budget_score,data_coverage,reasons
+1,Gram,57.7,30.0,3.0,52444.42,2544.6,76338.0,2250000.0,30.0,40.0,65.0,57.2,State & Market Extrapolated,"['Strong historical market price and profitability', 'Economical input and cultivation cost', 'Low combined disease and climate vulnerability', 'Excellent drought tolerance and low water consumption']"
+2,Sugarcane,50.89,800.0,80.0,248367.99,2526.1,2020880.0,16250000.0,75.0,40.0,42.5,12.08,State & Market Extrapolated,['High yield and harvest potential']
+3,Moong,46.81,62.5,6.25,28521.11,2500.0,156250.0,3750000.0,30.0,40.0,65.0,100.0,State & Market Extrapolated,"['Economical input and cultivation cost', 'Low combined disease and climate vulnerability', ""Optimal feasibility within farmer's budget""]"
+4,Urad,41.74,62.5,6.25,41556.07,2500.0,156250.0,3750000.0,30.0,40.0,65.0,72.19,State & Market Extrapolated,"['Economical input and cultivation cost', 'Low combined disease and climate vulnerability']"
+5,Onion,38.97,212.5,21.25,217700.64,2536.81,539072.12,3750000.0,75.0,40.0,42.5,13.78,State & Market Extrapolated,['Strong historical market price and profitability']

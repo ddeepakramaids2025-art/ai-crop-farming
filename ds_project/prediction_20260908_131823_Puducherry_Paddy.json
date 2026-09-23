@@ -1,0 +1,124 @@
+{
+  "record_id": "prediction_20260908_131823_Puducherry_Paddy",
+  "timestamp": "2026-09-08 13:18:23",
+  "prediction": {
+    "success": true,
+    "state": "Puducherry",
+    "district": "Karaikal",
+    "season": "Whole Year",
+    "soil_type": "Clay Soil",
+    "land_acres": 3.5,
+    "budget": 80000.0,
+    "water_litres": 50000.0,
+    "best_crop": "Paddy",
+    "best_score": 72.83,
+    "best_rank": 1,
+    "recommendations": [
+      {
+        "crop": "Paddy",
+        "decision_score": 72.83,
+        "yield_quintals": 182.7,
+        "production_metric_tons": 18.27,
+        "cultivation_cost": 147000.0,
+        "historical_market_price": 2250.0,
+        "expected_revenue": 411075.0,
+        "required_water_litres": 630000.0,
+        "disease_risk": 30.0,
+        "weather_risk": 20.0,
+        "risk_score": 75.0,
+        "budget_score": 13.3,
+        "data_coverage": "Verified Agricultural Data",
+        "reasons": [
+          "Optimal match for Whole Year season in Puducherry",
+          "Highly productive in Clay Soil (44% yield boost)",
+          "High profit margin (Projected ₹264,075 net profit)"
+        ],
+        "rank": 1
+      },
+      {
+        "crop": "Sugarcane",
+        "decision_score": 69.2,
+        "yield_quintals": 1890.0,
+        "production_metric_tons": 189.0,
+        "cultivation_cost": 297500.0,
+        "historical_market_price": 360.0,
+        "expected_revenue": 680400.0,
+        "required_water_litres": 910000.0,
+        "disease_risk": 28.0,
+        "weather_risk": 15.0,
+        "risk_score": 78.5,
+        "budget_score": 13.3,
+        "data_coverage": "Verified Agricultural Data",
+        "reasons": [
+          "Optimal match for Whole Year season in Puducherry",
+          "Highly productive in Clay Soil (35% yield boost)",
+          "High profit margin (Projected ₹382,900 net profit)"
+        ],
+        "rank": 2
+      },
+      {
+        "crop": "Cotton",
+        "decision_score": 67.36,
+        "yield_quintals": 75.6,
+        "production_metric_tons": 7.56,
+        "cultivation_cost": 154000.0,
+        "historical_market_price": 7100.0,
+        "expected_revenue": 536760.0,
+        "required_water_litres": 332500.0,
+        "disease_risk": 32.0,
+        "weather_risk": 22.0,
+        "risk_score": 73.0,
+        "budget_score": 13.3,
+        "data_coverage": "Verified Agricultural Data",
+        "reasons": [
+          "Optimal match for Whole Year season in Puducherry",
+          "Highly productive in Clay Soil (19% yield boost)",
+          "High profit margin (Projected ₹382,760 net profit)"
+        ],
+        "rank": 3
+      },
+      {
+        "crop": "Sesamum",
+        "decision_score": 64.0,
+        "yield_quintals": 24.5,
+        "production_metric_tons": 2.45,
+        "cultivation_cost": 56000.0,
+        "historical_market_price": 8900.0,
+        "expected_revenue": 218050.0,
+        "required_water_litres": 98000.0,
+        "disease_risk": 14.0,
+        "weather_risk": 14.0,
+        "risk_score": 86.0,
+        "budget_score": 100.0,
+        "data_coverage": "Verified Agricultural Data",
+        "reasons": [
+          "High profit margin (Projected ₹162,050 net profit)",
+          "Cultivation cost within budget"
+        ],
+        "rank": 4
+      },
+      {
+        "crop": "Tomato",
+        "decision_score": 62.2,
+        "yield_quintals": 455.0,
+        "production_metric_tons": 45.5,
+        "cultivation_cost": 161000.0,
+        "historical_market_price": 1750.0,
+        "expected_revenue": 796250.0,
+        "required_water_litres": 262500.0,
+        "disease_risk": 32.0,
+        "weather_risk": 22.0,
+        "risk_score": 73.0,
+        "budget_score": 13.3,
+        "data_coverage": "Verified Agricultural Data",
+        "reasons": [
+          "Optimal match for Whole Year season in Puducherry",
+          "High profit margin (Projected ₹635,250 net profit)"
+        ],
+        "rank": 5
+      }
+    ],
+    "data_source_mode": "Agro-Climatic Intelligence",
+    "market_price_note": "Verified APMC Mandi Market Prices."
+  }
+}

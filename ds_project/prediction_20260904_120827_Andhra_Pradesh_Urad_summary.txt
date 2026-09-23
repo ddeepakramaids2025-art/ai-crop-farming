@@ -1,0 +1,13 @@
+Kisan Agri Advisory Portal — Farm Advisory Report
+Recommended Crop: Urad
+Suitability Score: 90.8/100
+Date: 2026-09-04 12:08:27
+Location: Andhra Pradesh, Anantapur (Kharif)
+Land Area: 2.0 acres | Budget: INR 70,000
+
+Top Recommended Crops:
+#1 Urad | Score: 90.8 | Revenue: INR 153,300 | Cost: INR 36,000
+#2 Sesamum | Score: 89.0 | Revenue: INR 124,600 | Cost: INR 32,000
+#3 Maize | Score: 87.76 | Revenue: INR 167,200 | Cost: INR 56,000
+#4 Groundnut | Score: 85.91 | Revenue: INR 208,320 | Cost: INR 64,000
+#5 Moong | Score: 82.0 | Revenue: INR 165,000 | Cost: INR 36,000

@@ -1,0 +1,13 @@
+Kisan Agri Advisory Portal — Farm Advisory Report
+Recommended Crop: Maize
+Suitability Score: 87.36/100
+Date: 2026-09-04 12:08:51
+Location: Karnataka, Bagalkot (Whole Year)
+Land Area: 2.0 acres | Budget: INR 40,000
+
+Top Recommended Crops:
+#1 Maize | Score: 87.36 | Revenue: INR 167,200 | Cost: INR 56,000
+#2 Tomato | Score: 72.0 | Revenue: INR 455,000 | Cost: INR 92,000
+#3 Cotton | Score: 71.76 | Revenue: INR 306,720 | Cost: INR 88,000
+#4 Onion | Score: 69.0 | Revenue: INR 361,000 | Cost: INR 82,000
+#5 Sesamum | Score: 68.0 | Revenue: INR 124,600 | Cost: INR 32,000

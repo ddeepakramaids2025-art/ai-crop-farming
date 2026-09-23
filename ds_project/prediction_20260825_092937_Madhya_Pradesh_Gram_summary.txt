@@ -1,0 +1,13 @@
+AI Crop Decision System — Farm Advisory Report
+Best Recommended Crop: Gram
+Decision Score: 69.5/100
+Date: 2026-08-25 09:29:37
+Location: Madhya Pradesh, Balaghat (Whole Year)
+Land Area: 1.0 acres | Pocket Budget: INR 60,000
+
+Top Crop Recommendations:
+#1 Gram | Score: 69.5 | Revenue: INR 30,535 | Cost: INR 43,200
+#2 Onion | Score: 58.88 | Revenue: INR 215,629 | Cost: INR 140,517
+#3 Maize | Score: 52.06 | Revenue: INR 75,377 | Cost: INR 45,405
+#4 Urad | Score: 51.58 | Revenue: INR 62,500 | Cost: INR 26,018
+#5 Sesamum | Score: 50.4 | Revenue: INR 62,500 | Cost: INR 34,995

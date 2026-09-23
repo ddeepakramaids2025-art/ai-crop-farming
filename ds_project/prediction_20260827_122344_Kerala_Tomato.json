@@ -1,0 +1,122 @@
+{
+  "record_id": "prediction_20260827_122344_Kerala_Tomato",
+  "timestamp": "2026-08-27 12:23:44",
+  "prediction": {
+    "success": true,
+    "state": "Kerala",
+    "district": "Alappuzha",
+    "season": "Whole Year",
+    "soil_type": "Red Soil",
+    "land_acres": 4.0,
+    "budget": 60000.0,
+    "water_litres": 40000.0,
+    "best_crop": "Tomato",
+    "best_score": 62.0,
+    "best_rank": 1,
+    "recommendations": [
+      {
+        "crop": "Tomato",
+        "decision_score": 62.0,
+        "yield_quintals": 480.0,
+        "production_metric_tons": 48.0,
+        "cultivation_cost": 180000.0,
+        "historical_market_price": 1600.0,
+        "expected_revenue": 768000.0,
+        "required_water_litres": 320000.0,
+        "disease_risk": 35.0,
+        "weather_risk": 25.0,
+        "risk_score": 70.0,
+        "budget_score": 13.3,
+        "data_coverage": "Verified Agricultural Data",
+        "reasons": [
+          "Optimal match for Whole Year season in Kerala",
+          "Highly compatible with Red Soil",
+          "High profit margin (Projected ₹588,000 net profit)"
+        ],
+        "rank": 1
+      },
+      {
+        "crop": "Paddy",
+        "decision_score": 55.34,
+        "yield_quintals": 136.0,
+        "production_metric_tons": 13.6,
+        "cultivation_cost": 168000.0,
+        "historical_market_price": 2200.0,
+        "expected_revenue": 299200.0,
+        "required_water_litres": 720000.0,
+        "disease_risk": 35.0,
+        "weather_risk": 25.0,
+        "risk_score": 70.0,
+        "budget_score": 13.3,
+        "data_coverage": "Verified Agricultural Data",
+        "reasons": [
+          "Optimal match for Whole Year season in Kerala"
+        ],
+        "rank": 2
+      },
+      {
+        "crop": "Sesamum",
+        "decision_score": 52.0,
+        "yield_quintals": 26.0,
+        "production_metric_tons": 2.6,
+        "cultivation_cost": 64000.0,
+        "historical_market_price": 8500.0,
+        "expected_revenue": 221000.0,
+        "required_water_litres": 120000.0,
+        "disease_risk": 15.0,
+        "weather_risk": 15.0,
+        "risk_score": 85.0,
+        "budget_score": 53.3,
+        "data_coverage": "Verified Agricultural Data",
+        "reasons": [
+          "Highly compatible with Red Soil",
+          "High profit margin (Projected ₹157,000 net profit)"
+        ],
+        "rank": 3
+      },
+      {
+        "crop": "Cotton",
+        "decision_score": 49.25,
+        "yield_quintals": 64.0,
+        "production_metric_tons": 6.4,
+        "cultivation_cost": 180000.0,
+        "historical_market_price": 6800.0,
+        "expected_revenue": 435200.0,
+        "required_water_litres": 380000.0,
+        "disease_risk": 35.0,
+        "weather_risk": 25.0,
+        "risk_score": 70.0,
+        "budget_score": 13.3,
+        "data_coverage": "Verified Agricultural Data",
+        "reasons": [
+          "Optimal match for Whole Year season in Kerala",
+          "Highly compatible with Red Soil",
+          "High profit margin (Projected ₹255,200 net profit)"
+        ],
+        "rank": 4
+      },
+      {
+        "crop": "Groundnut",
+        "decision_score": 44.0,
+        "yield_quintals": 88.0,
+        "production_metric_tons": 8.8,
+        "cultivation_cost": 128000.0,
+        "historical_market_price": 5800.0,
+        "expected_revenue": 510400.0,
+        "required_water_litres": 240000.0,
+        "disease_risk": 25.0,
+        "weather_risk": 20.0,
+        "risk_score": 77.5,
+        "budget_score": 13.3,
+        "data_coverage": "Verified Agricultural Data",
+        "reasons": [
+          "Highly compatible with Red Soil",
+          "High profit margin (Projected ₹382,400 net profit)"
+        ],
+        "rank": 5
+      }
+    ],
+    "data_source_mode": "District & Agro-Climatic Intelligence",
+    "market_price_note": "Historical market mandi intelligence verified across government records."
+  }
+}

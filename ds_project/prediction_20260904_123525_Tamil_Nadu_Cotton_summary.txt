@@ -1,0 +1,13 @@
+Kisan Agri Advisory Portal — Farm Advisory Report
+Recommended Crop: Cotton
+Suitability Score: 70.6/100
+Date: 2026-09-04 12:35:25
+Location: Tamil Nadu, Pudukkottai (Whole Year)
+Land Area: 4.5 acres | Budget: INR 70,000
+
+Top Recommended Crops:
+#1 Cotton | Score: 70.6 | Revenue: INR 805,140 | Cost: INR 198,000
+#2 Paddy | Score: 68.54 | Revenue: INR 400,950 | Cost: INR 189,000
+#3 Sugarcane | Score: 64.57 | Revenue: INR 842,400 | Cost: INR 382,500
+#4 Onion | Score: 61.0 | Revenue: INR 974,700 | Cost: INR 184,500
+#5 Maize | Score: 60.56 | Revenue: INR 376,200 | Cost: INR 126,000

@@ -1,0 +1,13 @@
+AI Crop Decision System — Farm Advisory Report
+Best Recommended Crop: Urad
+Decision Score: 96.5/100
+Date: 2026-08-27 09:58:05
+Location: Tamil Nadu, Tiruvannamalai (Kharif)
+Land Area: 2.0 acres | Pocket Budget: INR 70,000
+
+Top Crop Recommendations:
+#1 Urad | Score: 96.5 | Revenue: INR 133,000 | Cost: INR 36,000
+#2 Maize | Score: 92.06 | Revenue: INR 150,500 | Cost: INR 56,000
+#3 Sesamum | Score: 89.0 | Revenue: INR 110,500 | Cost: INR 32,000
+#4 Groundnut | Score: 88.0 | Revenue: INR 255,200 | Cost: INR 64,000
+#5 Moong | Score: 88.0 | Revenue: INR 144,000 | Cost: INR 36,000

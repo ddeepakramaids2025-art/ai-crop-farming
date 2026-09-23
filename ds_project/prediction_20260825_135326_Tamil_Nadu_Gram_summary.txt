@@ -1,0 +1,13 @@
+AI Crop Decision System — Farm Advisory Report
+Best Recommended Crop: Gram
+Decision Score: 57.7/100
+Date: 2026-08-25 13:53:26
+Location: Tamil Nadu, Coimbatore (Zaid / Summer)
+Land Area: 2.5 acres | Pocket Budget: INR 75,000
+
+Top Crop Recommendations:
+#1 Gram | Score: 57.7 | Revenue: INR 76,338 | Cost: INR 52,444
+#2 Sugarcane | Score: 50.89 | Revenue: INR 2,020,880 | Cost: INR 248,368
+#3 Moong | Score: 46.81 | Revenue: INR 156,250 | Cost: INR 28,521
+#4 Urad | Score: 41.74 | Revenue: INR 156,250 | Cost: INR 41,556
+#5 Onion | Score: 38.97 | Revenue: INR 539,072 | Cost: INR 217,701

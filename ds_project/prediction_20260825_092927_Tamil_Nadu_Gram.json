@@ -1,0 +1,126 @@
+{
+  "record_id": "prediction_20260825_092927_Tamil_Nadu_Gram",
+  "timestamp": "2026-08-25 09:29:27",
+  "prediction": {
+    "success": true,
+    "state": "Tamil Nadu",
+    "district": "Coimbatore",
+    "season": "Whole Year",
+    "soil_type": "Other",
+    "land_acres": 1.0,
+    "budget": 60000.0,
+    "water_litres": 0.0,
+    "best_crop": "Gram",
+    "best_score": 70.12,
+    "best_rank": 1,
+    "recommendations": [
+      {
+        "rank": 1,
+        "crop": "Gram",
+        "decision_score": 70.12,
+        "yield_quintals": 12.0,
+        "production_metric_tons": 1.2,
+        "cultivation_cost": 52444.42,
+        "historical_market_price": 2544.6,
+        "expected_revenue": 30535.2,
+        "required_water_litres": 900000.0,
+        "disease_risk": 30.0,
+        "weather_risk": 40.0,
+        "risk_score": 65.0,
+        "budget_score": 100.0,
+        "data_coverage": "State & Market Extrapolated",
+        "reasons": [
+          "Strong historical market price and profitability",
+          "Economical input and cultivation cost",
+          "Low combined disease and climate vulnerability",
+          "Optimal feasibility within farmer's budget",
+          "Excellent drought tolerance and low water consumption"
+        ]
+      },
+      {
+        "rank": 2,
+        "crop": "Moong",
+        "decision_score": 44.81,
+        "yield_quintals": 25.0,
+        "production_metric_tons": 2.5,
+        "cultivation_cost": 28521.11,
+        "historical_market_price": 2500.0,
+        "expected_revenue": 62500.0,
+        "required_water_litres": 1500000.0,
+        "disease_risk": 30.0,
+        "weather_risk": 40.0,
+        "risk_score": 65.0,
+        "budget_score": 100.0,
+        "data_coverage": "State & Market Extrapolated",
+        "reasons": [
+          "Economical input and cultivation cost",
+          "Low combined disease and climate vulnerability",
+          "Optimal feasibility within farmer's budget"
+        ]
+      },
+      {
+        "rank": 3,
+        "crop": "Urad",
+        "decision_score": 43.92,
+        "yield_quintals": 25.0,
+        "production_metric_tons": 2.5,
+        "cultivation_cost": 41556.07,
+        "historical_market_price": 2500.0,
+        "expected_revenue": 62500.0,
+        "required_water_litres": 1500000.0,
+        "disease_risk": 30.0,
+        "weather_risk": 40.0,
+        "risk_score": 65.0,
+        "budget_score": 100.0,
+        "data_coverage": "State & Market Extrapolated",
+        "reasons": [
+          "Economical input and cultivation cost",
+          "Low combined disease and climate vulnerability",
+          "Optimal feasibility within farmer's budget"
+        ]
+      },
+      {
+        "rank": 4,
+        "crop": "Jowar",
+        "decision_score": 43.21,
+        "yield_quintals": 25.0,
+        "production_metric_tons": 2.5,
+        "cultivation_cost": 51878.12,
+        "historical_market_price": 2500.0,
+        "expected_revenue": 62500.0,
+        "required_water_litres": 1200000.0,
+        "disease_risk": 30.0,
+        "weather_risk": 40.0,
+        "risk_score": 65.0,
+        "budget_score": 100.0,
+        "data_coverage": "State & Market Extrapolated",
+        "reasons": [
+          "Economical input and cultivation cost",
+          "Low combined disease and climate vulnerability",
+          "Optimal feasibility within farmer's budget"
+        ]
+      },
+      {
+        "rank": 5,
+        "crop": "Sugarcane",
+        "decision_score": 40.7,
+        "yield_quintals": 320.0,
+        "production_metric_tons": 32.0,
+        "cultivation_cost": 248367.99,
+        "historical_market_price": 2526.1,
+        "expected_revenue": 808352.0,
+        "required_water_litres": 6500000.0,
+        "disease_risk": 75.0,
+        "weather_risk": 40.0,
+        "risk_score": 42.5,
+        "budget_score": 24.16,
+        "data_coverage": "State & Market Extrapolated",
+        "reasons": [
+          "High yield and harvest potential"
+        ]
+      }
+    ],
+    "data_source_mode": "State-Extrapolated",
+    "market_price_note": "Historical market mandi intelligence verified across government and benchmark datasets."
+  }
+}

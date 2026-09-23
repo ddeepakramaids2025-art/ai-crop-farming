@@ -1,0 +1,122 @@
+{
+  "record_id": "prediction_20260825_092846_Tamil_Nadu_Gram",
+  "timestamp": "2026-08-25 09:28:46",
+  "prediction": {
+    "success": true,
+    "state": "Tamil Nadu",
+    "district": "Coimbatore",
+    "season": "Whole Year",
+    "soil_type": "Alluvial",
+    "land_acres": 3.0,
+    "budget": 75000.0,
+    "water_litres": 60000.0,
+    "best_crop": "Gram",
+    "best_score": 56.27,
+    "best_rank": 1,
+    "recommendations": [
+      {
+        "rank": 1,
+        "crop": "Gram",
+        "decision_score": 56.27,
+        "yield_quintals": 36.0,
+        "production_metric_tons": 3.6,
+        "cultivation_cost": 52444.42,
+        "historical_market_price": 2544.6,
+        "expected_revenue": 91605.6,
+        "required_water_litres": 2700000.0,
+        "disease_risk": 30.0,
+        "weather_risk": 40.0,
+        "risk_score": 65.0,
+        "budget_score": 47.67,
+        "data_coverage": "State & Market Extrapolated",
+        "reasons": [
+          "Strong historical market price and profitability",
+          "Economical input and cultivation cost",
+          "Low combined disease and climate vulnerability",
+          "Excellent drought tolerance and low water consumption"
+        ]
+      },
+      {
+        "rank": 2,
+        "crop": "Sugarcane",
+        "decision_score": 50.59,
+        "yield_quintals": 960.0,
+        "production_metric_tons": 96.0,
+        "cultivation_cost": 248367.99,
+        "historical_market_price": 2526.1,
+        "expected_revenue": 2425056.0,
+        "required_water_litres": 19500000.0,
+        "disease_risk": 75.0,
+        "weather_risk": 40.0,
+        "risk_score": 42.5,
+        "budget_score": 10.07,
+        "data_coverage": "State & Market Extrapolated",
+        "reasons": [
+          "High yield and harvest potential"
+        ]
+      },
+      {
+        "rank": 3,
+        "crop": "Moong",
+        "decision_score": 44.95,
+        "yield_quintals": 75.0,
+        "production_metric_tons": 7.5,
+        "cultivation_cost": 28521.11,
+        "historical_market_price": 2500.0,
+        "expected_revenue": 187500.0,
+        "required_water_litres": 4500000.0,
+        "disease_risk": 30.0,
+        "weather_risk": 40.0,
+        "risk_score": 65.0,
+        "budget_score": 87.65,
+        "data_coverage": "State & Market Extrapolated",
+        "reasons": [
+          "Economical input and cultivation cost",
+          "Low combined disease and climate vulnerability",
+          "Optimal feasibility within farmer's budget"
+        ]
+      },
+      {
+        "rank": 4,
+        "crop": "Urad",
+        "decision_score": 39.94,
+        "yield_quintals": 75.0,
+        "production_metric_tons": 7.5,
+        "cultivation_cost": 41556.07,
+        "historical_market_price": 2500.0,
+        "expected_revenue": 187500.0,
+        "required_water_litres": 4500000.0,
+        "disease_risk": 30.0,
+        "weather_risk": 40.0,
+        "risk_score": 65.0,
+        "budget_score": 60.16,
+        "data_coverage": "State & Market Extrapolated",
+        "reasons": [
+          "Economical input and cultivation cost",
+          "Low combined disease and climate vulnerability"
+        ]
+      },
+      {
+        "rank": 5,
+        "crop": "Onion",
+        "decision_score": 38.62,
+        "yield_quintals": 255.0,
+        "production_metric_tons": 25.5,
+        "cultivation_cost": 217700.64,
+        "historical_market_price": 2536.81,
+        "expected_revenue": 646886.55,
+        "required_water_litres": 4500000.0,
+        "disease_risk": 75.0,
+        "weather_risk": 40.0,
+        "risk_score": 42.5,
+        "budget_score": 11.48,
+        "data_coverage": "State & Market Extrapolated",
+        "reasons": [
+          "Strong historical market price and profitability"
+        ]
+      }
+    ],
+    "data_source_mode": "State-Extrapolated",
+    "market_price_note": "Historical market mandi intelligence verified across government and benchmark datasets."
+  }
+}

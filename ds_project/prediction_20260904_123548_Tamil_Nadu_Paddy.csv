@@ -1,0 +1,6 @@
+crop,decision_score,yield_quintals,production_metric_tons,cultivation_cost,historical_market_price,expected_revenue,required_water_litres,disease_risk,weather_risk,risk_score,budget_score,data_coverage,reasons,rank
+Paddy,69.61,207.0,20.7,210000.0,2250.0,465750.0,900000.0,30.0,20.0,75.0,13.3,Verified Agricultural Data,"['Optimal match for Whole Year season in Tamil Nadu', 'High profit margin (Projected ₹255,750 net profit)']",1
+Maize,69.0,209.0,20.9,140000.0,2200.0,459800.0,350000.0,20.0,18.0,81.0,53.3,Verified Agricultural Data,"['Optimal match for Whole Year season in Tamil Nadu', 'High profit margin (Projected ₹319,800 net profit)']",2
+Tomato,62.4,747.5,74.75,230000.0,1750.0,1308125.0,375000.0,32.0,22.0,73.0,13.3,Verified Agricultural Data,"['Optimal match for Whole Year season in Tamil Nadu', 'High profit margin (Projected ₹1,078,125 net profit)']",3
+Cotton,59.91,72.0,7.2,220000.0,7100.0,511200.0,475000.0,32.0,22.0,73.0,13.3,Verified Agricultural Data,"['Optimal match for Whole Year season in Tamil Nadu', 'High profit margin (Projected ₹291,200 net profit)']",4
+Sugarcane,59.14,2000.0,200.0,425000.0,360.0,720000.0,1300000.0,28.0,15.0,78.5,13.3,Verified Agricultural Data,['Optimal match for Whole Year season in Tamil Nadu'],5

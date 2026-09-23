@@ -1,0 +1,13 @@
+Kisan Agri Advisory Portal — Farm Advisory Report
+Recommended Crop: Sesamum
+Suitability Score: 73.0/100
+Date: 2026-09-05 09:54:37
+Location: Tamil Nadu, Pudukkottai (Whole Year)
+Land Area: 3.0 acres | Budget: INR 70,000
+
+Top Recommended Crops:
+#1 Sesamum | Score: 73.0 | Revenue: INR 233,625 | Cost: INR 48,000
+#2 Groundnut | Score: 69.8 | Revenue: INR 580,320 | Cost: INR 96,000
+#3 Moong | Score: 69.0 | Revenue: INR 247,500 | Cost: INR 54,000
+#4 Urad | Score: 69.0 | Revenue: INR 229,950 | Cost: INR 54,000
+#5 Maize | Score: 66.56 | Revenue: INR 250,800 | Cost: INR 84,000

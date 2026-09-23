@@ -1,0 +1,120 @@
+{
+  "record_id": "prediction_20260904_123551_Tamil_Nadu_Paddy",
+  "timestamp": "2026-09-04 12:35:51",
+  "prediction": {
+    "success": true,
+    "state": "Tamil Nadu",
+    "district": "Pudukkottai",
+    "season": "Whole Year",
+    "soil_type": "Laterite Soil",
+    "land_acres": 7.0,
+    "budget": 90000.0,
+    "water_litres": 50000.0,
+    "best_crop": "Paddy",
+    "best_score": 69.61,
+    "best_rank": 1,
+    "recommendations": [
+      {
+        "crop": "Paddy",
+        "decision_score": 69.61,
+        "yield_quintals": 289.8,
+        "production_metric_tons": 28.98,
+        "cultivation_cost": 294000.0,
+        "historical_market_price": 2250.0,
+        "expected_revenue": 652050.0,
+        "required_water_litres": 1260000.0,
+        "disease_risk": 30.0,
+        "weather_risk": 20.0,
+        "risk_score": 75.0,
+        "budget_score": 13.3,
+        "data_coverage": "Verified Agricultural Data",
+        "reasons": [
+          "Optimal match for Whole Year season in Tamil Nadu",
+          "High profit margin (Projected ₹358,050 net profit)"
+        ],
+        "rank": 1
+      },
+      {
+        "crop": "Maize",
+        "decision_score": 63.0,
+        "yield_quintals": 292.6,
+        "production_metric_tons": 29.26,
+        "cultivation_cost": 196000.0,
+        "historical_market_price": 2200.0,
+        "expected_revenue": 643720.0,
+        "required_water_litres": 490000.0,
+        "disease_risk": 20.0,
+        "weather_risk": 18.0,
+        "risk_score": 81.0,
+        "budget_score": 13.3,
+        "data_coverage": "Verified Agricultural Data",
+        "reasons": [
+          "Optimal match for Whole Year season in Tamil Nadu",
+          "High profit margin (Projected ₹447,720 net profit)"
+        ],
+        "rank": 2
+      },
+      {
+        "crop": "Tomato",
+        "decision_score": 62.4,
+        "yield_quintals": 1046.5,
+        "production_metric_tons": 104.65,
+        "cultivation_cost": 322000.0,
+        "historical_market_price": 1750.0,
+        "expected_revenue": 1831375.0,
+        "required_water_litres": 525000.0,
+        "disease_risk": 32.0,
+        "weather_risk": 22.0,
+        "risk_score": 73.0,
+        "budget_score": 13.3,
+        "data_coverage": "Verified Agricultural Data",
+        "reasons": [
+          "Optimal match for Whole Year season in Tamil Nadu",
+          "High profit margin (Projected ₹1,509,375 net profit)"
+        ],
+        "rank": 3
+      },
+      {
+        "crop": "Cotton",
+        "decision_score": 59.91,
+        "yield_quintals": 100.8,
+        "production_metric_tons": 10.08,
+        "cultivation_cost": 308000.0,
+        "historical_market_price": 7100.0,
+        "expected_revenue": 715680.0,
+        "required_water_litres": 665000.0,
+        "disease_risk": 32.0,
+        "weather_risk": 22.0,
+        "risk_score": 73.0,
+        "budget_score": 13.3,
+        "data_coverage": "Verified Agricultural Data",
+        "reasons": [
+          "Optimal match for Whole Year season in Tamil Nadu",
+          "High profit margin (Projected ₹407,680 net profit)"
+        ],
+        "rank": 4
+      },
+      {
+        "crop": "Sugarcane",
+        "decision_score": 59.14,
+        "yield_quintals": 2800.0,
+        "production_metric_tons": 280.0,
+        "cultivation_cost": 595000.0,
+        "historical_market_price": 360.0,
+        "expected_revenue": 1008000.0,
+        "required_water_litres": 1820000.0,
+        "disease_risk": 28.0,
+        "weather_risk": 15.0,
+        "risk_score": 78.5,
+        "budget_score": 13.3,
+        "data_coverage": "Verified Agricultural Data",
+        "reasons": [
+          "Optimal match for Whole Year season in Tamil Nadu"
+        ],
+        "rank": 5
+      }
+    ],
+    "data_source_mode": "Agro-Climatic Intelligence",
+    "market_price_note": "Verified APMC Mandi Market Prices."
+  }
+}

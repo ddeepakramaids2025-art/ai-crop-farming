@@ -1,0 +1,126 @@
+{
+  "record_id": "prediction_20260904_112952_Andhra_Pradesh_Urad",
+  "timestamp": "2026-09-04 11:29:52",
+  "prediction": {
+    "success": true,
+    "state": "Andhra Pradesh",
+    "district": "Anantapur",
+    "season": "Kharif",
+    "soil_type": "Clay Soil",
+    "land_acres": 3.0,
+    "budget": 80000.0,
+    "water_litres": 60000.0,
+    "best_crop": "Urad",
+    "best_score": 82.8,
+    "best_rank": 1,
+    "recommendations": [
+      {
+        "crop": "Urad",
+        "decision_score": 82.8,
+        "yield_quintals": 31.5,
+        "production_metric_tons": 3.15,
+        "cultivation_cost": 54000.0,
+        "historical_market_price": 7300.0,
+        "expected_revenue": 229950.0,
+        "required_water_litres": 96000.0,
+        "disease_risk": 18.0,
+        "weather_risk": 14.0,
+        "risk_score": 84.0,
+        "budget_score": 100.0,
+        "data_coverage": "Verified Agricultural Data",
+        "reasons": [
+          "Optimal match for Kharif season in Andhra Pradesh",
+          "High profit margin (Projected ₹175,950 net profit)",
+          "Cultivation cost within budget"
+        ],
+        "rank": 1
+      },
+      {
+        "crop": "Sesamum",
+        "decision_score": 82.0,
+        "yield_quintals": 21.0,
+        "production_metric_tons": 2.1,
+        "cultivation_cost": 48000.0,
+        "historical_market_price": 8900.0,
+        "expected_revenue": 186900.0,
+        "required_water_litres": 84000.0,
+        "disease_risk": 14.0,
+        "weather_risk": 14.0,
+        "risk_score": 86.0,
+        "budget_score": 100.0,
+        "data_coverage": "Verified Agricultural Data",
+        "reasons": [
+          "Optimal match for Kharif season in Andhra Pradesh",
+          "High profit margin (Projected ₹138,900 net profit)",
+          "Cultivation cost within budget"
+        ],
+        "rank": 2
+      },
+      {
+        "crop": "Paddy",
+        "decision_score": 78.83,
+        "yield_quintals": 156.6,
+        "production_metric_tons": 15.66,
+        "cultivation_cost": 126000.0,
+        "historical_market_price": 2250.0,
+        "expected_revenue": 352350.0,
+        "required_water_litres": 540000.0,
+        "disease_risk": 30.0,
+        "weather_risk": 20.0,
+        "risk_score": 75.0,
+        "budget_score": 53.3,
+        "data_coverage": "Verified Agricultural Data",
+        "reasons": [
+          "Optimal match for Kharif season in Andhra Pradesh",
+          "Highly productive in Clay Soil (44% yield boost)",
+          "High profit margin (Projected ₹226,350 net profit)"
+        ],
+        "rank": 3
+      },
+      {
+        "crop": "Cotton",
+        "decision_score": 77.76,
+        "yield_quintals": 64.8,
+        "production_metric_tons": 6.48,
+        "cultivation_cost": 132000.0,
+        "historical_market_price": 7100.0,
+        "expected_revenue": 460080.0,
+        "required_water_litres": 285000.0,
+        "disease_risk": 32.0,
+        "weather_risk": 22.0,
+        "risk_score": 73.0,
+        "budget_score": 53.3,
+        "data_coverage": "Verified Agricultural Data",
+        "reasons": [
+          "Optimal match for Kharif season in Andhra Pradesh",
+          "Highly productive in Clay Soil (19% yield boost)",
+          "High profit margin (Projected ₹328,080 net profit)"
+        ],
+        "rank": 4
+      },
+      {
+        "crop": "Moong",
+        "decision_score": 74.0,
+        "yield_quintals": 33.0,
+        "production_metric_tons": 3.3,
+        "cultivation_cost": 54000.0,
+        "historical_market_price": 7500.0,
+        "expected_revenue": 247500.0,
+        "required_water_litres": 96000.0,
+        "disease_risk": 18.0,
+        "weather_risk": 14.0,
+        "risk_score": 84.0,
+        "budget_score": 100.0,
+        "data_coverage": "Verified Agricultural Data",
+        "reasons": [
+          "Optimal match for Kharif season in Andhra Pradesh",
+          "High profit margin (Projected ₹193,500 net profit)",
+          "Cultivation cost within budget"
+        ],
+        "rank": 5
+      }
+    ],
+    "data_source_mode": "Agro-Climatic Intelligence",
+    "market_price_note": "Verified APMC Mandi Market Prices."
+  }
+}

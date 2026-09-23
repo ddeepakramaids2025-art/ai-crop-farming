@@ -1,0 +1,13 @@
+Kisan Agri Advisory Portal — Farm Advisory Report
+Recommended Crop: Sesamum
+Suitability Score: 96.2/100
+Date: 2026-08-28 12:25:28
+Location: Gujarat, Ahmedabad (Kharif)
+Land Area: 2.5 acres | Budget: INR 75,000
+
+Top Recommended Crops:
+#1 Sesamum | Score: 96.2 | Revenue: INR 186,900 | Cost: INR 40,000
+#2 Bajra | Score: 93.37 | Revenue: INR 133,819 | Cost: INR 40,000
+#3 Groundnut | Score: 90.8 | Revenue: INR 502,200 | Cost: INR 80,000
+#4 Moong | Score: 83.6 | Revenue: INR 226,875 | Cost: INR 45,000
+#5 Urad | Score: 83.6 | Revenue: INR 210,824 | Cost: INR 45,000

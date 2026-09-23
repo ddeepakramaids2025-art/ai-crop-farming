@@ -1,0 +1,13 @@
+AI Crop Decision System — Farm Advisory Report
+Best Recommended Crop: Sesamum
+Decision Score: 94.0/100
+Date: 2026-08-25 17:38:08
+Location: Kerala, Kollam (Kharif)
+Land Area: 3.0 acres | Pocket Budget: INR 75,000
+
+Top Crop Recommendations:
+#1 Sesamum | Score: 94.0 | Revenue: INR 165,750 | Cost: INR 48,000
+#2 Groundnut | Score: 70.0 | Revenue: INR 382,800 | Cost: INR 96,000
+#3 Moong | Score: 65.0 | Revenue: INR 216,000 | Cost: INR 54,000
+#4 Urad | Score: 65.0 | Revenue: INR 199,500 | Cost: INR 54,000
+#5 Bajra | Score: 62.93 | Revenue: INR 126,900 | Cost: INR 48,000

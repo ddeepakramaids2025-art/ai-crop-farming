@@ -1,0 +1,5 @@
+rank,crop,decision_score,yield_quintals,production_metric_tons,cultivation_cost,historical_market_price,expected_revenue,required_water_litres,disease_risk,weather_risk,risk_score,budget_score,data_coverage,reasons
+1,Soyabean,61.2,62.5,6.25,31688.92,2500.0,156250.0,4000000.0,75.0,40.0,42.5,94.67,State & Market Extrapolated,"['High yield and harvest potential', 'Economical input and cultivation cost', ""Optimal feasibility within farmer's budget""]"
+2,Paddy,51.99,80.0,8.0,57252.87,2500.0,200000.0,11250000.0,30.0,40.0,65.0,52.4,State & Market Extrapolated,"['High yield and harvest potential', 'Low combined disease and climate vulnerability']"
+3,Wheat,51.49,70.0,7.0,42658.6,2490.94,174365.8,4000000.0,75.0,40.0,42.5,70.33,State & Market Extrapolated,['High yield and harvest potential']
+4,Gram,50.16,30.0,3.0,48503.42,2544.6,76338.0,2250000.0,30.0,40.0,65.0,61.85,State & Market Extrapolated,"['Strong historical market price and profitability', 'Low combined disease and climate vulnerability', 'Excellent drought tolerance and low water consumption']"
