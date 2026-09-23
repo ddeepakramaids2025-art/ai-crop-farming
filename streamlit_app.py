@@ -677,25 +677,58 @@ def run_local_prediction(state: str, district: str, season: str, soil: str, land
     }
 
 # ============================================================
+# ============================================================
 # DATASET LOADING FOR EDA PORTAL
 # ============================================================
+
+def get_dataset_dir():
+    candidates = [
+        pathlib.Path(__file__).resolve().parent / "dataset",
+        pathlib.Path(__file__).resolve().parent.parent / "dataset",
+        pathlib.Path.cwd() / "dataset",
+        pathlib.Path("dataset")
+    ]
+    for c in candidates:
+        if c.exists() and (c / "final_crop_decision_dataset.csv").exists():
+            return c
+    return candidates[0]
+
+DATASET_DIR = get_dataset_dir()
 
 @st.cache_data
 def load_eda_datasets():
     datasets = {}
-    f_master = DATASET_DIR / "final_crop_decision_dataset.csv"
+    d = get_dataset_dir()
+
+    f_master = d / "final_crop_decision_dataset.csv"
     if not f_master.exists():
-        f_master = DATASET_DIR / "Final_Crop_Dashboard_Data.csv"
+        f_master = d / "Final_Crop_Dashboard_Data.csv"
     if f_master.exists():
-        datasets["🌾 Master Agricultural Survey (1,000 Records, 24 Agronomic Features)"] = pd.read_csv(f_master)
+        try:
+            datasets["🌾 Master Agricultural Survey (1,000 Records, 24 Agronomic Features)"] = pd.read_csv(f_master)
+        except Exception:
+            pass
 
-    f_prod = DATASET_DIR / "crop_production_data.csv"
+    f_prod = d / "crop_production_data.csv"
     if f_prod.exists():
-        datasets["📈 Crop Production & Yield Records (1,000 Entries)"] = pd.read_csv(f_prod)
+        try:
+            datasets["📈 Crop Production & Yield Records (1,000 Entries)"] = pd.read_csv(f_prod)
+        except Exception:
+            pass
 
-    f_price = DATASET_DIR / "crop_price_data.csv"
+    f_price = d / "crop_price_data.csv"
     if f_price.exists():
-        datasets["💰 APMC Mandi Market Prices (4,819 Mandi Records)"] = pd.read_csv(f_price)
+        try:
+            datasets["💰 APMC Mandi Market Prices (4,819 Mandi Records)"] = pd.read_csv(f_price)
+        except Exception:
+            pass
+
+    f_soil = d / "soil_analysis_data.csv"
+    if f_soil.exists():
+        try:
+            datasets["🧪 Soil Nutrients & Chemistry (1,000 Samples - N, P, K, pH)"] = pd.read_csv(f_soil)
+        except Exception:
+            pass
 
     return datasets
 
@@ -955,47 +988,316 @@ st.sidebar.markdown(
 )
 
 # ============================================================
-# EDA PORTAL VIEW
+# ============================================================
+# EDA PORTAL VIEW (Comprehensive Exploratory Data Analysis)
 # ============================================================
 
-if "EDA" in app_view_mode:
+if "EDA" in app_view_mode or "பகுப்பாய்வு" in app_view_mode or "विश्लेषण" in app_view_mode or "విశ్లేషణ" in app_view_mode or "അനലിറ്റിക്സ്" in app_view_mode:
     st.markdown(
         f"""
         <div class="hero-banner">
-            <h1>📈 {t("tab_eda")}</h1>
-            <p>Statistical Summaries, Correlation Heatmaps, Feature Distributions & Data Intelligence</p>
+            <h1>📊 {t("tab_eda")}</h1>
+            <p>Comprehensive Statistical Summaries, Correlation Heatmaps, Feature Distributions & Agricultural Intelligence</p>
         </div>
         """,
         unsafe_allow_html=True
     )
+
     datasets = load_eda_datasets()
-    eda_t1, eda_t2, eda_t3 = st.tabs(["📊 Statistical Summary", "📈 Univariate Distributions", "🔥 Bivariate Heatmap"])
-    df_master = datasets.get("🌾 Master Agricultural Survey (1,000 Records, 24 Agronomic Features)")
-    if df_master is None and len(datasets) > 0: df_master = list(datasets.values())[0]
 
-    with eda_t1:
-        if df_master is not None:
-            m1, m2, m3, m4 = st.columns(4)
-            m1.metric("Total Records", f"{len(df_master):,}")
-            m2.metric("Agronomic Features", f"{len(df_master.columns)}")
-            m3.metric("Completeness", "100.0%")
-            m4.metric("States Mapped", "17 States")
-            st.dataframe(df_master.describe().T.style.format("{:.2f}"), use_container_width=True)
+    if not datasets:
+        st.warning("⚠️ Dataset files were not found in the dataset folder. Please verify the `dataset/` directory.")
+    else:
+        eda_t1, eda_t2, eda_t3, eda_t4, eda_t5 = st.tabs([
+            "📋 Dataset Explorer & Audit",
+            "📊 Univariate Distributions",
+            "🔥 Correlation & Bivariate",
+            "🌾 Agronomic Insights",
+            "🧪 Soil & Mandi Intelligence"
+        ])
 
-    with eda_t2:
-        if df_master is not None:
-            num_cols = df_master.select_dtypes(include=[np.number]).columns.tolist()
-            sel_col = st.selectbox("Select Feature:", num_cols, index=0)
-            fig_hist = px.histogram(df_master, x=sel_col, nbins=30, color_discrete_sequence=["#059669"])
-            fig_hist.update_layout(paper_bgcolor="rgba(0,0,0,0)", plot_bgcolor="rgba(0,0,0,0)")
-            st.plotly_chart(fig_hist, use_container_width=True)
+        # --------------------------------------------------------
+        # TAB 1: DATASET EXPLORER & AUDIT
+        # --------------------------------------------------------
+        with eda_t1:
+            st.markdown("### 📋 Explore Raw Datasets & Statistical Profiles")
+            selected_ds_name = st.selectbox("Select Dataset to Inspect:", list(datasets.keys()), index=0)
+            df_curr = datasets[selected_ds_name]
 
-    with eda_t3:
-        if df_master is not None:
+            # High-level KPIs
+            k1, k2, k3, k4, k5 = st.columns(5)
+            k1.metric("Total Records", f"{len(df_curr):,}")
+            k2.metric("Total Features", f"{len(df_curr.columns)}")
+            missing_count = int(df_curr.isnull().sum().sum())
+            k3.metric("Missing Values", f"{missing_count} (0.0%)" if missing_count == 0 else f"{missing_count}")
+            num_cols_cnt = len(df_curr.select_dtypes(include=[np.number]).columns)
+            cat_cols_cnt = len(df_curr.select_dtypes(include=['object', 'category']).columns)
+            k4.metric("Numeric Features", f"{num_cols_cnt}")
+            k5.metric("Categorical", f"{cat_cols_cnt}")
+
+            st.markdown("#### 🔍 Filterable Data Preview")
+            row_limit = st.slider("Display row limit:", min_value=5, max_value=min(200, len(df_curr)), value=15, step=5)
+            st.dataframe(df_curr.head(row_limit), use_container_width=True)
+
+            st.markdown("#### 📐 5-Number Descriptive Statistics")
+            num_df = df_curr.select_dtypes(include=[np.number])
+            if not num_df.empty:
+                desc_df = num_df.describe().T
+                st.dataframe(desc_df.style.format("{:.2f}").background_gradient(cmap="Greens", subset=["mean", "std"]), use_container_width=True)
+            else:
+                st.info("No numerical columns found in this dataset.")
+
+        # --------------------------------------------------------
+        # TAB 2: UNIVARIATE DISTRIBUTIONS & OUTLIERS
+        # --------------------------------------------------------
+        with eda_t2:
+            st.markdown("### 📊 Univariate Distributions & Density Analysis")
+            df_master = datasets.get("🌾 Master Agricultural Survey (1,000 Records, 24 Agronomic Features)")
+            if df_master is None:
+                df_master = list(datasets.values())[0]
+
+            u_sub1, u_sub2 = st.tabs(["🔢 Numerical Feature Distribution", "🏷️ Categorical Breakdown"])
+
+            with u_sub1:
+                master_num_cols = df_master.select_dtypes(include=[np.number]).columns.tolist()
+                pref_col = "Yield (quintals)" if "Yield (quintals)" in master_num_cols else master_num_cols[0]
+                sel_feature = st.selectbox(
+                    "Choose Numerical Feature for Distribution:",
+                    master_num_cols,
+                    index=master_num_cols.index(pref_col) if pref_col in master_num_cols else 0
+                )
+
+                # Feature KPIs
+                series = df_master[sel_feature].dropna()
+                s1, s2, s3, s4, s5 = st.columns(5)
+                s1.metric("Mean", f"{series.mean():.2f}")
+                s2.metric("Median", f"{series.median():.2f}")
+                s3.metric("Std Dev", f"{series.std():.2f}")
+                s4.metric("Min", f"{series.min():.2f}")
+                s5.metric("Max", f"{series.max():.2f}")
+
+                col_hist, col_box = st.columns(2)
+                with col_hist:
+                    fig_h = px.histogram(
+                        df_master,
+                        x=sel_feature,
+                        nbins=35,
+                        marginal="rug",
+                        title=f"Histogram & Distribution: {sel_feature}",
+                        color_discrete_sequence=["#059669"]
+                    )
+                    fig_h.update_layout(paper_bgcolor="rgba(0,0,0,0)", plot_bgcolor="rgba(0,0,0,0)", font_color="#1e293b")
+                    st.plotly_chart(fig_h, use_container_width=True)
+
+                with col_box:
+                    fig_b = px.box(
+                        df_master,
+                        y=sel_feature,
+                        points="outliers",
+                        title=f"Box Plot & Outliers: {sel_feature}",
+                        color_discrete_sequence=["#2563eb"]
+                    )
+                    fig_b.update_layout(paper_bgcolor="rgba(0,0,0,0)", plot_bgcolor="rgba(0,0,0,0)", font_color="#1e293b")
+                    st.plotly_chart(fig_b, use_container_width=True)
+
+            with u_sub2:
+                master_cat_cols = df_master.select_dtypes(include=['object', 'category']).columns.tolist()
+                if master_cat_cols:
+                    sel_cat = st.selectbox("Choose Categorical Feature:", master_cat_cols, index=0)
+                    vc = df_master[sel_cat].value_counts().reset_index()
+                    vc.columns = [sel_cat, "Count"]
+                    fig_cat = px.bar(
+                        vc,
+                        x=sel_cat,
+                        y="Count",
+                        color="Count",
+                        color_continuous_scale="Viridis",
+                        title=f"Frequency Count: {sel_cat}"
+                    )
+                    fig_cat.update_layout(paper_bgcolor="rgba(0,0,0,0)", plot_bgcolor="rgba(0,0,0,0)")
+                    st.plotly_chart(fig_cat, use_container_width=True)
+                else:
+                    st.info("No categorical features available.")
+
+        # --------------------------------------------------------
+        # TAB 3: CORRELATION & BIVARIATE RELATIONSHIPS
+        # --------------------------------------------------------
+        with eda_t3:
+            st.markdown("### 🔥 Correlation Matrix & Feature Interdependencies")
+            df_master = datasets.get("🌾 Master Agricultural Survey (1,000 Records, 24 Agronomic Features)")
+            if df_master is None:
+                df_master = list(datasets.values())[0]
+
             corr_df = df_master.select_dtypes(include=[np.number]).corr()
-            fig_corr = px.imshow(corr_df, text_auto=".2f", aspect="auto", color_continuous_scale="Greens")
-            fig_corr.update_layout(paper_bgcolor="rgba(0,0,0,0)", plot_bgcolor="rgba(0,0,0,0)")
+
+            color_theme = st.selectbox(
+                "Heatmap Color Palette:",
+                ["Greens", "Viridis", "Plasma", "RdYlGn", "Blues"],
+                index=0
+            )
+
+            fig_corr = px.imshow(
+                corr_df,
+                text_auto=".2f",
+                aspect="auto",
+                color_continuous_scale=color_theme,
+                title="Full Feature Correlation Matrix (Pearson r)"
+            )
+            fig_corr.update_layout(
+                paper_bgcolor="rgba(0,0,0,0)",
+                plot_bgcolor="rgba(0,0,0,0)",
+                height=700
+            )
             st.plotly_chart(fig_corr, use_container_width=True)
+
+            st.markdown("#### 🎯 Interactive Bivariate Scatter Explorer")
+            sc_num_cols = df_master.select_dtypes(include=[np.number]).columns.tolist()
+            sc1, sc2, sc3 = st.columns(3)
+            with sc1:
+                x_axis = st.selectbox("X-Axis Feature:", sc_num_cols, index=sc_num_cols.index("Cost_of_Cultivation") if "Cost_of_Cultivation" in sc_num_cols else 0)
+            with sc2:
+                y_axis = st.selectbox("Y-Axis Feature:", sc_num_cols, index=sc_num_cols.index("Yield (quintals)") if "Yield (quintals)" in sc_num_cols else 1)
+            with sc3:
+                color_by = st.selectbox("Color By:", ["Crop", "Season", "None"], index=0)
+
+            scatter_kwargs = {
+                "x": x_axis,
+                "y": y_axis,
+                "title": f"Bivariate Scatter: {x_axis} vs {y_axis}",
+                "trendline": "ols"
+            }
+            if color_by != "None" and color_by in df_master.columns:
+                scatter_kwargs["color"] = color_by
+
+            fig_scat = px.scatter(df_master, **scatter_kwargs)
+            fig_scat.update_layout(paper_bgcolor="rgba(0,0,0,0)", plot_bgcolor="rgba(0,0,0,0)")
+            st.plotly_chart(fig_scat, use_container_width=True)
+
+        # --------------------------------------------------------
+        # TAB 4: AGRONOMIC DOMAIN INSIGHTS
+        # --------------------------------------------------------
+        with eda_t4:
+            st.markdown("### 🌾 Agronomic Domain Intelligence & Crop Benchmarks")
+            df_master = datasets.get("🌾 Master Agricultural Survey (1,000 Records, 24 Agronomic Features)")
+            if df_master is not None and "Crop" in df_master.columns:
+                ag_c1, ag_c2 = st.columns(2)
+
+                with ag_c1:
+                    if "Yield (quintals)" in df_master.columns:
+                        crop_yield = df_master.groupby("Crop")["Yield (quintals)"].mean().reset_index().sort_values("Yield (quintals)", ascending=True)
+                        fig_y = px.bar(
+                            crop_yield,
+                            x="Yield (quintals)",
+                            y="Crop",
+                            orientation="h",
+                            color="Yield (quintals)",
+                            color_continuous_scale="Teal",
+                            title="🏆 Average Crop Yield (Quintals/Hectare)"
+                        )
+                        fig_y.update_layout(paper_bgcolor="rgba(0,0,0,0)", plot_bgcolor="rgba(0,0,0,0)", height=500)
+                        st.plotly_chart(fig_y, use_container_width=True)
+
+                with ag_c2:
+                    if "Cost_of_Cultivation" in df_master.columns and "Average_Price" in df_master.columns:
+                        crop_econ = df_master.groupby("Crop")[["Cost_of_Cultivation", "Average_Price"]].mean().reset_index()
+                        fig_econ = px.scatter(
+                            crop_econ,
+                            x="Cost_of_Cultivation",
+                            y="Average_Price",
+                            text="Crop",
+                            size="Average_Price",
+                            color="Cost_of_Cultivation",
+                            color_continuous_scale="Viridis",
+                            title="💰 Crop Economics: Cultivation Cost vs Market Price"
+                        )
+                        fig_econ.update_traces(textposition="top center")
+                        fig_econ.update_layout(paper_bgcolor="rgba(0,0,0,0)", plot_bgcolor="rgba(0,0,0,0)", height=500)
+                        st.plotly_chart(fig_econ, use_container_width=True)
+
+                # Seasonal analysis
+                if "Season" in df_master.columns and "Production (metric tons)" in df_master.columns:
+                    st.markdown("#### 🌦️ Seasonal Production Distribution across India")
+                    season_prod = df_master.groupby(["Season", "Crop"])["Production (metric tons)"].mean().reset_index()
+                    fig_sp = px.bar(
+                        season_prod,
+                        x="Crop",
+                        y="Production (metric tons)",
+                        color="Season",
+                        barmode="group",
+                        title="Average Production (Metric Tons) by Crop & Season"
+                    )
+                    fig_sp.update_layout(paper_bgcolor="rgba(0,0,0,0)", plot_bgcolor="rgba(0,0,0,0)")
+                    st.plotly_chart(fig_sp, use_container_width=True)
+
+        # --------------------------------------------------------
+        # TAB 5: SOIL & MANDI INTELLIGENCE
+        # --------------------------------------------------------
+        with eda_t5:
+            st.markdown("### 🧪 Soil Chemistry & Mandi Market Intelligence")
+
+            df_soil = datasets.get("🧪 Soil Nutrients & Chemistry (1,000 Samples - N, P, K, pH)")
+            df_price = datasets.get("💰 APMC Mandi Market Prices (4,819 Mandi Records)")
+
+            sm1, sm2 = st.columns(2)
+
+            with sm1:
+                if df_soil is not None:
+                    st.markdown("#### 🧪 N-P-K Nutrient Balance Across Soil Types")
+                    npk_cols = [c for c in df_soil.columns if any(k in c for k in ["Nitrogen", "Phosphorus", "Potassium"])]
+                    if "Soil Type" in df_soil.columns and npk_cols:
+                        soil_npk = df_soil.groupby("Soil Type")[npk_cols].mean().reset_index()
+                        soil_npk_melt = soil_npk.melt(id_vars=["Soil Type"], value_vars=npk_cols, var_name="Nutrient", value_name="kg/ha")
+                        fig_npk = px.bar(
+                            soil_npk_melt,
+                            x="Soil Type",
+                            y="kg/ha",
+                            color="Nutrient",
+                            barmode="group",
+                            title="Average N-P-K (kg/ha) across Soil Types"
+                        )
+                        fig_npk.update_layout(paper_bgcolor="rgba(0,0,0,0)", plot_bgcolor="rgba(0,0,0,0)")
+                        st.plotly_chart(fig_npk, use_container_width=True)
+
+                    if "pH Level" in df_soil.columns:
+                        fig_ph = px.histogram(
+                            df_soil,
+                            x="pH Level",
+                            color="Soil Type" if "Soil Type" in df_soil.columns else None,
+                            nbins=25,
+                            title="Soil pH Distribution (Optimal Range: 6.0 - 7.5)"
+                        )
+                        fig_ph.update_layout(paper_bgcolor="rgba(0,0,0,0)", plot_bgcolor="rgba(0,0,0,0)")
+                        st.plotly_chart(fig_ph, use_container_width=True)
+                else:
+                    st.info("Soil analysis dataset not loaded.")
+
+            with sm2:
+                if df_price is not None and "Crop" in df_price.columns and "Price (INR/quintal)" in df_price.columns:
+                    st.markdown("#### 💰 Mandi Market Price Benchmark (INR/Quintal)")
+                    top_mandi_crops = df_price.groupby("Crop")["Price (INR/quintal)"].agg(["mean", "std", "min", "max"]).reset_index()
+                    top_mandi_crops = top_mandi_crops.sort_values("mean", ascending=False).head(10)
+                    top_mandi_crops.columns = ["Crop", "Avg Price (₹)", "Volatility (Std)", "Min Price (₹)", "Max Price (₹)"]
+
+                    fig_mandi = px.bar(
+                        top_mandi_crops,
+                        x="Avg Price (₹)",
+                        y="Crop",
+                        orientation="h",
+                        color="Avg Price (₹)",
+                        color_continuous_scale="Viridis",
+                        title="Top 10 APMC Mandi Commodities by Average Price"
+                    )
+                    fig_mandi.update_layout(paper_bgcolor="rgba(0,0,0,0)", plot_bgcolor="rgba(0,0,0,0)")
+                    st.plotly_chart(fig_mandi, use_container_width=True)
+
+                    st.dataframe(top_mandi_crops.style.format({
+                        "Avg Price (₹)": "₹{:,.0f}",
+                        "Volatility (Std)": "₹{:,.0f}",
+                        "Min Price (₹)": "₹{:,.0f}",
+                        "Max Price (₹)": "₹{:,.0f}"
+                    }), use_container_width=True)
+                else:
+                    st.info("Mandi price dataset not loaded.")
 
 # ============================================================
 # MAIN FARM CROP ADVISORY VIEW
