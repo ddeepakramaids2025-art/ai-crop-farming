@@ -3,6 +3,7 @@ import sys
 import json
 import io
 from datetime import datetime
+import pathlib
 from pathlib import Path
 from typing import Dict, Any, List, Optional
 import pandas as pd
@@ -28,10 +29,13 @@ st.set_page_config(
 # ============================================================
 
 CURRENT_DIR = Path(__file__).resolve().parent
-PROJECT_DIR = CURRENT_DIR.parent
-DATASET_DIR = PROJECT_DIR / "dataset"
-DS_PROJECT_DIR = PROJECT_DIR / "ds_project"
-DS_PROJECT_DIR.mkdir(parents=True, exist_ok=True)
+PROJECT_DIR = CURRENT_DIR if (CURRENT_DIR / "dataset").exists() else CURRENT_DIR.parent
+DATASET_DIR = CURRENT_DIR / "dataset" if (CURRENT_DIR / "dataset").exists() else PROJECT_DIR / "dataset"
+DS_PROJECT_DIR = CURRENT_DIR / "ds_project" if (CURRENT_DIR / "dataset").exists() else PROJECT_DIR / "ds_project"
+try:
+    DS_PROJECT_DIR.mkdir(parents=True, exist_ok=True)
+except Exception:
+    pass
 
 # ============================================================
 # PROFESSIONAL LIGHT THEME STYLING
@@ -683,10 +687,10 @@ def run_local_prediction(state: str, district: str, season: str, soil: str, land
 
 def get_dataset_dir():
     candidates = [
-        pathlib.Path(__file__).resolve().parent / "dataset",
-        pathlib.Path(__file__).resolve().parent.parent / "dataset",
-        pathlib.Path.cwd() / "dataset",
-        pathlib.Path("dataset")
+        Path(__file__).resolve().parent / "dataset",
+        Path(__file__).resolve().parent.parent / "dataset",
+        Path.cwd() / "dataset",
+        Path("dataset")
     ]
     for c in candidates:
         if c.exists() and (c / "final_crop_decision_dataset.csv").exists():
