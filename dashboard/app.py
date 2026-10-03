@@ -1047,7 +1047,11 @@ if "EDA" in app_view_mode or "பகுப்பாய்வு" in app_view_mod
             num_df = df_curr.select_dtypes(include=[np.number])
             if not num_df.empty:
                 desc_df = num_df.describe().T
-                st.dataframe(desc_df.style.format("{:.2f}").background_gradient(cmap="Greens", subset=["mean", "std"]), use_container_width=True)
+                try:
+                    styled_desc = desc_df.style.format("{:.2f}").background_gradient(cmap="Greens", subset=["mean", "std"])
+                    st.dataframe(styled_desc, use_container_width=True)
+                except Exception:
+                    st.dataframe(desc_df.style.format("{:.2f}"), use_container_width=True)
             else:
                 st.info("No numerical columns found in this dataset.")
 
@@ -1167,13 +1171,15 @@ if "EDA" in app_view_mode or "பகுப்பாய்வு" in app_view_mod
             scatter_kwargs = {
                 "x": x_axis,
                 "y": y_axis,
-                "title": f"Bivariate Scatter: {x_axis} vs {y_axis}",
-                "trendline": "ols"
+                "title": f"Bivariate Scatter: {x_axis} vs {y_axis}"
             }
             if color_by != "None" and color_by in df_master.columns:
                 scatter_kwargs["color"] = color_by
 
-            fig_scat = px.scatter(df_master, **scatter_kwargs)
+            try:
+                fig_scat = px.scatter(df_master, trendline="ols", **scatter_kwargs)
+            except Exception:
+                fig_scat = px.scatter(df_master, **scatter_kwargs)
             fig_scat.update_layout(paper_bgcolor="rgba(0,0,0,0)", plot_bgcolor="rgba(0,0,0,0)")
             st.plotly_chart(fig_scat, use_container_width=True)
 
