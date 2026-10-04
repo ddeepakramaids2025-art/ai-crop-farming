@@ -532,34 +532,34 @@ CROP_DATA = {
 }
 
 STATE_CROPS_PREFERENCE = {
-    "Tamil Nadu": ["Paddy", "Groundnut", "Cotton", "Sugarcane", "Maize", "Tomato", "Onion", "Sesamum", "Urad", "Moong"],
+    "Tamil Nadu": ["Paddy", "Groundnut", "Sugarcane", "Cotton", "Maize", "Tomato", "Onion", "Sesamum", "Urad", "Moong"],
     "Puducherry": ["Paddy", "Sugarcane", "Groundnut", "Cotton", "Tomato", "Sesamum", "Urad", "Maize"],
-    "Andhra Pradesh": ["Paddy", "Cotton", "Groundnut", "Maize", "Sugarcane", "Tomato", "Urad", "Onion"],
-    "Telangana": ["Cotton", "Paddy", "Maize", "Soyabean", "Groundnut", "Tomato", "Gram"],
+    "Andhra Pradesh": ["Paddy", "Cotton", "Groundnut", "Maize", "Sugarcane", "Tomato", "Urad", "Onion", "Moong"],
+    "Telangana": ["Cotton", "Maize", "Soyabean", "Paddy", "Groundnut", "Tomato", "Gram", "Jowar"],
     "Karnataka": ["Maize", "Cotton", "Sugarcane", "Groundnut", "Paddy", "Tomato", "Jowar", "Gram", "Onion"],
     "Kerala": ["Paddy", "Sesamum", "Groundnut", "Tomato", "Urad", "Moong"],
-    "Maharashtra": ["Sugarcane", "Cotton", "Soyabean", "Onion", "Jowar", "Gram", "Groundnut", "Wheat"],
-    "Gujarat": ["Cotton", "Groundnut", "Wheat", "Bajra", "Sesamum", "Mustard", "Onion"],
-    "Rajasthan": ["Mustard", "Bajra", "Gram", "Wheat", "Soyabean", "Sesamum", "Moong"],
+    "Maharashtra": ["Cotton", "Soyabean", "Sugarcane", "Onion", "Jowar", "Gram", "Groundnut", "Wheat", "Tomato"],
+    "Gujarat": ["Cotton", "Groundnut", "Bajra", "Mustard", "Wheat", "Sesamum", "Onion"],
+    "Rajasthan": ["Bajra", "Mustard", "Gram", "Wheat", "Soyabean", "Sesamum", "Moong", "Groundnut"],
     "Punjab": ["Wheat", "Paddy", "Cotton", "Maize", "Sugarcane", "Potato"],
-    "Haryana": ["Wheat", "Paddy", "Mustard", "Cotton", "Sugarcane", "Bajra"],
-    "Uttar Pradesh": ["Sugarcane", "Wheat", "Paddy", "Potato", "Mustard", "Maize", "Gram"],
+    "Haryana": ["Wheat", "Mustard", "Paddy", "Cotton", "Sugarcane", "Bajra", "Gram"],
+    "Uttar Pradesh": ["Wheat", "Sugarcane", "Paddy", "Potato", "Mustard", "Maize", "Gram"],
     "Madhya Pradesh": ["Soyabean", "Wheat", "Gram", "Mustard", "Cotton", "Maize", "Jowar"],
-    "Bihar": ["Paddy", "Wheat", "Maize", "Potato", "Sugarcane", "Gram"],
-    "West Bengal": ["Paddy", "Potato", "Sesamum", "Mustard", "Maize"],
-    "Odisha": ["Paddy", "Groundnut", "Moong", "Urad", "Sesamum", "Cotton"],
-    "Assam": ["Paddy", "Mustard", "Potato", "Sugarcane"]
+    "Bihar": ["Paddy", "Wheat", "Maize", "Potato", "Sugarcane", "Gram", "Mustard"],
+    "West Bengal": ["Paddy", "Potato", "Mustard", "Maize", "Sesamum", "Tomato"],
+    "Odisha": ["Paddy", "Groundnut", "Urad", "Moong", "Sesamum", "Cotton", "Maize"],
+    "Assam": ["Paddy", "Mustard", "Potato", "Sugarcane", "Maize"]
 }
 
 SOIL_AFFINITY = {
-    "Red Soil": {"Groundnut": 1.25, "Cotton": 1.15, "Maize": 1.2, "Sesamum": 1.2, "Tomato": 1.2, "Onion": 1.1, "Urad": 1.25, "Moong": 1.2, "Bajra": 1.15, "Jowar": 1.1},
-    "Black Soil": {"Cotton": 1.35, "Sugarcane": 1.2, "Soyabean": 1.3, "Wheat": 1.2, "Paddy": 1.1, "Gram": 1.25, "Jowar": 1.25, "Urad": 1.2},
-    "Alluvial": {"Wheat": 1.35, "Paddy": 1.3, "Sugarcane": 1.3, "Potato": 1.35, "Mustard": 1.3, "Maize": 1.25, "Tomato": 1.2},
-    "Loamy Soil": {"Tomato": 1.3, "Potato": 1.3, "Onion": 1.3, "Wheat": 1.25, "Maize": 1.25, "Paddy": 1.2, "Groundnut": 1.2, "Gram": 1.2},
-    "Sandy Soil": {"Bajra": 1.35, "Mustard": 1.25, "Groundnut": 1.2, "Sesamum": 1.2, "Potato": 1.15},
-    "Clay Soil": {"Paddy": 1.4, "Sugarcane": 1.3, "Wheat": 1.15},
-    "Laterite Soil": {"Groundnut": 1.15, "Sesamum": 1.15, "Paddy": 1.1},
-    "Other": {"Maize": 1.1, "Bajra": 1.1}
+    "Red Soil": {"Groundnut": 1.30, "Maize": 1.25, "Cotton": 1.20, "Sesamum": 1.20, "Tomato": 1.20, "Urad": 1.20, "Moong": 1.20, "Bajra": 1.15, "Jowar": 1.15, "Onion": 1.10, "Paddy": 0.65, "Wheat": 0.70, "Sugarcane": 0.75, "Soyabean": 0.85, "Potato": 0.90, "Mustard": 0.85, "Gram": 0.90},
+    "Black Soil": {"Cotton": 1.35, "Soyabean": 1.30, "Sugarcane": 1.20, "Jowar": 1.25, "Gram": 1.20, "Onion": 1.15, "Wheat": 1.15, "Paddy": 1.05, "Maize": 1.05, "Groundnut": 0.80, "Bajra": 0.75, "Sesamum": 0.80, "Potato": 0.70, "Mustard": 0.85},
+    "Alluvial": {"Wheat": 1.35, "Paddy": 1.30, "Sugarcane": 1.25, "Potato": 1.30, "Mustard": 1.25, "Maize": 1.20, "Tomato": 1.15, "Gram": 1.15, "Onion": 1.15, "Moong": 1.10, "Urad": 1.10, "Bajra": 0.85, "Cotton": 0.95},
+    "Loamy Soil": {"Tomato": 1.30, "Potato": 1.25, "Onion": 1.25, "Wheat": 1.25, "Maize": 1.25, "Groundnut": 1.20, "Paddy": 1.15, "Gram": 1.15, "Mustard": 1.15, "Moong": 1.15, "Urad": 1.15, "Soyabean": 1.15, "Cotton": 1.10, "Sugarcane": 1.15, "Bajra": 1.10, "Sesamum": 1.15, "Jowar": 1.10},
+    "Sandy Soil": {"Bajra": 1.30, "Groundnut": 1.25, "Mustard": 1.20, "Sesamum": 1.20, "Potato": 1.10, "Moong": 1.05, "Gram": 1.0, "Maize": 0.80, "Tomato": 0.75, "Onion": 0.75, "Cotton": 0.65, "Wheat": 0.60, "Sugarcane": 0.45, "Paddy": 0.35, "Soyabean": 0.50, "Jowar": 0.75},
+    "Clay Soil": {"Paddy": 1.35, "Sugarcane": 1.25, "Wheat": 1.15, "Cotton": 1.10, "Soyabean": 1.10, "Jowar": 1.05, "Groundnut": 0.40, "Potato": 0.45, "Bajra": 0.50, "Sesamum": 0.55, "Tomato": 0.70, "Onion": 0.70, "Maize": 0.80, "Mustard": 0.80, "Gram": 0.85},
+    "Laterite Soil": {"Groundnut": 1.20, "Sesamum": 1.15, "Paddy": 1.05, "Tomato": 1.05, "Maize": 1.05, "Moong": 1.05, "Cotton": 0.70, "Wheat": 0.60, "Sugarcane": 0.75, "Potato": 0.80, "Bajra": 0.75},
+    "Other": {"Maize": 1.05, "Bajra": 1.05, "Jowar": 1.0}
 }
 
 STATE_DISTRICT_MAP: Dict[str, List[str]] = {
@@ -582,8 +582,92 @@ STATE_DISTRICT_MAP: Dict[str, List[str]] = {
     "Puducherry": ["Karaikal", "Mahe", "Puducherry", "Yanam"]
 }
 
+DISTRICT_CROPS_PREFERENCE: Dict[str, List[str]] = {
+    # Tamil Nadu
+    "Thanjavur": ["Paddy", "Sugarcane", "Urad", "Moong"],
+    "Thiruvarur": ["Paddy", "Sugarcane", "Urad", "Moong"],
+    "Nagapattinam": ["Paddy", "Groundnut", "Urad", "Sesamum"],
+    "Coimbatore": ["Cotton", "Maize", "Groundnut", "Tomato", "Sugarcane"],
+    "Tiruppur": ["Cotton", "Maize", "Tomato", "Groundnut"],
+    "Erode": ["Sugarcane", "Maize", "Cotton", "Groundnut"],
+    "Salem": ["Tomato", "Groundnut", "Maize", "Sesamum"],
+    "Dharmapuri": ["Tomato", "Maize", "Groundnut", "Sesamum"],
+    "Krishnagiri": ["Tomato", "Maize", "Groundnut"],
+    "Ramanathapuram": ["Sesamum", "Groundnut", "Bajra", "Urad"],
+    "Sivaganga": ["Groundnut", "Sesamum", "Paddy", "Urad"],
+    "Thoothukudi": ["Sesamum", "Bajra", "Groundnut", "Cotton", "Urad"],
+    "Madurai": ["Cotton", "Tomato", "Paddy", "Maize", "Onion"],
+    "Dindigul": ["Tomato", "Onion", "Maize", "Cotton"],
+    "Theni": ["Tomato", "Sugarcane", "Cotton", "Paddy"],
+    "Cuddalore": ["Sugarcane", "Groundnut", "Paddy", "Maize"],
+    "Villupuram": ["Sugarcane", "Groundnut", "Paddy", "Urad"],
+    "Tiruchirappalli": ["Paddy", "Sugarcane", "Maize", "Groundnut"],
+    "Vellore": ["Groundnut", "Paddy", "Sugarcane", "Tomato"],
+    "Tiruvannamalai": ["Groundnut", "Paddy", "Sugarcane", "Sesamum"],
+    "Kanchipuram": ["Paddy", "Groundnut", "Sesamum"],
+    "Thiruvallur": ["Paddy", "Groundnut", "Sesamum"],
+    "Kanyakumari": ["Paddy", "Sesamum", "Groundnut"],
+    "Tirunelveli": ["Paddy", "Cotton", "Sesamum", "Groundnut"],
+
+    # Andhra Pradesh
+    "East Godavari": ["Paddy", "Sugarcane", "Maize", "Urad"],
+    "West Godavari": ["Paddy", "Sugarcane", "Maize", "Tomato"],
+    "Krishna": ["Paddy", "Sugarcane", "Cotton", "Maize", "Urad"],
+    "Guntur": ["Cotton", "Tomato", "Urad", "Maize"],
+    "Prakasam": ["Cotton", "Groundnut", "Tomato", "Urad"],
+    "Anantapur": ["Groundnut", "Cotton", "Maize", "Jowar", "Tomato"],
+    "Kurnool": ["Cotton", "Groundnut", "Jowar", "Maize", "Tomato"],
+    "Kadapa": ["Groundnut", "Cotton", "Tomato", "Onion"],
+    "Chittoor": ["Tomato", "Groundnut", "Sugarcane", "Paddy"],
+    "Nellore": ["Paddy", "Sugarcane", "Groundnut", "Urad"],
+    "Visakhapatnam": ["Sugarcane", "Paddy", "Maize", "Groundnut"],
+
+    # Maharashtra
+    "Nashik": ["Onion", "Tomato", "Soyabean", "Sugarcane", "Wheat"],
+    "Pune": ["Sugarcane", "Onion", "Soyabean", "Tomato", "Wheat"],
+    "Ahmednagar": ["Sugarcane", "Soyabean", "Onion", "Jowar", "Gram"],
+    "Jalgaon": ["Cotton", "Soyabean", "Maize", "Wheat", "Jowar"],
+    "Akola": ["Cotton", "Soyabean", "Gram", "Jowar"],
+    "Amravati": ["Cotton", "Soyabean", "Gram", "Jowar"],
+    "Yavatmal": ["Cotton", "Soyabean", "Jowar", "Gram"],
+    "Nagpur": ["Cotton", "Soyabean", "Gram", "Wheat"],
+    "Kolhapur": ["Sugarcane", "Soyabean", "Paddy", "Groundnut"],
+    "Sangli": ["Sugarcane", "Soyabean", "Jowar", "Maize"],
+    "Satara": ["Sugarcane", "Soyabean", "Onion", "Potato"],
+    "Solapur": ["Jowar", "Gram", "Sugarcane", "Onion"],
+    "Beed": ["Cotton", "Soyabean", "Jowar", "Bajra"],
+    "Latur": ["Soyabean", "Gram", "Jowar", "Sugarcane"],
+
+    # Rajasthan
+    "Jodhpur": ["Bajra", "Moong", "Sesamum", "Gram"],
+    "Nagaur": ["Bajra", "Moong", "Mustard", "Gram"],
+    "Barmer": ["Bajra", "Moong", "Sesamum"],
+    "Bikaner": ["Bajra", "Gram", "Mustard", "Groundnut"],
+    "Sri Ganganagar": ["Cotton", "Wheat", "Mustard", "Gram"],
+    "Hanumangarh": ["Cotton", "Wheat", "Mustard", "Gram", "Paddy"],
+    "Kota": ["Soyabean", "Wheat", "Mustard", "Gram"],
+    "Baran": ["Soyabean", "Mustard", "Wheat", "Gram"],
+    "Bundi": ["Soyabean", "Paddy", "Wheat", "Mustard"],
+    "Jaipur": ["Mustard", "Bajra", "Wheat", "Gram"],
+    "Alwar": ["Mustard", "Bajra", "Wheat", "Gram", "Potato"],
+    "Ajmer": ["Bajra", "Gram", "Mustard", "Wheat"],
+    "Bhilwara": ["Maize", "Cotton", "Wheat", "Mustard", "Gram"],
+    "Udaipur": ["Maize", "Wheat", "Gram", "Soyabean"],
+
+    # Punjab
+    "Bathinda": ["Cotton", "Wheat", "Mustard"],
+    "Mansa": ["Cotton", "Wheat", "Mustard"],
+    "Muktsar": ["Cotton", "Wheat", "Paddy"],
+    "Fazilka": ["Cotton", "Wheat", "Mustard"],
+    "Ludhiana": ["Wheat", "Paddy", "Potato", "Maize"],
+    "Jalandhar": ["Potato", "Paddy", "Wheat", "Maize"],
+    "Amritsar": ["Wheat", "Paddy", "Maize"],
+    "Patiala": ["Paddy", "Wheat", "Sugarcane"],
+    "Hoshiarpur": ["Maize", "Wheat", "Sugarcane"]
+}
+
 # ============================================================
-# EVALUATION ALGORITHM
+# EVALUATION ALGORITHM (Multi-Factor Agronomic Scoring Engine)
 # ============================================================
 
 def evaluate_crop_suitability(crop: str, state: str, district: str, season: str, soil: str, land: float, budget: float, water: float) -> Dict[str, Any]:
@@ -593,55 +677,91 @@ def evaluate_crop_suitability(crop: str, state: str, district: str, season: str,
         "disease_risk": 20.0, "weather_risk": 15.0
     })
 
-    score = 50.0
-
-    # State Affinity
+    # 1. State / Regional Agro-Climatic Fit (0 to 18 pts)
     preferred_crops = STATE_CROPS_PREFERENCE.get(state, [])
     if crop in preferred_crops:
         idx = preferred_crops.index(crop)
-        score += max(5.0, 22.0 - (idx * 2.0))
+        state_score = max(10.0, 18.0 - (idx * 1.2))
     else:
-        score += 5.0
+        state_score = 3.0  # Strongly penalize crops not adapted to this state
 
-    # Season Match
+    # 2. District Agro-Climatic Specialty Fit (0 to 10 pts)
+    dist_crops = DISTRICT_CROPS_PREFERENCE.get(district, [])
+    if dist_crops:
+        if crop in dist_crops:
+            d_idx = dist_crops.index(crop)
+            dist_score = max(4.0, 10.0 - (d_idx * 1.8))
+        else:
+            dist_score = 1.0  # Crop not typical for this specific district
+    else:
+        dist_score = 5.0  # Neutral baseline when district has no specific specialty
+
+    # 3. Seasonal Compatibility (0 to 20 pts)
     if season in c_info["seasons"] or "Whole Year" in c_info["seasons"]:
-        score += 15.0
+        season_score = 20.0
     else:
-        score -= 10.0
+        season_score = 2.0  # Strongly penalize planting out of season
 
-    # Soil Affinity
+    # 4. Soil Compatibility & Multiplier (0 to 25 pts)
     soil_mult = SOIL_AFFINITY.get(soil, {}).get(crop, 1.0)
-    if soil in c_info["soils"]:
-        score += 15.0 * soil_mult
-    else:
-        score += 5.0 * soil_mult
+    is_in_preferred = soil in c_info.get("soils", [])
 
-    # Water Security
+    if soil_mult >= 1.15 and is_in_preferred:
+        soil_score = 25.0
+    elif soil_mult >= 1.0 or is_in_preferred:
+        soil_score = 21.0 * min(1.0, soil_mult)
+    elif soil_mult >= 0.8:
+        soil_score = 15.0 * soil_mult
+    else:
+        # Severe soil mismatch (e.g., Paddy in Sandy Soil)
+        soil_score = max(2.0, 20.0 * soil_mult)
+
+    # 5. Water Security & Deficit Evaluation (-18 to +17 pts)
     req_water = c_info["water_req"] * land
-    if water >= req_water:
-        score += 10.0
-    else:
-        water_ratio = water / max(1.0, req_water)
-        score += 10.0 * water_ratio
+    water_ratio = water / max(1.0, req_water)
 
-    # Budget Viability
-    req_cost = c_info["base_cost"] * land
-    if budget >= req_cost:
-        score += 10.0
+    if water_ratio >= 1.0:
+        water_score = 17.0
+    elif water_ratio >= 0.75:
+        water_score = 12.0 + (water_ratio - 0.75) * 20.0
+    elif water_ratio >= 0.45:
+        water_score = 5.0 + (water_ratio - 0.45) * 23.3
+    elif water_ratio >= 0.20:
+        water_score = max(0.0, 5.0 * (water_ratio / 0.45)) - 7.0
     else:
-        cost_ratio = budget / max(1.0, req_cost)
-        score += 10.0 * cost_ratio
+        # Extreme water starvation / drought (e.g. 30k L vs 450k L)
+        water_score = -18.0
+
+    # 6. Budget Viability (-5 to +10 pts)
+    req_cost = c_info["base_cost"] * land
+    budget_ratio = budget / max(1.0, req_cost)
+
+    if budget_ratio >= 1.0:
+        budget_score = 10.0
+    elif budget_ratio >= 0.70:
+        budget_score = 6.0 + (budget_ratio - 0.70) * 13.3
+    elif budget_ratio >= 0.40:
+        budget_score = 2.0 + (budget_ratio - 0.40) * 13.3
+    else:
+        budget_score = -5.0
+
+    raw_total = state_score + dist_score + season_score + soil_score + water_score + budget_score
+    final_score = max(12.0, min(98.5, round(raw_total, 1)))
 
     eff_yield_per_acre = c_info["base_yield"] * soil_mult
     total_yield = eff_yield_per_acre * land
     total_revenue = total_yield * c_info["base_price"]
     net_profit = total_revenue - req_cost
 
-    final_score = max(10.0, min(99.4, round(score, 1)))
-
     return {
         "crop": crop,
         "decision_score": final_score,
+        "state_score": round(state_score, 1),
+        "district_score": round(dist_score, 1),
+        "season_score": round(season_score, 1),
+        "soil_score": round(soil_score, 1),
+        "water_score": round(water_score, 1),
+        "budget_score": round(budget_score, 1),
         "data_coverage": "Verified",
         "yield_quintals": round(total_yield, 1),
         "expected_revenue": round(total_revenue, 0),
@@ -1349,17 +1469,32 @@ else:
     with btn_col2:
         predict_clicked = st.button(t("btn_predict"), use_container_width=True)
 
-    # ONLY calculate when the button is clicked!
-    if predict_clicked:
+    # Check if a prediction exists
+    prediction = st.session_state.get("prediction_result")
+
+    # If a prediction exists and the user alters the State, District, Season, Soil, Land, Budget, or Water:
+    # Auto-recalculate immediately so the dashboard always reflects the selected state and current inputs!
+    inputs_changed = False
+    if prediction:
+        if (
+            prediction.get("state") != selected_state or
+            prediction.get("district") != selected_district or
+            prediction.get("season") != selected_season or
+            prediction.get("soil_type") != farmer_soil or
+            round(float(prediction.get("land_acres", 0)), 2) != round(float(farmer_land), 2) or
+            round(float(prediction.get("budget", 0)), 2) != round(float(farmer_budget), 2) or
+            round(float(prediction.get("water_litres", 0)), 2) != round(float(farmer_water), 2)
+        ):
+            inputs_changed = True
+
+    if predict_clicked or (prediction and inputs_changed):
         with st.spinner("Calculating optimal recommendations..."):
             pred_data = run_local_prediction(
                 selected_state, selected_district, selected_season,
                 farmer_soil, float(farmer_land), float(farmer_budget), float(farmer_water)
             )
             st.session_state["prediction_result"] = pred_data
-
-    # Check if a prediction exists
-    prediction = st.session_state.get("prediction_result")
+            prediction = pred_data
 
     # If NO prediction has been run yet (Fresh user visit):
     if not prediction:
@@ -1481,6 +1616,23 @@ else:
             unsafe_allow_html=True
         )
 
+        # Adaptive score coloring
+        if best_score >= 80:
+            score_bg = "#f0fdf4"
+            score_border = "#bbf7d0"
+            score_color = "#059669"
+            score_label_color = "#166534"
+        elif best_score >= 60:
+            score_bg = "#eff6ff"
+            score_border = "#bfdbfe"
+            score_color = "#2563eb"
+            score_label_color = "#1e40af"
+        else:
+            score_bg = "#fef2f2"
+            score_border = "#fecaca"
+            score_color = "#dc2626"
+            score_label_color = "#991b1b"
+
         # Hero Best Crop Card
         st.markdown(
             f"""
@@ -1493,9 +1645,9 @@ else:
                         <h2 style="margin: 10px 0 4px 0; font-size: 2.5rem; color: #065f46 !important;">🌾 {best_crop_translated}</h2>
                         <p style="margin: 0; color: #334155; font-size: 1.05rem;">{t("best_crop_announcement", crop=best_crop_translated, score=best_score)}</p>
                     </div>
-                    <div style="text-align: right; background: #f0fdf4; border: 1px solid #bbf7d0; padding: 16px 24px; border-radius: 16px;">
-                        <div style="font-size: 0.9rem; color: #166534; font-weight: 600;">{t("pred_decision_score")}</div>
-                        <div style="font-size: 2.7rem; font-weight: 900; color: #059669; line-height: 1;">{best_score:.1f} <span style="font-size: 1.1rem; color: #64748b;">/ 100</span></div>
+                    <div style="text-align: right; background: {score_bg}; border: 1px solid {score_border}; padding: 16px 24px; border-radius: 16px;">
+                        <div style="font-size: 0.9rem; color: {score_label_color}; font-weight: 600;">{t("pred_decision_score")}</div>
+                        <div style="font-size: 2.7rem; font-weight: 900; color: {score_color}; line-height: 1;">{best_score:.1f} <span style="font-size: 1.1rem; color: #64748b;">/ 100</span></div>
                     </div>
                 </div>
             </div>
@@ -1600,13 +1752,14 @@ else:
             req_w = float(best_rec.get('required_water_litres', 58000))
             avail_w = float(farmer_water)
             w_eff = min(100, int((avail_w / max(1.0, req_w)) * 100)) if avail_w <= req_w else int((req_w / max(1.0, avail_w)) * 100)
+            w_color = "#059669" if avail_w >= req_w else ("#d97706" if avail_w >= req_w * 0.7 else "#dc2626")
             st.markdown(
                 f"""
                 <div class="analysis-card">
                     <div class="analysis-card-title">{m_title2}</div>
                     <div class="analysis-row"><span>{m_l2_1}</span><span class="analysis-val">{avail_w:,.0f} L</span></div>
                     <div class="analysis-row"><span>{m_l2_2}</span><span class="analysis-val">{req_w:,.0f} L</span></div>
-                    <div class="analysis-row"><span>{m_l2_3}</span><span style="color:#0284c7; font-weight:700;">{w_eff}%</span></div>
+                    <div class="analysis-row"><span>{m_l2_3}</span><span style="color:{w_color}; font-weight:700;">{w_eff}%</span></div>
                 </div>
                 """,
                 unsafe_allow_html=True
@@ -1654,40 +1807,55 @@ else:
         # Why This Crop Section (Fully localized)
         st.markdown("<br>", unsafe_allow_html=True)
         st.subheader(t("why_this_crop"))
+        
+        # Determine water statement based on actual sufficiency
+        if avail_w >= req_w:
+            w_reason_en = "Water demand is fully satisfied by your available irrigation supply."
+            w_reason_ta = "தண்ணீர் தேவை உங்களிடம் உள்ள நீர் அளவுக்குள் அடங்கி, உகந்ததாக உள்ளது."
+            w_reason_hi = "जल की मांग उपलब्ध जल के अनुसार पूरी तरह अनुकूल है।"
+            w_reason_te = "నీటి అవసరం మీ లభ్యతకు పూర్తి అనుగుణంగా ఉంది."
+            w_reason_ml = "ജല ലഭ്യത വിളയുടെ ആവശ്യത്തിന് പൂർണ്ണമായും അനുയോജ്യമാണ്."
+        else:
+            w_reason_en = f"Water supply is below full requirement ({w_eff}% coverage); micro/drip irrigation recommended."
+            w_reason_ta = f"நீர் இருப்பு பற்றாக்குறை உள்ளது ({w_eff}% இருப்பு); சொட்டு நீர் பாசனம் பரிந்துரைக்கப்படுகிறது."
+            w_reason_hi = f"जल उपलब्धता पूरी मांग से कम है ({w_eff}% उपलब्धता); ड्रिप सिंचाई की सलाह दी जाती है।"
+            w_reason_te = f"నీటి సరఫరా తక్కువగా ఉంది ({w_eff}% లభ్యత); బిందు సేద్యం సిఫారసు చేయబడింది."
+            w_reason_ml = f"ജലലഭ്യത കുറവാണ് ({w_eff}% ലഭ്യത); ഡ്രിപ്പ് ഇറിഗേഷൻ ശുപാർശ ചെയ്യുന്നു."
+
         if current_lang == "தமிழ்":
             reasons_list = [
                 f"{st_sp} மாநிலத்தில் {ssn_sp} பருவத்திற்கு உகந்த பயிர் தேர்வு.",
-                f"உங்கள் நிலத்தின் {soil_sp} மண் தன்மைக்கு மிகச் சிறந்த பொருத்தம்.",
+                f"உங்கள் நிலத்தின் {soil_sp} மண் தன்மைக்கு சிறந்த பொருத்தம்.",
                 f"சாகுபடி செலவு உங்கள் பட்ஜெட்டிற்குள் (₹{farmer_budget:,.0f}) அடங்கி, ₹{best_rec.get('net_profit', 0):,.0f} நிகர லாபம் ஈட்டக்கூடியது.",
-                "தண்ணீர் தேவை உங்களிடம் உள்ள நீர் அளவுக்குள் அடங்கி, குறைந்த நோய் அபாயம் கொண்டது."
+                w_reason_ta
             ]
         elif current_lang == "हिन्दी":
             reasons_list = [
                 f"{st_sp} राज्य में {ssn_sp} मौसम के लिए सबसे उपयुक्त फसल।",
                 f"आपके खेत की {soil_sp} मिट्टी के लिए अत्यधिक अनुकूल।",
                 f"खेती लागत आपके ₹{farmer_budget:,.0f} बजट के भीतर है और ₹{best_rec.get('net_profit', 0):,.0f} शुद्ध लाभ संभव है।",
-                "जल की मांग उपलब्ध जल के अनुसार है एवं मौसम व रोग का जोखिम कम है।"
+                w_reason_hi
             ]
         elif current_lang == "తెలుగు":
             reasons_list = [
                 f"{st_sp} రాష్ట్రంలో {ssn_sp} కాలానికి అత్యంత అనుకూలమైన పంట.",
                 f"మీ పొలంలోని {soil_sp} నేల రకానికి ఎంతో అనుకూలం.",
                 f"సాగు ఖర్చు మీ ₹{farmer_budget:,.0f} బడ్జెట్‌కు సరిపోతుంది మరియు ₹{best_rec.get('net_profit', 0):,.0f} నికర లాభం సాధించవచ్చు.",
-                "నీటి అవసరం మీ లభ్యతకు అనుగుణంగా ఉంది మరియు తెగుళ్ల ముప్పు తక్కువ."
+                w_reason_te
             ]
         elif current_lang == "മലയാളം":
             reasons_list = [
                 f"{st_sp} സംസ്ഥാനത്ത് {ssn_sp} സീസണിന് ഏറ്റവും അനുയോജ്യമായ വിള.",
                 f"നിങ്ങളുടെ കൃഷിയിടത്തിലെ {soil_sp} മണ്ണിന് ഏറ്റവും യോജിച്ചത്.",
                 f"കൃഷിച്ചെലവ് നിങ്ങളുടെ ₹{farmer_budget:,.0f} ബജറ്റിൽ ഒതുങ്ങുന്നതും ₹{best_rec.get('net_profit', 0):,.0f} അറ്റാദായം നൽകുന്നതുമാണ്.",
-                "ജല ലഭ്യതയ്ക്ക് അനുയോജ്യമായതും രോഗസാധ്യത കുറഞ്ഞതുമാണ്."
+                w_reason_ml
             ]
         else:
             reasons_list = [
                 f"Optimal agro-climatic fit for {ssn_sp} season in {st_sp}.",
                 f"Highly compatible with your farm's {soil_sp} soil profile.",
                 f"Cultivation cost fits within your ₹{farmer_budget:,.0f} budget with projected ₹{best_rec.get('net_profit', 0):,.0f} net margin.",
-                "Water demand matches your supply with low climate and disease risk."
+                w_reason_en
             ]
 
         r_cols = st.columns(2)

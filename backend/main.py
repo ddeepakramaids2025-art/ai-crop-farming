@@ -71,13 +71,14 @@ STATE_CROPS_PREFERENCE = {
 
 # Soil Suitability Multipliers
 SOIL_AFFINITY = {
-    "Red Soil": {"Groundnut": 1.35, "Maize": 1.25, "Tomato": 1.25, "Cotton": 1.20, "Sesamum": 1.20, "Bajra": 1.15, "Onion": 1.15, "Urad": 1.10, "Moong": 1.10, "Paddy": 0.85, "Wheat": 0.80},
-    "Black Soil": {"Cotton": 1.40, "Soyabean": 1.35, "Sugarcane": 1.30, "Jowar": 1.25, "Gram": 1.25, "Onion": 1.20, "Wheat": 1.15, "Paddy": 1.10, "Groundnut": 0.90, "Bajra": 0.85},
-    "Alluvial": {"Wheat": 1.35, "Paddy": 1.35, "Sugarcane": 1.30, "Potato": 1.30, "Mustard": 1.25, "Maize": 1.20, "Tomato": 1.15, "Gram": 1.10},
-    "Loamy Soil": {"Tomato": 1.30, "Wheat": 1.30, "Maize": 1.25, "Groundnut": 1.25, "Onion": 1.25, "Paddy": 1.20, "Mustard": 1.20, "Gram": 1.15, "Moong": 1.15},
-    "Sandy Soil": {"Bajra": 1.40, "Groundnut": 1.30, "Mustard": 1.25, "Sesamum": 1.25, "Potato": 1.15, "Gram": 1.05, "Paddy": 0.60, "Sugarcane": 0.60},
-    "Clay Soil": {"Paddy": 1.45, "Sugarcane": 1.35, "Cotton": 1.20, "Wheat": 1.10, "Groundnut": 0.70, "Potato": 0.65},
-    "Laterite Soil": {"Groundnut": 1.30, "Sesamum": 1.25, "Paddy": 1.15, "Tomato": 1.15, "Maize": 1.10, "Cotton": 0.80}
+    "Red Soil": {"Groundnut": 1.30, "Maize": 1.25, "Cotton": 1.20, "Sesamum": 1.20, "Tomato": 1.20, "Urad": 1.20, "Moong": 1.20, "Bajra": 1.15, "Jowar": 1.15, "Onion": 1.10, "Paddy": 0.65, "Wheat": 0.70, "Sugarcane": 0.75, "Soyabean": 0.85, "Potato": 0.90, "Mustard": 0.85, "Gram": 0.90},
+    "Black Soil": {"Cotton": 1.35, "Soyabean": 1.30, "Sugarcane": 1.20, "Jowar": 1.25, "Gram": 1.20, "Onion": 1.15, "Wheat": 1.15, "Paddy": 1.05, "Maize": 1.05, "Groundnut": 0.80, "Bajra": 0.75, "Sesamum": 0.80, "Potato": 0.70, "Mustard": 0.85},
+    "Alluvial": {"Wheat": 1.35, "Paddy": 1.30, "Sugarcane": 1.25, "Potato": 1.30, "Mustard": 1.25, "Maize": 1.20, "Tomato": 1.15, "Gram": 1.15, "Onion": 1.15, "Moong": 1.10, "Urad": 1.10, "Bajra": 0.85, "Cotton": 0.95},
+    "Loamy Soil": {"Tomato": 1.30, "Potato": 1.25, "Onion": 1.25, "Wheat": 1.25, "Maize": 1.25, "Groundnut": 1.20, "Paddy": 1.15, "Gram": 1.15, "Mustard": 1.15, "Moong": 1.15, "Urad": 1.15, "Soyabean": 1.15, "Cotton": 1.10, "Sugarcane": 1.15, "Bajra": 1.10, "Sesamum": 1.15, "Jowar": 1.10},
+    "Sandy Soil": {"Bajra": 1.30, "Groundnut": 1.25, "Mustard": 1.20, "Sesamum": 1.20, "Potato": 1.10, "Moong": 1.05, "Gram": 1.0, "Maize": 0.80, "Tomato": 0.75, "Onion": 0.75, "Cotton": 0.65, "Wheat": 0.60, "Sugarcane": 0.45, "Paddy": 0.35, "Soyabean": 0.50, "Jowar": 0.75},
+    "Clay Soil": {"Paddy": 1.35, "Sugarcane": 1.25, "Wheat": 1.15, "Cotton": 1.10, "Soyabean": 1.10, "Jowar": 1.05, "Groundnut": 0.40, "Potato": 0.45, "Bajra": 0.50, "Sesamum": 0.55, "Tomato": 0.70, "Onion": 0.70, "Maize": 0.80, "Mustard": 0.80, "Gram": 0.85},
+    "Laterite Soil": {"Groundnut": 1.20, "Sesamum": 1.15, "Paddy": 1.05, "Tomato": 1.05, "Maize": 1.05, "Moong": 1.05, "Cotton": 0.70, "Wheat": 0.60, "Sugarcane": 0.75, "Potato": 0.80, "Bajra": 0.75},
+    "Other": {"Maize": 1.05, "Bajra": 1.05, "Jowar": 1.0}
 }
 
 class PredictionRequest(BaseModel):
