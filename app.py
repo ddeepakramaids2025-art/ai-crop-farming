@@ -1472,22 +1472,8 @@ else:
     # Check if a prediction exists
     prediction = st.session_state.get("prediction_result")
 
-    # If a prediction exists and the user alters the State, District, Season, Soil, Land, Budget, or Water:
-    # Auto-recalculate immediately so the dashboard always reflects the selected state and current inputs!
-    inputs_changed = False
-    if prediction:
-        if (
-            prediction.get("state") != selected_state or
-            prediction.get("district") != selected_district or
-            prediction.get("season") != selected_season or
-            prediction.get("soil_type") != farmer_soil or
-            round(float(prediction.get("land_acres", 0)), 2) != round(float(farmer_land), 2) or
-            round(float(prediction.get("budget", 0)), 2) != round(float(farmer_budget), 2) or
-            round(float(prediction.get("water_litres", 0)), 2) != round(float(farmer_water), 2)
-        ):
-            inputs_changed = True
-
-    if predict_clicked or (prediction and inputs_changed):
+    # Only recalculate when the user explicitly clicks the button
+    if predict_clicked:
         with st.spinner("Calculating optimal recommendations..."):
             pred_data = run_local_prediction(
                 selected_state, selected_district, selected_season,
